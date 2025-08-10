@@ -9,7 +9,7 @@ on:
 
 permissions:
   contents: write
-  issues: write 
+  issues: write
 
 jobs:
   update_daily_papers:
@@ -38,8 +38,8 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zezhishao
-        email: 864453277@qq.com
+        name: thw1021
+        email: hwtangaero@foxmail.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
