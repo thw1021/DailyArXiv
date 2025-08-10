@@ -4,7 +4,7 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[DeepKoopFormer: A Koopman Enhanced Transformer Based Architecture for Time Series Forecasting](http://arxiv.org/abs/2508.02616v1)** | 2025-08-04 |  |
@@ -23,7 +23,7 @@ labels: documentation
 | **[Neural Predictive Control to Coordinate Discrete- and Continuous-Time Models for Time-Series Analysis with Control-Theoretical Improvements](http://arxiv.org/abs/2508.01833v1)** | 2025-08-03 | <details><summary>14 pa...</summary><p>14 pages, submitted to ACM SIGKDD Conference on Knowledge Discovery and Data Mining</p></details> |
 | **[Informed Forecasting: Leveraging Auxiliary Knowledge to Boost LLM Performance on Time Series Forecasting](http://arxiv.org/abs/2505.10213v2)** | 2025-08-03 |  |
 
-## Trajectory
+## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[User Trajectory Prediction Unifying Global and Local Temporal Information](http://arxiv.org/abs/2508.02161v1)** | 2025-08-04 |  |
@@ -42,7 +42,7 @@ labels: documentation
 | **[OmniTraj: Pre-Training on Heterogeneous Data for Adaptive and Zero-Shot Human Trajectory Prediction](http://arxiv.org/abs/2507.23657v1)** | 2025-07-31 |  |
 | **[PatchTraj: Unified Time-Frequency Representation Learning via Dynamic Patches for Trajectory Prediction](http://arxiv.org/abs/2507.19119v3)** | 2025-07-31 |  |
 
-## Graph Neural Networks
+## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Entity Representation Learning Through Onsite-Offsite Graph for Pinterset Ads](http://arxiv.org/abs/2508.02609v1)** | 2025-08-04 |  |
@@ -61,3 +61,4 @@ labels: documentation
 | **[Path-LLM: A Shortest-Path-based LLM Learning for Unified Graph Representation](http://arxiv.org/abs/2408.05456v2)** | 2025-08-03 | 15 pages, 12 figures |
 | **[Unsupervised Learning for the Elementary Shortest Path Problem](http://arxiv.org/abs/2508.01557v1)** | 2025-08-03 |  |
 
+## Dynamical System
