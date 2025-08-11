@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2025
+title: Latest 15 Papers - August 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Monolithic Multi-level Overlapping Schwarz Solvers for Fluid Problems](http://arxiv.org/abs/2508.04356v2)** | 2025-08-08 | <details><summary>GAMM9...</summary><p>GAMM95; fixed typo in metadata</p></details> |
+| **[Optimal Linear Baseline Models for Scientific Machine Learning](http://arxiv.org/abs/2508.05831v1)** | 2025-08-07 | <details><summary>40 pa...</summary><p>40 pages, 10 Figures, 9 Tables</p></details> |
 | **[Data-driven control of a magnetohydrodynamic flow](http://arxiv.org/abs/2507.12479v2)** | 2025-08-07 | <details><summary>21 pa...</summary><p>21 pages, 7 figures; name changed, added references, polished language, expanded appendix</p></details> |
-| **[Monolithic Multi-level Overlapping Schwarz Solvers for Fluid Problems](http://arxiv.org/abs/2508.04356v1)** | 2025-08-06 | GAMM95 |
 | **[Fully implicit timestepping methods for the rotating shallow water equations](http://arxiv.org/abs/2508.02358v1)** | 2025-08-04 |  |
 | **[Adaptive Mesh Refinement for Two-Phase Viscoelastic Fluid Mixture Models](http://arxiv.org/abs/2409.19974v3)** | 2025-08-01 |  |
 | **[A Multi-physics Model of Flow from Coronary Angiography: Insights to Microvascular Function](http://arxiv.org/abs/2412.04798v2)** | 2025-07-31 | 29 pages, 14 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Mean flow data assimilation using physics-constrained Graph Neural Networks](http://arxiv.org/abs/2411.09476v3)** | 2025-07-25 |  |
 | **[On zero-order consistency residue and background pressure for the conservative SPH fluid dynamics](http://arxiv.org/abs/2507.18210v1)** | 2025-07-24 | <details><summary>50 pa...</summary><p>50 pages and 27 figures and 6 tables</p></details> |
 | **[Reinforcement Learning for Accelerated Aerodynamic Shape Optimisation](http://arxiv.org/abs/2507.17786v1)** | 2025-07-23 |  |
-| **[A deterministic-particle-based scheme for micro-macro viscoelastic flows](http://arxiv.org/abs/2112.10970v8)** | 2025-07-23 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Collocation Point Strategies For Physics Informed Neural Networks via the QR Discrete Empirical Interpolation Method](http://arxiv.org/abs/2501.07700v4)** | 2025-08-07 |  |
 | **[Convolutional autoencoders for the reconstruction of three-dimensional interfacial multiphase flows](http://arxiv.org/abs/2508.04084v1)** | 2025-08-06 |  |
 | **[POD-based reduced order modeling of global-in-time iterative decoupled algorithms for Biot's consolidation model](http://arxiv.org/abs/2508.04082v1)** | 2025-08-06 |  |
 | **[A parameterized Wasserstein Hamiltonian flow approach for solving the Schrödinger equation](http://arxiv.org/abs/2505.11762v2)** | 2025-08-05 |  |
@@ -59,11 +60,16 @@ labels: documentation
 | **[Data-Driven Model Order Reduction for Continuous- and Discrete-Time Nonlinear Systems](http://arxiv.org/abs/2507.18131v1)** | 2025-07-24 |  |
 | **[Inverse scattering for Schrödinger equation in the frequency domain via data-driven reduced order modeling](http://arxiv.org/abs/2503.11034v2)** | 2025-07-23 |  |
 | **[A reduced-order model for segregated fluid-structure interaction solvers based on an ALE approach](http://arxiv.org/abs/2305.13613v3)** | 2025-07-23 |  |
-| **[Modeling Advection-Dominated Flows with Space-Local Reduced-Order Models](http://arxiv.org/abs/2409.08793v2)** | 2025-07-22 | <details><summary>30 pa...</summary><p>30 pages, 13 figures, source code can be found at https://github.com/tobyvg/local_POD_overlap.jl</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continuous-time Data-driven Barrier Certificate Synthesis](http://arxiv.org/abs/2503.13392v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at CDC 2025. arXiv admin note: text overlap with arXiv:2502.05510</p></details> |
+| **[Observability and Generalized Sensor Placement for Nonlinear Quality Models in Drinking Water Networks](http://arxiv.org/abs/2411.04202v5)** | 2025-08-08 |  |
+| **[Parallelized computation of quasi-periodic solutions for finite element problems: A Fourier series expansion-based shooting method](http://arxiv.org/abs/2508.06302v1)** | 2025-08-08 | 49 pages, 23 figures |
+| **[Data-Driven Density Steering via the Gromov-Wasserstein Optimal Transport Distance](http://arxiv.org/abs/2508.06052v1)** | 2025-08-08 | <details><summary>To be...</summary><p>To be presented at the IEEE CDC, Rio de Janeiro, 2025</p></details> |
+| **[Machine Learning-Based Nonlinear Nudging for Chaotic Dynamical Systems](http://arxiv.org/abs/2508.05778v1)** | 2025-08-07 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 6 tables</p></details> |
+| **[Bayesian Gaussian Process ODEs via Double Normalizing Flows](http://arxiv.org/abs/2309.09222v3)** | 2025-08-07 |  |
 | **[A Time Splitting Based Optimization Method for Nonlinear MHE](http://arxiv.org/abs/2503.23324v2)** | 2025-08-07 |  |
 | **[TANGO: Graph Neural Dynamics via Learned Energy and Tangential Flows](http://arxiv.org/abs/2508.05070v1)** | 2025-08-07 |  |
 | **[Probabilistic Alternating Simulations for Policy Synthesis in Uncertain Stochastic Dynamical Systems](http://arxiv.org/abs/2508.05062v1)** | 2025-08-07 | <details><summary>Prese...</summary><p>Presented at CDC 2025</p></details> |
@@ -73,10 +79,4 @@ labels: documentation
 | **[Streaming Generated Gaussian Process Experts for Online Learning and Control](http://arxiv.org/abs/2508.03679v2)** | 2025-08-06 |  |
 | **[Extreme Event Precursor Prediction in Turbulent Dynamical Systems via CNN-Augmented Recurrence Analysis](http://arxiv.org/abs/2508.04301v1)** | 2025-08-06 |  |
 | **[The Glider Equation for Asymptotic Lenia](http://arxiv.org/abs/2508.04167v1)** | 2025-08-06 |  |
-| **[Coded Kalman Filtering over MIMO Gaussian Channels with Feedback](http://arxiv.org/abs/2406.17196v2)** | 2025-08-05 | <details><summary>Submi...</summary><p>Submitted for review at IEEE Transactions on Automatic Control</p></details> |
-| **[SINDyG: Sparse Identification of Nonlinear Dynamical Systems from Graph-Structured Data, with Applications to Stuart-Landau Oscillator Networks](http://arxiv.org/abs/2409.04463v4)** | 2025-08-05 |  |
-| **[Control Closure Certificates](http://arxiv.org/abs/2508.03947v1)** | 2025-08-05 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 6 Tables. To appear in International Symposium on Automated Technology for Verification and Analysis (ATVA), 2025</p></details> |
-| **[Variety Is the Spice of Life: Detecting Misinformation with Dynamic Environmental Representations](http://arxiv.org/abs/2508.03420v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by CIKM 2025. 11 pages, 4 figures. Code: https://github.com/wangbing1416/MISDER</p></details> |
-| **[Safety-Aware Imitation Learning via MPC-Guided Disturbance Injection](http://arxiv.org/abs/2508.03129v1)** | 2025-08-05 |  |
-| **[A Compression Based Classification Framework Using Symbolic Dynamics of Chaotic Maps](http://arxiv.org/abs/2508.02330v2)** | 2025-08-05 | 4 figures, 3 tables |
 
