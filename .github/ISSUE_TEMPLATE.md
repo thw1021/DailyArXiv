@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2025
+title: Latest 15 Papers - August 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,10 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Solving multiscale dynamical systems by deep learning](http://arxiv.org/abs/2401.01220v3)** | 2025-08-13 | 18 pages, 6 figures |
+| **[TRACE: Learning 3D Gaussian Physical Dynamics from Multi-view Videos](http://arxiv.org/abs/2508.09811v1)** | 2025-08-13 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code and data are available at: https://github.com/vLAR-group/TRACE</p></details> |
+| **[Reservoir Computing with Evolved Critical Neural Cellular Automata](http://arxiv.org/abs/2508.02218v2)** | 2025-08-13 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, accepted at Artificial Life conference 2025</p></details> |
+| **[SINDyG: Sparse Identification of Nonlinear Dynamical Systems from Graph-Structured Data, with Applications to Stuart-Landau Oscillator Networks](http://arxiv.org/abs/2409.04463v5)** | 2025-08-13 |  |
 | **[A Review On Safe Reinforcement Learning Using Lyapunov and Barrier Functions](http://arxiv.org/abs/2508.09128v1)** | 2025-08-12 | <details><summary>pages...</summary><p>pages - 19, figures - 9, Submitted to IEEE Access</p></details> |
 | **[Bio-Inspired Artificial Neural Networks based on Predictive Coding](http://arxiv.org/abs/2508.08762v1)** | 2025-08-12 |  |
 | **[Data-Driven Certificate Synthesis](http://arxiv.org/abs/2502.05510v3)** | 2025-08-12 | <details><summary>18 pa...</summary><p>18 pages, submitted to Automatica</p></details> |
@@ -75,8 +79,4 @@ labels: documentation
 | **[Stochastic dynamics learning with state-space systems](http://arxiv.org/abs/2508.07876v1)** | 2025-08-11 |  |
 | **[Forecasting Continuous Non-Conservative Dynamical Systems in SO(3)](http://arxiv.org/abs/2508.07775v1)** | 2025-08-11 | ICCV 2025 Oral |
 | **[Fast and Accurate Emulation of Complex Dynamic Simulators](http://arxiv.org/abs/2503.20250v2)** | 2025-08-11 | <details><summary>23 pa...</summary><p>23 pages including references</p></details> |
-| **[Time Marching Neural Operator FE Coupling: AI Accelerated Physics Modeling](http://arxiv.org/abs/2504.11383v4)** | 2025-08-11 |  |
-| **[When and how can inexact generative models still sample from the data manifold?](http://arxiv.org/abs/2508.07581v1)** | 2025-08-11 |  |
-| **[Randomized coordinate gradient descent almost surely escapes strict saddle points](http://arxiv.org/abs/2508.07535v1)** | 2025-08-11 |  |
-| **[Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics](http://arxiv.org/abs/2508.07326v1)** | 2025-08-10 |  |
 
