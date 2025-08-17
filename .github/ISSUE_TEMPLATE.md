@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 15, 2025
+title: Latest 15 Papers - August 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](http://arxiv.org/abs/2508.10454v1)** | 2025-08-14 | 22 pages, 6 figures |
 | **[Weighted Proper Orthogonal Decomposition for High-Dimensional Optimization](http://arxiv.org/abs/2508.09084v1)** | 2025-08-12 | 26 pages, 7 figures |
 | **[COMponent-Aware Pruning for Accelerated Control Tasks in Latent Space Models](http://arxiv.org/abs/2508.08144v1)** | 2025-08-11 | <details><summary>Submi...</summary><p>Submitted in: The 2026 IEEE/SICE International Symposium on System Integration (SII 2026)</p></details> |
 | **[Efficient data-driven regression for reduced-order modeling of spatial pattern formation](http://arxiv.org/abs/2508.06833v1)** | 2025-08-09 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[PySHRED: A Python package for SHallow REcurrent Decoding for sparse sensing, model reduction and scientific discovery](http://arxiv.org/abs/2507.20954v1)** | 2025-07-28 | 15 pages, 9 figures |
 | **[Operator Inference Aware Quadratic Manifolds with Isotropic Reduced Coordinates for Nonintrusive Model Reduction](http://arxiv.org/abs/2507.20463v1)** | 2025-07-28 | 23 pages, 8 figures |
 | **[Symmetry-reduced model reduction of shift-equivariant systems via operator inference](http://arxiv.org/abs/2507.18780v1)** | 2025-07-24 | <details><summary>30 pa...</summary><p>30 pages, 7 figures. Orally presented at the SIAM Conference on Applications of Dynamical Systems (SIAM DS25). Submitted to Advances in Computational Mathematics (ACOM)</p></details> |
-| **[Exact Model Reduction for Continuous-Time Open Quantum Dynamics](http://arxiv.org/abs/2412.05102v3)** | 2025-07-23 |  |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comparison of Data Reduction Criteria for Online Gaussian Processes](http://arxiv.org/abs/2508.10815v1)** | 2025-08-14 | 12 pages |
+| **[Learning State-Space Models of Dynamic Systems from Arbitrary Data using Joint Embedding Predictive Architectures](http://arxiv.org/abs/2508.10489v1)** | 2025-08-14 | <details><summary>6 Pag...</summary><p>6 Pages, Published in IFAC Joint Symposia on Mechatronics & Robotics 2025</p></details> |
+| **[Multiple Reachability in Linear Dynamical Systems](http://arxiv.org/abs/2403.06515v2)** | 2025-08-14 |  |
+| **[A tensor-based dynamic mode decomposition based on the $\star_{\boldsymbol{M}}$-product](http://arxiv.org/abs/2508.10126v1)** | 2025-08-13 |  |
 | **[Solving multiscale dynamical systems by deep learning](http://arxiv.org/abs/2401.01220v3)** | 2025-08-13 | 18 pages, 6 figures |
 | **[TRACE: Learning 3D Gaussian Physical Dynamics from Multi-view Videos](http://arxiv.org/abs/2508.09811v1)** | 2025-08-13 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code and data are available at: https://github.com/vLAR-group/TRACE</p></details> |
 | **[Reservoir Computing with Evolved Critical Neural Cellular Automata](http://arxiv.org/abs/2508.02218v2)** | 2025-08-13 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, accepted at Artificial Life conference 2025</p></details> |
@@ -75,8 +79,4 @@ labels: documentation
 | **[To Judge or not to Judge: Using LLM Judgements for Advertiser Keyphrase Relevance at eBay](http://arxiv.org/abs/2505.04209v3)** | 2025-08-12 |  |
 | **[Toward Optimal Statistical Inference in Noisy Linear Quadratic Reinforcement Learning over a Finite Horizon](http://arxiv.org/abs/2508.08436v1)** | 2025-08-11 |  |
 | **[Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning](http://arxiv.org/abs/2503.08029v2)** | 2025-08-11 |  |
-| **[ADAM-SINDy: An Efficient Optimization Framework for Parameterized Nonlinear Dynamical System Identification](http://arxiv.org/abs/2410.16528v3)** | 2025-08-11 |  |
-| **[Stochastic dynamics learning with state-space systems](http://arxiv.org/abs/2508.07876v1)** | 2025-08-11 |  |
-| **[Forecasting Continuous Non-Conservative Dynamical Systems in SO(3)](http://arxiv.org/abs/2508.07775v1)** | 2025-08-11 | ICCV 2025 Oral |
-| **[Fast and Accurate Emulation of Complex Dynamic Simulators](http://arxiv.org/abs/2503.20250v2)** | 2025-08-11 | <details><summary>23 pa...</summary><p>23 pages including references</p></details> |
 
