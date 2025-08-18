@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2025
+title: Latest 15 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,14 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fluid Dynamics and Domain Reconstruction from Noisy Flow Images Using Physics-Informed Neural Networks and Quasi-Conformal Mapping](http://arxiv.org/abs/2508.11216v1)** | 2025-08-15 |  |
 | **[OmniFluids: Physics Pre-trained Modeling of Fluid Dynamics](http://arxiv.org/abs/2506.10862v2)** | 2025-08-09 |  |
 | **[Diffeomorphic Neural Operator Learning](http://arxiv.org/abs/2508.06690v1)** | 2025-08-08 |  |
 | **[Monolithic Multi-level Overlapping Schwarz Solvers for Fluid Problems](http://arxiv.org/abs/2508.04356v2)** | 2025-08-08 | <details><summary>GAMM9...</summary><p>GAMM95; fixed typo in metadata</p></details> |
 | **[Optimal Linear Baseline Models for Scientific Machine Learning](http://arxiv.org/abs/2508.05831v1)** | 2025-08-07 | <details><summary>40 pa...</summary><p>40 pages, 10 Figures, 9 Tables</p></details> |
 | **[Data-driven control of a magnetohydrodynamic flow](http://arxiv.org/abs/2507.12479v2)** | 2025-08-07 | <details><summary>21 pa...</summary><p>21 pages, 7 figures; name changed, added references, polished language, expanded appendix</p></details> |
 | **[Fully implicit timestepping methods for the rotating shallow water equations](http://arxiv.org/abs/2508.02358v1)** | 2025-08-04 |  |
+| **[Insect-Wing Structured Microfluidic System for Reservoir Computing](http://arxiv.org/abs/2508.10915v1)** | 2025-08-01 |  |
 | **[Adaptive Mesh Refinement for Two-Phase Viscoelastic Fluid Mixture Models](http://arxiv.org/abs/2409.19974v3)** | 2025-08-01 |  |
 | **[A Multi-physics Model of Flow from Coronary Angiography: Insights to Microvascular Function](http://arxiv.org/abs/2412.04798v2)** | 2025-07-31 | 29 pages, 14 figures |
 | **[Wall Shear Stress Estimation in Abdominal Aortic Aneurysms: Towards Generalisable Neural Surrogate Models](http://arxiv.org/abs/2507.22817v1)** | 2025-07-30 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[diffSPH: Differentiable Smoothed Particle Hydrodynamics for Adjoint Optimization and Machine Learning](http://arxiv.org/abs/2507.21684v1)** | 2025-07-29 |  |
 | **[Efficient Adjoint Petrov-Galerkin Reduced Order Models for fluid flows governed by the incompressible Navier-Stokes equations](http://arxiv.org/abs/2507.20739v1)** | 2025-07-28 |  |
 | **[Shape Invariant 3D-Variational Autoencoder: Super Resolution in Turbulence flow](http://arxiv.org/abs/2507.22082v1)** | 2025-07-26 |  |
-| **[Quasi Steady-State Frequency](http://arxiv.org/abs/2505.21461v2)** | 2025-07-25 |  |
-| **[Mean flow data assimilation using physics-constrained Graph Neural Networks](http://arxiv.org/abs/2411.09476v3)** | 2025-07-25 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nested Operator Inference for Adaptive Data-Driven Learning of Reduced-order Models](http://arxiv.org/abs/2508.11542v1)** | 2025-08-15 |  |
 | **[Efficient data-driven regression for reduced-order modeling of spatial pattern formation](http://arxiv.org/abs/2508.06833v1)** | 2025-08-09 |  |
 | **[Adaptive Collocation Point Strategies For Physics Informed Neural Networks via the QR Discrete Empirical Interpolation Method](http://arxiv.org/abs/2501.07700v4)** | 2025-08-07 |  |
 | **[Convolutional autoencoders for the reconstruction of three-dimensional interfacial multiphase flows](http://arxiv.org/abs/2508.04084v1)** | 2025-08-06 |  |
@@ -59,24 +60,23 @@ labels: documentation
 | **[PySHRED: A Python package for SHallow REcurrent Decoding for sparse sensing, model reduction and scientific discovery](http://arxiv.org/abs/2507.20954v1)** | 2025-07-28 | 15 pages, 9 figures |
 | **[Efficient Adjoint Petrov-Galerkin Reduced Order Models for fluid flows governed by the incompressible Navier-Stokes equations](http://arxiv.org/abs/2507.20739v1)** | 2025-07-28 |  |
 | **[Symmetry-reduced model reduction of shift-equivariant systems via operator inference](http://arxiv.org/abs/2507.18780v1)** | 2025-07-24 | <details><summary>30 pa...</summary><p>30 pages, 7 figures. Orally presented at the SIAM Conference on Applications of Dynamical Systems (SIAM DS25). Submitted to Advances in Computational Mathematics (ACOM)</p></details> |
-| **[Data-Driven Model Order Reduction for Continuous- and Discrete-Time Nonlinear Systems](http://arxiv.org/abs/2507.18131v1)** | 2025-07-24 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nonparametric learning of stochastic differential equations from sparse and noisy data](http://arxiv.org/abs/2508.11597v1)** | 2025-08-15 | 35 pages, 6 figures |
+| **[Nested Operator Inference for Adaptive Data-Driven Learning of Reduced-order Models](http://arxiv.org/abs/2508.11542v1)** | 2025-08-15 |  |
+| **[Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity](http://arxiv.org/abs/2508.11436v1)** | 2025-08-15 |  |
+| **[Robust Convolution Neural ODEs via Contractivity-promoting regularization](http://arxiv.org/abs/2508.11432v1)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted in IEEE CDC2025, Rio de Janeiro, Brazil</p></details> |
+| **[A Computationally Efficient Maximum A Posteriori Sequence Estimation via Stein Variational Inference](http://arxiv.org/abs/2312.08684v3)** | 2025-08-15 | 14 pages |
+| **[Meta-learning Structure-Preserving Dynamics](http://arxiv.org/abs/2508.11205v1)** | 2025-08-15 |  |
+| **[Incorporating Coupling Knowledge into Echo State Networks for Learning Spatiotemporally Chaotic Dynamics](http://arxiv.org/abs/2504.01532v2)** | 2025-08-15 | 20 pages, 13 figures |
+| **[LETS Forecast: Learning Embedology for Time Series Forecasting](http://arxiv.org/abs/2506.06454v2)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML) 2025</p></details> |
+| **[Adaptive Bayesian Optimization for Robust Identification of Stochastic Dynamical Systems](http://arxiv.org/abs/2503.06381v2)** | 2025-08-14 |  |
 | **[Comparison of Data Reduction Criteria for Online Gaussian Processes](http://arxiv.org/abs/2508.10815v1)** | 2025-08-14 | 12 pages |
 | **[Learning State-Space Models of Dynamic Systems from Arbitrary Data using Joint Embedding Predictive Architectures](http://arxiv.org/abs/2508.10489v1)** | 2025-08-14 | <details><summary>6 Pag...</summary><p>6 Pages, Published in IFAC Joint Symposia on Mechatronics & Robotics 2025</p></details> |
 | **[Multiple Reachability in Linear Dynamical Systems](http://arxiv.org/abs/2403.06515v2)** | 2025-08-14 |  |
 | **[A tensor-based dynamic mode decomposition based on the $\star_{\boldsymbol{M}}$-product](http://arxiv.org/abs/2508.10126v1)** | 2025-08-13 |  |
 | **[Solving multiscale dynamical systems by deep learning](http://arxiv.org/abs/2401.01220v3)** | 2025-08-13 | 18 pages, 6 figures |
 | **[TRACE: Learning 3D Gaussian Physical Dynamics from Multi-view Videos](http://arxiv.org/abs/2508.09811v1)** | 2025-08-13 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code and data are available at: https://github.com/vLAR-group/TRACE</p></details> |
-| **[Reservoir Computing with Evolved Critical Neural Cellular Automata](http://arxiv.org/abs/2508.02218v2)** | 2025-08-13 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, accepted at Artificial Life conference 2025</p></details> |
-| **[SINDyG: Sparse Identification of Nonlinear Dynamical Systems from Graph-Structured Data, with Applications to Stuart-Landau Oscillator Networks](http://arxiv.org/abs/2409.04463v5)** | 2025-08-13 |  |
-| **[A Review On Safe Reinforcement Learning Using Lyapunov and Barrier Functions](http://arxiv.org/abs/2508.09128v1)** | 2025-08-12 | <details><summary>pages...</summary><p>pages - 19, figures - 9, Submitted to IEEE Access</p></details> |
-| **[Bio-Inspired Artificial Neural Networks based on Predictive Coding](http://arxiv.org/abs/2508.08762v1)** | 2025-08-12 |  |
-| **[Data-Driven Certificate Synthesis](http://arxiv.org/abs/2502.05510v3)** | 2025-08-12 | <details><summary>18 pa...</summary><p>18 pages, submitted to Automatica</p></details> |
-| **[Identifiability of linear stochastic state-space models with application to ecology](http://arxiv.org/abs/2508.08714v1)** | 2025-08-12 |  |
-| **[To Judge or not to Judge: Using LLM Judgements for Advertiser Keyphrase Relevance at eBay](http://arxiv.org/abs/2505.04209v3)** | 2025-08-12 |  |
-| **[Toward Optimal Statistical Inference in Noisy Linear Quadratic Reinforcement Learning over a Finite Horizon](http://arxiv.org/abs/2508.08436v1)** | 2025-08-11 |  |
-| **[Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning](http://arxiv.org/abs/2503.08029v2)** | 2025-08-11 |  |
 
