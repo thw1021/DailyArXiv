@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2025
+title: Latest 15 Papers - August 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OpenLB-UQ: An Uncertainty Quantification Framework for Incompressible Fluid Flow Simulations](http://arxiv.org/abs/2508.13867v1)** | 2025-08-19 |  |
 | **[Fluid Dynamics and Domain Reconstruction from Noisy Flow Images Using Physics-Informed Neural Networks and Quasi-Conformal Mapping](http://arxiv.org/abs/2508.11216v1)** | 2025-08-15 |  |
 | **[OmniFluids: Physics Pre-trained Modeling of Fluid Dynamics](http://arxiv.org/abs/2506.10862v2)** | 2025-08-09 |  |
 | **[Diffeomorphic Neural Operator Learning](http://arxiv.org/abs/2508.06690v1)** | 2025-08-08 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Towards Experiment Execution in Support of Community Benchmark Workflows for HPC](http://arxiv.org/abs/2507.22294v1)** | 2025-07-30 |  |
 | **[diffSPH: Differentiable Smoothed Particle Hydrodynamics for Adjoint Optimization and Machine Learning](http://arxiv.org/abs/2507.21684v1)** | 2025-07-29 |  |
 | **[Efficient Adjoint Petrov-Galerkin Reduced Order Models for fluid flows governed by the incompressible Navier-Stokes equations](http://arxiv.org/abs/2507.20739v1)** | 2025-07-28 |  |
-| **[Shape Invariant 3D-Variational Autoencoder: Super Resolution in Turbulence flow](http://arxiv.org/abs/2507.22082v1)** | 2025-07-26 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stokes-Brinkman-Darcy models for fluid-porous systems: derivation, analysis and validation](http://arxiv.org/abs/2404.16577v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, Published in Applied Mathematics and Computation, 2025, DOI:/10.1016/j.amc.2025.129687</p></details> |
+| **[Power-Series Approach to Moment-Matching-Based Model Reduction of MIMO Polynomial Nonlinear Systems](http://arxiv.org/abs/2508.13595v1)** | 2025-08-19 |  |
 | **[Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](http://arxiv.org/abs/2508.10454v1)** | 2025-08-14 | 22 pages, 6 figures |
 | **[Weighted Proper Orthogonal Decomposition for High-Dimensional Optimization](http://arxiv.org/abs/2508.09084v1)** | 2025-08-12 | 26 pages, 7 figures |
 | **[COMponent-Aware Pruning for Accelerated Control Tasks in Latent Space Models](http://arxiv.org/abs/2508.08144v1)** | 2025-08-11 | <details><summary>Submi...</summary><p>Submitted in: The 2026 IEEE/SICE International Symposium on System Integration (SII 2026)</p></details> |
@@ -39,12 +41,11 @@ labels: documentation
 | **[Tensor-based reduction of linear parameter-varying state-space models](http://arxiv.org/abs/2507.23591v1)** | 2025-07-31 |  |
 | **[Structure-Preserving Discretization and Model Reduction for Energy-Based Models](http://arxiv.org/abs/2507.21552v1)** | 2025-07-29 | 20 pages, 5 figures |
 | **[PySHRED: A Python package for SHallow REcurrent Decoding for sparse sensing, model reduction and scientific discovery](http://arxiv.org/abs/2507.20954v1)** | 2025-07-28 | 15 pages, 9 figures |
-| **[Operator Inference Aware Quadratic Manifolds with Isotropic Reduced Coordinates for Nonintrusive Model Reduction](http://arxiv.org/abs/2507.20463v1)** | 2025-07-28 | 23 pages, 8 figures |
-| **[Symmetry-reduced model reduction of shift-equivariant systems via operator inference](http://arxiv.org/abs/2507.18780v1)** | 2025-07-24 | <details><summary>30 pa...</summary><p>30 pages, 7 figures. Orally presented at the SIAM Conference on Applications of Dynamical Systems (SIAM DS25). Submitted to Advances in Computational Mathematics (ACOM)</p></details> |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Power-Series Approach to Moment-Matching-Based Model Reduction of MIMO Polynomial Nonlinear Systems](http://arxiv.org/abs/2508.13595v1)** | 2025-08-19 |  |
 | **[Reduced-order modeling of Hamiltonian dynamics based on symplectic neural networks](http://arxiv.org/abs/2508.11911v1)** | 2025-08-16 |  |
 | **[Nested Operator Inference for Adaptive Data-Driven Learning of Reduced-order Models](http://arxiv.org/abs/2508.11542v1)** | 2025-08-15 |  |
 | **[Efficient data-driven regression for reduced-order modeling of spatial pattern formation](http://arxiv.org/abs/2508.06833v1)** | 2025-08-09 |  |
@@ -59,13 +60,17 @@ labels: documentation
 | **[Low-dimensional observer design for stable linear systems by model reduction](http://arxiv.org/abs/2508.00609v1)** | 2025-08-01 |  |
 | **[Enhancing material behavior discovery using embedding-oriented Physically-Guided Neural Networks with Internal Variables](http://arxiv.org/abs/2508.00959v1)** | 2025-08-01 |  |
 | **[PySHRED: A Python package for SHallow REcurrent Decoding for sparse sensing, model reduction and scientific discovery](http://arxiv.org/abs/2507.20954v1)** | 2025-07-28 | 15 pages, 9 figures |
-| **[Efficient Adjoint Petrov-Galerkin Reduced Order Models for fluid flows governed by the incompressible Navier-Stokes equations](http://arxiv.org/abs/2507.20739v1)** | 2025-07-28 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Joint Problems in Learning Multiple Dynamical Systems](http://arxiv.org/abs/2311.02181v4)** | 2025-08-19 |  |
+| **[A Hierarchical Surrogate Model for Efficient Multi-Task Parameter Learning in Closed-Loop Control](http://arxiv.org/abs/2508.12738v2)** | 2025-08-19 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted for CDC 2025</p></details> |
+| **[DyMixOp: Guiding Neural Operator Design for PDEs from a Complex Dynamics Perspective with Local-Global-Mixing](http://arxiv.org/abs/2508.13490v1)** | 2025-08-19 |  |
+| **[Accurate identification of communication between multiple interacting neural populations](http://arxiv.org/abs/2506.19094v2)** | 2025-08-18 |  |
+| **[Counterfactual Probabilistic Diffusion with Expert Models](http://arxiv.org/abs/2508.13355v1)** | 2025-08-18 |  |
+| **[Flow Matching-Based Generative Modeling for Efficient and Scalable Data Assimilation](http://arxiv.org/abs/2508.13313v1)** | 2025-08-18 |  |
 | **[On the Importance of Behavioral Nuances: Amplifying Non-Obvious Motor Noise Under True Empirical Considerations May Lead to Briefer Assays and Faster Classification Processes](http://arxiv.org/abs/2508.12742v1)** | 2025-08-18 | <details><summary>This ...</summary><p>This paper is under review in IEEE Transactions on Affective Computing</p></details> |
-| **[A Hierarchical Surrogate Model for Efficient Multi-Task Parameter Learning in Closed-Loop Contro](http://arxiv.org/abs/2508.12738v1)** | 2025-08-18 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted for CDC 2025</p></details> |
 | **[Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems](http://arxiv.org/abs/2508.12569v1)** | 2025-08-18 | 34 pages, 12 figures |
 | **[Root Cause Analysis of Hydrogen Bond Separation in Spatio-Temporal Molecular Dynamics using Causal Models](http://arxiv.org/abs/2508.12500v1)** | 2025-08-17 | Submitted to ACM |
 | **[Fast Algorithm for Moving Sound Source](http://arxiv.org/abs/2508.03065v2)** | 2025-08-17 |  |
@@ -74,9 +79,4 @@ labels: documentation
 | **[Regime-Aware Time Weighting for Physics-Informed Neural Networks](http://arxiv.org/abs/2407.21642v2)** | 2025-08-16 |  |
 | **[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](http://arxiv.org/abs/2502.00338v3)** | 2025-08-16 |  |
 | **[Universal Learning of Nonlinear Dynamics](http://arxiv.org/abs/2508.11990v1)** | 2025-08-16 |  |
-| **[Binomial maps: stochastically evolving iterated integer maps for finite population](http://arxiv.org/abs/2508.11974v1)** | 2025-08-16 | 6 pages, 4 figures |
-| **[Scale-Disentangled spatiotemporal Modeling for Long-term Traffic Emission Forecasting](http://arxiv.org/abs/2508.11923v1)** | 2025-08-16 |  |
-| **[Reduced-order modeling of Hamiltonian dynamics based on symplectic neural networks](http://arxiv.org/abs/2508.11911v1)** | 2025-08-16 |  |
-| **[A Free Probabilistic Framework for Analyzing the Transformer-based Language Models](http://arxiv.org/abs/2506.16550v3)** | 2025-08-15 |  |
-| **[Nonparametric learning of stochastic differential equations from sparse and noisy data](http://arxiv.org/abs/2508.11597v1)** | 2025-08-15 | 35 pages, 6 figures |
 
