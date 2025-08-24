@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2025
+title: Latest 15 Papers - August 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reduced basis solvers for unfitted methods on parameterized domains](http://arxiv.org/abs/2508.15320v1)** | 2025-08-21 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 5 tables</p></details> |
 | **[Stokes-Brinkman-Darcy models for fluid-porous systems: derivation, analysis and validation](http://arxiv.org/abs/2404.16577v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, Published in Applied Mathematics and Computation, 2025, DOI:/10.1016/j.amc.2025.129687</p></details> |
 | **[Power-Series Approach to Moment-Matching-Based Model Reduction of MIMO Polynomial Nonlinear Systems](http://arxiv.org/abs/2508.13595v1)** | 2025-08-19 |  |
 | **[Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](http://arxiv.org/abs/2508.10454v1)** | 2025-08-14 | 22 pages, 6 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Partial Floquet Transformation and Model Order Reduction of Linear Time-Periodic Systems](http://arxiv.org/abs/2508.00221v1)** | 2025-07-31 | 21 pages |
 | **[Tensor-based reduction of linear parameter-varying state-space models](http://arxiv.org/abs/2507.23591v1)** | 2025-07-31 |  |
 | **[Structure-Preserving Discretization and Model Reduction for Energy-Based Models](http://arxiv.org/abs/2507.21552v1)** | 2025-07-29 | 20 pages, 5 figures |
-| **[PySHRED: A Python package for SHallow REcurrent Decoding for sparse sensing, model reduction and scientific discovery](http://arxiv.org/abs/2507.20954v1)** | 2025-07-28 | 15 pages, 9 figures |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,15 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Joint Problems in Learning Multiple Dynamical Systems](http://arxiv.org/abs/2311.02181v4)** | 2025-08-19 |  |
-| **[A Hierarchical Surrogate Model for Efficient Multi-Task Parameter Learning in Closed-Loop Control](http://arxiv.org/abs/2508.12738v2)** | 2025-08-19 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted for CDC 2025</p></details> |
-| **[DyMixOp: Guiding Neural Operator Design for PDEs from a Complex Dynamics Perspective with Local-Global-Mixing](http://arxiv.org/abs/2508.13490v1)** | 2025-08-19 |  |
-| **[Accurate identification of communication between multiple interacting neural populations](http://arxiv.org/abs/2506.19094v2)** | 2025-08-18 |  |
-| **[Counterfactual Probabilistic Diffusion with Expert Models](http://arxiv.org/abs/2508.13355v1)** | 2025-08-18 |  |
-| **[Flow Matching-Based Generative Modeling for Efficient and Scalable Data Assimilation](http://arxiv.org/abs/2508.13313v1)** | 2025-08-18 |  |
-| **[On the Importance of Behavioral Nuances: Amplifying Non-Obvious Motor Noise Under True Empirical Considerations May Lead to Briefer Assays and Faster Classification Processes](http://arxiv.org/abs/2508.12742v1)** | 2025-08-18 | <details><summary>This ...</summary><p>This paper is under review in IEEE Transactions on Affective Computing</p></details> |
-| **[Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems](http://arxiv.org/abs/2508.12569v1)** | 2025-08-18 | 34 pages, 12 figures |
-| **[Root Cause Analysis of Hydrogen Bond Separation in Spatio-Temporal Molecular Dynamics using Causal Models](http://arxiv.org/abs/2508.12500v1)** | 2025-08-17 | Submitted to ACM |
-| **[Fast Algorithm for Moving Sound Source](http://arxiv.org/abs/2508.03065v2)** | 2025-08-17 |  |
-| **[Monotone Neural Control Barrier Certificates](http://arxiv.org/abs/2508.12178v1)** | 2025-08-16 |  |
-| **[Time-Scale Coupling Between States and Parameters in Recurrent Neural Networks](http://arxiv.org/abs/2508.12121v1)** | 2025-08-16 |  |
-| **[Regime-Aware Time Weighting for Physics-Informed Neural Networks](http://arxiv.org/abs/2407.21642v2)** | 2025-08-16 |  |
-| **[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](http://arxiv.org/abs/2502.00338v3)** | 2025-08-16 |  |
-| **[Universal Learning of Nonlinear Dynamics](http://arxiv.org/abs/2508.11990v1)** | 2025-08-16 |  |
+| **[Multi-Exit Kolmogorov-Arnold Networks: enhancing accuracy and parsimony](http://arxiv.org/abs/2506.03302v2)** | 2025-08-21 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 2 tables</p></details> |
+| **[A Dynamical Systems Framework for Reinforcement Learning Safety and Robustness Verification](http://arxiv.org/abs/2508.15588v1)** | 2025-08-21 |  |
+| **[Online Convex Optimization and Integral Quadratic Constraints: An automated approach to regret analysis](http://arxiv.org/abs/2503.23600v3)** | 2025-08-21 | <details><summary>Publi...</summary><p>Published in the 64th IEEE Conference on Decision and Control, 2025</p></details> |
+| **[Data-Driven Abstraction and Synthesis for Stochastic Systems with Unknown Dynamics](http://arxiv.org/abs/2508.15543v1)** | 2025-08-21 |  |
+| **[A Solvable Molecular Switch Model for Stable Temporal Information Processing](http://arxiv.org/abs/2508.15451v1)** | 2025-08-21 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, submitted for publication. Comments are welcome</p></details> |
+| **[Bayesian Inference and Learning in Nonlinear Dynamical Systems: A Framework for Incorporating Explicit and Implicit Prior Knowledge](http://arxiv.org/abs/2508.15345v1)** | 2025-08-21 | <details><summary>16 pa...</summary><p>16 pages, Preprint submitted to Automatica</p></details> |
+| **[A Time Splitting Based Optimization Method for Nonlinear MHE](http://arxiv.org/abs/2503.23324v3)** | 2025-08-21 |  |
+| **[On the Performance of Linear Adaptive Filters driven by the Ergodic Chaotic Logistic Map](http://arxiv.org/abs/2508.15143v1)** | 2025-08-21 |  |
+| **[Universal Reinforcement Learning in Coalgebras: Asynchronous Stochastic Computation via Conduction](http://arxiv.org/abs/2508.15128v1)** | 2025-08-20 | 45 pages |
+| **[Monotone Neural Control Barrier Certificates](http://arxiv.org/abs/2508.12178v2)** | 2025-08-20 | <details><summary>The w...</summary><p>The work reached arXiv before full agreement among all co-authors was documented</p></details> |
+| **[Nonlinear Federated System Identification](http://arxiv.org/abs/2508.15025v1)** | 2025-08-20 |  |
 
