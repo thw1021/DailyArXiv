@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2025
+title: Latest 15 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,15 +64,14 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flow Matching-Based Generative Modeling for Efficient and Scalable Data Assimilation](http://arxiv.org/abs/2508.13313v2)** | 2025-08-22 | <details><summary>corre...</summary><p>correcting authorship footnote, reformatting figures</p></details> |
+| **[Learning Noise-Robust Stable Koopman Operator for Control with Hankel DMD](http://arxiv.org/abs/2408.06607v6)** | 2025-08-22 | 16 pages |
+| **[PIANO: Physics Informed Autoregressive Network](http://arxiv.org/abs/2508.16235v1)** | 2025-08-22 |  |
+| **[Hybrid Adaptive Modeling in Process Monitoring: Leveraging Sequence Encoders and Physics-Informed Neural Networks](http://arxiv.org/abs/2505.14252v2)** | 2025-08-22 |  |
 | **[Multi-Exit Kolmogorov-Arnold Networks: enhancing accuracy and parsimony](http://arxiv.org/abs/2506.03302v2)** | 2025-08-21 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 2 tables</p></details> |
 | **[A Dynamical Systems Framework for Reinforcement Learning Safety and Robustness Verification](http://arxiv.org/abs/2508.15588v1)** | 2025-08-21 |  |
 | **[Online Convex Optimization and Integral Quadratic Constraints: An automated approach to regret analysis](http://arxiv.org/abs/2503.23600v3)** | 2025-08-21 | <details><summary>Publi...</summary><p>Published in the 64th IEEE Conference on Decision and Control, 2025</p></details> |
 | **[Data-Driven Abstraction and Synthesis for Stochastic Systems with Unknown Dynamics](http://arxiv.org/abs/2508.15543v1)** | 2025-08-21 |  |
 | **[A Solvable Molecular Switch Model for Stable Temporal Information Processing](http://arxiv.org/abs/2508.15451v1)** | 2025-08-21 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, submitted for publication. Comments are welcome</p></details> |
 | **[Bayesian Inference and Learning in Nonlinear Dynamical Systems: A Framework for Incorporating Explicit and Implicit Prior Knowledge](http://arxiv.org/abs/2508.15345v1)** | 2025-08-21 | <details><summary>16 pa...</summary><p>16 pages, Preprint submitted to Automatica</p></details> |
-| **[A Time Splitting Based Optimization Method for Nonlinear MHE](http://arxiv.org/abs/2503.23324v3)** | 2025-08-21 |  |
-| **[On the Performance of Linear Adaptive Filters driven by the Ergodic Chaotic Logistic Map](http://arxiv.org/abs/2508.15143v1)** | 2025-08-21 |  |
-| **[Universal Reinforcement Learning in Coalgebras: Asynchronous Stochastic Computation via Conduction](http://arxiv.org/abs/2508.15128v1)** | 2025-08-20 | 45 pages |
-| **[Monotone Neural Control Barrier Certificates](http://arxiv.org/abs/2508.12178v2)** | 2025-08-20 | <details><summary>The w...</summary><p>The work reached arXiv before full agreement among all co-authors was documented</p></details> |
-| **[Nonlinear Federated System Identification](http://arxiv.org/abs/2508.15025v1)** | 2025-08-20 |  |
 
