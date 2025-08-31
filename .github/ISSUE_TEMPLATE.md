@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 29, 2025
+title: Latest 15 Papers - September 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Possible Principles for Aligned Structure Learning Agents](http://arxiv.org/abs/2410.00258v3)** | 2025-08-27 | <details><summary>24 pa...</summary><p>24 pages of content, 33 with references; accepted version</p></details> |
 | **[Multi-field decomposed hyper-reduced order modeling of damage-plasticity simulations](http://arxiv.org/abs/2508.19957v1)** | 2025-08-27 |  |
 | **[Constraint Matters: Multi-Modal Representation for Reducing Mixed-Integer Linear programming](http://arxiv.org/abs/2508.18742v1)** | 2025-08-26 |  |
 | **[Generalizations of data-driven balancing: What to sample for different balancing-based reduced models](http://arxiv.org/abs/2312.12561v2)** | 2025-08-25 | 16 pages, 3 figures |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Efficient data-driven regression for reduced-order modeling of spatial pattern formation](http://arxiv.org/abs/2508.06833v1)** | 2025-08-09 |  |
 | **[A unified framework for the analysis, numerical approximation and model reduction of linear operator equations, Part I: Well-posedness in space and time](http://arxiv.org/abs/2508.05407v1)** | 2025-08-07 | <details><summary>linea...</summary><p>linear operator equations, well-posedness, space-time variational methods</p></details> |
 | **[State dimension reduction of recurrent equilibrium networks with contraction and robustness preservation](http://arxiv.org/abs/2508.02843v1)** | 2025-08-04 |  |
-| **[Model reduction for fully nonlinear stochastic systems](http://arxiv.org/abs/2508.02263v1)** | 2025-08-04 |  |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Deep-Learning Enhanced Gappy Proper Orthogonal Decomposition Method for Conjugate Heat Transfer Problem](http://arxiv.org/abs/2508.20633v1)** | 2025-08-28 |  |
+| **[Self-consistent clustering analysis for homogenisation of heterogeneous plates](http://arxiv.org/abs/2508.20446v1)** | 2025-08-28 |  |
 | **[Multi-field decomposed hyper-reduced order modeling of damage-plasticity simulations](http://arxiv.org/abs/2508.19957v1)** | 2025-08-27 |  |
 | **[Predicting Forced Responses of Probability Distributions via the Fluctuation-Dissipation Theorem and Generative Modeling](http://arxiv.org/abs/2504.13333v2)** | 2025-08-27 |  |
 | **[Reduced-Order Modeling of Cyclo-Stationary Time Series Using Score-Based Generative Methods](http://arxiv.org/abs/2508.19448v1)** | 2025-08-26 |  |
@@ -58,11 +60,23 @@ labels: documentation
 | **[Power-Series Approach to Moment-Matching-Based Model Reduction of MIMO Polynomial Nonlinear Systems](http://arxiv.org/abs/2508.13595v1)** | 2025-08-19 |  |
 | **[Reduced-order modeling of Hamiltonian dynamics based on symplectic neural networks](http://arxiv.org/abs/2508.11911v1)** | 2025-08-16 |  |
 | **[Nested Operator Inference for Adaptive Data-Driven Learning of Reduced-order Models](http://arxiv.org/abs/2508.11542v1)** | 2025-08-15 |  |
-| **[Efficient data-driven regression for reduced-order modeling of spatial pattern formation](http://arxiv.org/abs/2508.06833v1)** | 2025-08-09 |  |
-| **[Adaptive Collocation Point Strategies For Physics Informed Neural Networks via the QR Discrete Empirical Interpolation Method](http://arxiv.org/abs/2501.07700v4)** | 2025-08-07 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees](http://arxiv.org/abs/2508.21001v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025. Project page: https://sites.google.com/view/ditree</p></details> |
+| **[Bridging Finite and Infinite-Horizon Nash Equilibria in Linear Quadratic Games](http://arxiv.org/abs/2508.20675v1)** | 2025-08-28 |  |
+| **[Quantum-informed machine learning for the prediction of chaotic dynamical systems](http://arxiv.org/abs/2507.19861v3)** | 2025-08-28 | 41 pages, 15 figures |
+| **[Delay-adaptive Control of Nonlinear Systems with Approximate Neural Operator Predictors](http://arxiv.org/abs/2508.20367v1)** | 2025-08-28 | 9 pages, 1 Figure |
+| **[Learning Complex Motion Plans using Neural ODEs with Safety and Stability Guarantees](http://arxiv.org/abs/2308.00186v4)** | 2025-08-27 | <details><summary>accep...</summary><p>accepted to ICRA 2024</p></details> |
+| **[Discovering equations from data: symbolic regression in dynamical systems](http://arxiv.org/abs/2508.20257v1)** | 2025-08-27 |  |
 | **[Secure Set-based State Estimation for Safety-Critical Applications under Adversarial Attacks on Sensors](http://arxiv.org/abs/2309.05075v3)** | 2025-08-27 |  |
+| **[Learning with springs and sticks](http://arxiv.org/abs/2508.19015v1)** | 2025-08-26 | 13 pages, 6 figures |
+| **[On the Generalisation of Koopman Representations for Chaotic System Control](http://arxiv.org/abs/2508.18954v1)** | 2025-08-26 | 18 pages, 4 figures |
+| **[Deception in Oligopoly Games via Adaptive Nash Seeking Systems](http://arxiv.org/abs/2505.24112v2)** | 2025-08-26 |  |
+| **[Stochastic Real-Time Deception in Nash Equilibrium Seeking for Games with Quadratic Payoffs](http://arxiv.org/abs/2502.12337v2)** | 2025-08-26 |  |
+| **[Comparison of Data Reduction Criteria for Online Gaussian Processes](http://arxiv.org/abs/2508.10815v2)** | 2025-08-26 | 24 pages |
+| **[Globally Stable Discrete Time PID Passivity-based Control of Power Converters: Simulation and Experimental Results](http://arxiv.org/abs/2508.18719v1)** | 2025-08-26 |  |
+| **[Harnessing the edge of chaos for combinatorial optimization](http://arxiv.org/abs/2508.17655v2)** | 2025-08-26 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 3 tables</p></details> |
+| **[Reformulations of Quadratic Programs for Lipschitz Continuity](http://arxiv.org/abs/2508.18530v1)** | 2025-08-25 | <details><summary>Submi...</summary><p>Submitted to IEEE Control Systems Letters (L-CSS)</p></details> |
 
