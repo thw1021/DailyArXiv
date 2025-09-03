@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2025
+title: Latest 15 Papers - September 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A locking free multiscale method for linear elasticity in stress-displacement formulation with high contrast coefficients](http://arxiv.org/abs/2504.18054v2)** | 2025-09-01 |  |
 | **[Machine-precision energy conservative quadrature hyperreduction of Lagrangian hydrodynamics](http://arxiv.org/abs/2508.21279v1)** | 2025-08-29 | 24 pages, 1 figure |
 | **[Possible Principles for Aligned Structure Learning Agents](http://arxiv.org/abs/2410.00258v3)** | 2025-08-27 | <details><summary>24 pa...</summary><p>24 pages of content, 33 with references; accepted version</p></details> |
 | **[Multi-field decomposed hyper-reduced order modeling of damage-plasticity simulations](http://arxiv.org/abs/2508.19957v1)** | 2025-08-27 |  |
@@ -40,17 +41,17 @@ labels: documentation
 | **[Weighted Proper Orthogonal Decomposition for High-Dimensional Optimization](http://arxiv.org/abs/2508.09084v1)** | 2025-08-12 | 26 pages, 7 figures |
 | **[COMponent-Aware Pruning for Accelerated Control Tasks in Latent Space Models](http://arxiv.org/abs/2508.08144v1)** | 2025-08-11 | <details><summary>Submi...</summary><p>Submitted in: The 2026 IEEE/SICE International Symposium on System Integration (SII 2026)</p></details> |
 | **[Efficient data-driven regression for reduced-order modeling of spatial pattern formation](http://arxiv.org/abs/2508.06833v1)** | 2025-08-09 |  |
-| **[A unified framework for the analysis, numerical approximation and model reduction of linear operator equations, Part I: Well-posedness in space and time](http://arxiv.org/abs/2508.05407v1)** | 2025-08-07 | <details><summary>linea...</summary><p>linear operator equations, well-posedness, space-time variational methods</p></details> |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](http://arxiv.org/abs/2410.18148v4)** | 2025-08-31 | 34 pages |
+| **[Reduced-Order Modeling of Cyclo-Stationary Time Series Using Score-Based Generative Methods](http://arxiv.org/abs/2508.19448v2)** | 2025-08-30 |  |
 | **[Data-Driven Bifurcation Handling in Physics-Based Reduced-Order Vascular Hemodynamic Models](http://arxiv.org/abs/2508.21165v1)** | 2025-08-28 | 32 pages, 13 figures |
 | **[A Deep-Learning Enhanced Gappy Proper Orthogonal Decomposition Method for Conjugate Heat Transfer Problem](http://arxiv.org/abs/2508.20633v1)** | 2025-08-28 |  |
 | **[Self-consistent clustering analysis for homogenisation of heterogeneous plates](http://arxiv.org/abs/2508.20446v1)** | 2025-08-28 |  |
 | **[Multi-field decomposed hyper-reduced order modeling of damage-plasticity simulations](http://arxiv.org/abs/2508.19957v1)** | 2025-08-27 |  |
 | **[Predicting Forced Responses of Probability Distributions via the Fluctuation-Dissipation Theorem and Generative Modeling](http://arxiv.org/abs/2504.13333v2)** | 2025-08-27 |  |
-| **[Reduced-Order Modeling of Cyclo-Stationary Time Series Using Score-Based Generative Methods](http://arxiv.org/abs/2508.19448v1)** | 2025-08-26 |  |
 | **[Controlling instability in the Vlasov-Poisson system through moment-based optimization](http://arxiv.org/abs/2508.18412v1)** | 2025-08-25 |  |
 | **[Generalizations of data-driven balancing: What to sample for different balancing-based reduced models](http://arxiv.org/abs/2312.12561v2)** | 2025-08-25 | 16 pages, 3 figures |
 | **[DesCartes Builder: A Tool to Develop Machine-Learning Based Digital Twins](http://arxiv.org/abs/2508.17988v1)** | 2025-08-25 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted at EDTconf 2025</p></details> |
@@ -59,11 +60,17 @@ labels: documentation
 | **[Learning Spatio-Temporal Dynamics via Operator-Valued RKHS and Kernel Koopman Methods](http://arxiv.org/abs/2508.18307v1)** | 2025-08-23 |  |
 | **[Stabilization of Parabolic Time-Varying PDEs using Certified Reduced-Order Receding Horizon Control](http://arxiv.org/abs/2508.16801v1)** | 2025-08-22 |  |
 | **[Power-Series Approach to Moment-Matching-Based Model Reduction of MIMO Polynomial Nonlinear Systems](http://arxiv.org/abs/2508.13595v1)** | 2025-08-19 |  |
-| **[Reduced-order modeling of Hamiltonian dynamics based on symplectic neural networks](http://arxiv.org/abs/2508.11911v1)** | 2025-08-16 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Data-Driven Abstraction and Synthesis for Stochastic Systems with Unknown Dynamics](http://arxiv.org/abs/2508.15543v2)** | 2025-09-02 |  |
+| **[Solving "pseudo-injective" polynomial equations over finite dynamical systems](http://arxiv.org/abs/2504.06986v2)** | 2025-09-02 |  |
+| **[Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation](http://arxiv.org/abs/2507.02608v2)** | 2025-09-01 |  |
+| **[Harnessing the edge of chaos for combinatorial optimization](http://arxiv.org/abs/2508.17655v3)** | 2025-09-01 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 3 tables</p></details> |
+| **[A Causality- and Frequency-Aware Deep Learning Framework for Wave Elevation Prediction Behind Floating Breakwaters](http://arxiv.org/abs/2505.06690v2)** | 2025-08-31 |  |
+| **[Decomposing heterogeneous dynamical systems with graph neural networks](http://arxiv.org/abs/2407.19160v2)** | 2025-08-31 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 pages appendix, 2 supplementary tables, 18 supplementary figures, 14 videos linked to YouTube</p></details> |
+| **[Quantifying structural uncertainty in chemical reaction network inference](http://arxiv.org/abs/2505.15653v2)** | 2025-08-30 | 36 pages, 12 figures |
 | **[Knowledge in multi-robot systems: an interplay of dynamics, computation and communication](http://arxiv.org/abs/2501.18309v2)** | 2025-08-29 |  |
 | **[Mamba State-Space Models Are Lyapunov-Stable Learners](http://arxiv.org/abs/2406.00209v3)** | 2025-08-29 | <details><summary>TMLR,...</summary><p>TMLR, 27 pages, 12 figures, 4 tables</p></details> |
 | **[Mutual Information Rate -- Linear Noise Approximation and Exact Computation](http://arxiv.org/abs/2508.21220v1)** | 2025-08-28 | 12 pages, 5 figures |
@@ -72,11 +79,4 @@ labels: documentation
 | **[Quantum-informed machine learning for the prediction of chaotic dynamical systems](http://arxiv.org/abs/2507.19861v3)** | 2025-08-28 | 41 pages, 15 figures |
 | **[Delay-adaptive Control of Nonlinear Systems with Approximate Neural Operator Predictors](http://arxiv.org/abs/2508.20367v1)** | 2025-08-28 | 9 pages, 1 Figure |
 | **[Learning Complex Motion Plans using Neural ODEs with Safety and Stability Guarantees](http://arxiv.org/abs/2308.00186v4)** | 2025-08-27 | <details><summary>accep...</summary><p>accepted to ICRA 2024</p></details> |
-| **[Discovering equations from data: symbolic regression in dynamical systems](http://arxiv.org/abs/2508.20257v1)** | 2025-08-27 |  |
-| **[Secure Set-based State Estimation for Safety-Critical Applications under Adversarial Attacks on Sensors](http://arxiv.org/abs/2309.05075v3)** | 2025-08-27 |  |
-| **[Learning with springs and sticks](http://arxiv.org/abs/2508.19015v1)** | 2025-08-26 | 13 pages, 6 figures |
-| **[On the Generalisation of Koopman Representations for Chaotic System Control](http://arxiv.org/abs/2508.18954v1)** | 2025-08-26 | 18 pages, 4 figures |
-| **[Deception in Oligopoly Games via Adaptive Nash Seeking Systems](http://arxiv.org/abs/2505.24112v2)** | 2025-08-26 |  |
-| **[Stochastic Real-Time Deception in Nash Equilibrium Seeking for Games with Quadratic Payoffs](http://arxiv.org/abs/2502.12337v2)** | 2025-08-26 |  |
-| **[Comparison of Data Reduction Criteria for Online Gaussian Processes](http://arxiv.org/abs/2508.10815v2)** | 2025-08-26 | 24 pages |
 
