@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 05, 2025
+title: Latest 15 Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Taming High-Dimensional Dynamics: Learning Optimal Projections onto Spectral Submanifolds](http://arxiv.org/abs/2504.03157v2)** | 2025-09-04 |  |
 | **[Autoencoder-based non-intrusive model order reduction in continuum mechanics](http://arxiv.org/abs/2509.02237v1)** | 2025-09-02 |  |
 | **[Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](http://arxiv.org/abs/2410.18148v4)** | 2025-08-31 | 34 pages |
 | **[Reduced-Order Modeling of Cyclo-Stationary Time Series Using Score-Based Generative Methods](http://arxiv.org/abs/2508.19448v2)** | 2025-08-30 |  |
@@ -59,11 +60,16 @@ labels: documentation
 | **[DesCartes Builder: A Tool to Develop Machine-Learning Based Digital Twins](http://arxiv.org/abs/2508.17988v1)** | 2025-08-25 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted at EDTconf 2025</p></details> |
 | **[Enhancing material behavior discovery using embedding-oriented Physically-Guided Neural Networks with Internal Variables](http://arxiv.org/abs/2508.00959v2)** | 2025-08-25 |  |
 | **[First and Second Order Optimal $\mathcal{H}_2$ Model Reduction for Linear Continuous-Time Systems](http://arxiv.org/abs/2508.17503v1)** | 2025-08-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, CDC conference</p></details> |
-| **[Learning Spatio-Temporal Dynamics via Operator-Valued RKHS and Kernel Koopman Methods](http://arxiv.org/abs/2508.18307v1)** | 2025-08-23 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Distance Between Stochastic Linear Systems](http://arxiv.org/abs/2509.04014v1)** | 2025-09-04 | <details><summary>Submi...</summary><p>Submitted to SIAM Journal on Control and Optimization. 27 Pages in total</p></details> |
+| **[Divergence-Kernel method for linear responses and diffusion models](http://arxiv.org/abs/2509.03992v1)** | 2025-09-04 |  |
+| **[Sample Efficient Certification of Discrete-Time Control Barrier Functions](http://arxiv.org/abs/2509.03899v1)** | 2025-09-04 | <details><summary>8 pag...</summary><p>8 pages, accepted for publication in proceedings of IEEE CDC 2025</p></details> |
+| **[Reservoir Predictive Path Integral Control for Unknown Nonlinear Dynamics](http://arxiv.org/abs/2509.03839v1)** | 2025-09-04 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication, 13 pages, 7 figures</p></details> |
+| **[A Learning With Errors based encryption scheme for dynamic controllers that discloses residue signal for anomaly detection](http://arxiv.org/abs/2404.02574v2)** | 2025-09-03 | 11 pages, 4 figures |
+| **[Deficiency of equation-finding approach to data-driven modeling of dynamical systems](http://arxiv.org/abs/2509.03769v1)** | 2025-09-03 | 6 pages, 3 figures |
 | **[Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems](http://arxiv.org/abs/2509.03340v1)** | 2025-09-03 | <details><summary>12 pa...</summary><p>12 pages, 7 figures including appendices</p></details> |
 | **[FlowKac: An Efficient Neural Fokker-Planck solver using Temporal Normalizing Flows and the Feynman-Kac Formula](http://arxiv.org/abs/2503.11427v2)** | 2025-09-03 |  |
 | **[Task and Motion Planning of Dynamic Systems using Hyperproperties for Signal Temporal Logics](http://arxiv.org/abs/2509.02184v2)** | 2025-09-03 |  |
@@ -73,10 +79,4 @@ labels: documentation
 | **[Efficient State Estimation of a Networked FlipIt Model](http://arxiv.org/abs/2504.01096v2)** | 2025-09-02 |  |
 | **[Principled model selection for stochastic dynamics](http://arxiv.org/abs/2501.10339v3)** | 2025-09-02 |  |
 | **[Data-Driven Abstraction and Synthesis for Stochastic Systems with Unknown Dynamics](http://arxiv.org/abs/2508.15543v2)** | 2025-09-02 |  |
-| **[On Word-of-Mouth and Private-Prior Sequential Social Learning](http://arxiv.org/abs/2504.02913v4)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted for publication at the 64th Conference on Decision and Control (CDC)</p></details> |
-| **[Breaking Free: Decoupling Forced Systems with Laplace Neural Networks](http://arxiv.org/abs/2503.13158v2)** | 2025-09-02 | <details><summary>Prepr...</summary><p>Preprint - Accepted to the Research Track of ECML PKDD 2025</p></details> |
-| **[Inference in Spreading Processes with Neural-Network Priors](http://arxiv.org/abs/2509.02073v1)** | 2025-09-02 | 26 pages, 13 figures |
-| **[Solving "pseudo-injective" polynomial equations over finite dynamical systems](http://arxiv.org/abs/2504.06986v2)** | 2025-09-02 |  |
-| **[Optimal information injection and transfer mechanisms for active matter reservoir computing](http://arxiv.org/abs/2509.01799v1)** | 2025-09-01 | <details><summary>53 pa...</summary><p>53 pages, 23 figures. Supplementary Videos: https://doi.org/10.18419/DARUS-4806. Replication Data: https://doi.org/10.18419/DARUS-4805</p></details> |
-| **[Maximally Resilient Controllers under Temporal Logic Specifications](http://arxiv.org/abs/2509.01777v1)** | 2025-09-01 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, conference</p></details> |
 
