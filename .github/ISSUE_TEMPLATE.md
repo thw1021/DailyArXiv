@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2025
+title: Latest 15 Papers - September 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,12 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Entropy stable finite difference methods via entropy correction artificial viscosity and knapsack limiting](http://arxiv.org/abs/2508.21226v2)** | 2025-09-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.14488</p></details> |
 | **[A novel approach to study the wellposedness of the 3D fluid-2D plate interaction PDE System](http://arxiv.org/abs/2509.03431v1)** | 2025-09-03 | 23 pages, 4 figures |
 | **[Computational Fluid Dynamics Optimization of F1 Front Wing using Physics Informed Neural Networks](http://arxiv.org/abs/2509.01963v1)** | 2025-09-02 | 10 pages, 3 figures |
 | **[Towards Digital Twins for Optimal Radioembolization](http://arxiv.org/abs/2509.02607v1)** | 2025-08-30 |  |
 | **[Evaluate Neighbor Search for Curve-based Vector Field Processing](http://arxiv.org/abs/2509.00180v1)** | 2025-08-29 | 12 pages, 17 figures |
 | **[Simulating many-engine spacecraft: Exceeding 1 quadrillion degrees of freedom via information geometric regularization](http://arxiv.org/abs/2505.07392v3)** | 2025-08-29 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 4 tables. ACM Gordon Bell Prize Finalist</p></details> |
-| **[Entropy stable finite difference (ESFD) methods via entropy correction artificial viscosity (ECAV) and knapsack limiting (KL) techniques](http://arxiv.org/abs/2508.21226v1)** | 2025-08-28 |  |
 | **[Active Learning for Deep Learning-Based Hemodynamic Parameter Estimation](http://arxiv.org/abs/2503.03453v2)** | 2025-08-27 |  |
 | **[Deep vectorised operators for pulsatile hemodynamics estimation in coronary arteries from a steady-state prior](http://arxiv.org/abs/2410.11920v2)** | 2025-08-26 | <details><summary>Publi...</summary><p>Published in "Computer Methods and Programs in Biomedicine"</p></details> |
 | **[Impact of curved elements for flows over orography with a Discontinuous Galerkin scheme](http://arxiv.org/abs/2404.09319v4)** | 2025-08-26 |  |
@@ -45,6 +45,8 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synthetic Acceleration Preconditioners for Parametric Radiative Transfer Equations based on Trajectory-Aware Reduced Order Models](http://arxiv.org/abs/2509.05001v1)** | 2025-09-05 | 32 pages, 9 figures |
+| **[Hierarchical Reduced-Order Model Predictive Control for Robust Locomotion on Humanoid Robots](http://arxiv.org/abs/2509.04722v1)** | 2025-09-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, accepted to IEEE-RAS International Conference on Humanoid Robots 2025</p></details> |
 | **[Taming High-Dimensional Dynamics: Learning Optimal Projections onto Spectral Submanifolds](http://arxiv.org/abs/2504.03157v2)** | 2025-09-04 |  |
 | **[Autoencoder-based non-intrusive model order reduction in continuum mechanics](http://arxiv.org/abs/2509.02237v1)** | 2025-09-02 |  |
 | **[Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](http://arxiv.org/abs/2410.18148v4)** | 2025-08-31 | 34 pages |
@@ -58,12 +60,17 @@ labels: documentation
 | **[Controlling instability in the Vlasov-Poisson system through moment-based optimization](http://arxiv.org/abs/2508.18412v1)** | 2025-08-25 |  |
 | **[Generalizations of data-driven balancing: What to sample for different balancing-based reduced models](http://arxiv.org/abs/2312.12561v2)** | 2025-08-25 | 16 pages, 3 figures |
 | **[DesCartes Builder: A Tool to Develop Machine-Learning Based Digital Twins](http://arxiv.org/abs/2508.17988v1)** | 2025-08-25 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Accepted at EDTconf 2025</p></details> |
-| **[Enhancing material behavior discovery using embedding-oriented Physically-Guided Neural Networks with Internal Variables](http://arxiv.org/abs/2508.00959v2)** | 2025-08-25 |  |
-| **[First and Second Order Optimal $\mathcal{H}_2$ Model Reduction for Linear Continuous-Time Systems](http://arxiv.org/abs/2508.17503v1)** | 2025-08-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, CDC conference</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees](http://arxiv.org/abs/2508.21001v2)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025, Project page: https://sites.google.com/view/ditree. v2: Abstract updated</p></details> |
+| **[Shift Before You Learn: Enabling Low-Rank Representations in Reinforcement Learning](http://arxiv.org/abs/2509.05193v1)** | 2025-09-05 | 67 pages, 11 figures |
+| **[Feedback Linearisation with State Constraints](http://arxiv.org/abs/2509.05191v1)** | 2025-09-05 |  |
+| **[Barrier Certificates for Unknown Systems with Latent States and Polynomial Dynamics using Bayesian Inference](http://arxiv.org/abs/2504.01807v2)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 64th IEEE Conference on Decision and Control</p></details> |
+| **[Error-In-Variables Methods for Efficient System Identification with Finite-Sample Guarantees](http://arxiv.org/abs/2504.09057v2)** | 2025-09-05 |  |
+| **[Echoes Before Collapse: Deep Learning Detection of Flickering in Complex Systems](http://arxiv.org/abs/2509.04683v1)** | 2025-09-04 |  |
+| **[$\mathcal{L}_1$-DRAC: Distributionally Robust Adaptive Control](http://arxiv.org/abs/2509.04619v1)** | 2025-09-04 |  |
 | **[Distance Between Stochastic Linear Systems](http://arxiv.org/abs/2509.04014v1)** | 2025-09-04 | <details><summary>Submi...</summary><p>Submitted to SIAM Journal on Control and Optimization. 27 Pages in total</p></details> |
 | **[Divergence-Kernel method for linear responses and diffusion models](http://arxiv.org/abs/2509.03992v1)** | 2025-09-04 |  |
 | **[Sample Efficient Certification of Discrete-Time Control Barrier Functions](http://arxiv.org/abs/2509.03899v1)** | 2025-09-04 | <details><summary>8 pag...</summary><p>8 pages, accepted for publication in proceedings of IEEE CDC 2025</p></details> |
@@ -72,11 +79,4 @@ labels: documentation
 | **[Deficiency of equation-finding approach to data-driven modeling of dynamical systems](http://arxiv.org/abs/2509.03769v1)** | 2025-09-03 | 6 pages, 3 figures |
 | **[Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems](http://arxiv.org/abs/2509.03340v1)** | 2025-09-03 | <details><summary>12 pa...</summary><p>12 pages, 7 figures including appendices</p></details> |
 | **[FlowKac: An Efficient Neural Fokker-Planck solver using Temporal Normalizing Flows and the Feynman-Kac Formula](http://arxiv.org/abs/2503.11427v2)** | 2025-09-03 |  |
-| **[Task and Motion Planning of Dynamic Systems using Hyperproperties for Signal Temporal Logics](http://arxiv.org/abs/2509.02184v2)** | 2025-09-03 |  |
-| **[A Hoare Logic for Symmetry Properties](http://arxiv.org/abs/2509.00587v2)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted to OOPSLA '25</p></details> |
-| **[An overview of Koopman-based control: From error bounds to closed-loop guarantees](http://arxiv.org/abs/2509.02839v1)** | 2025-09-02 |  |
-| **[Hybrid dynamical systems modeling of power systems](http://arxiv.org/abs/2509.02822v1)** | 2025-09-02 |  |
-| **[Efficient State Estimation of a Networked FlipIt Model](http://arxiv.org/abs/2504.01096v2)** | 2025-09-02 |  |
-| **[Principled model selection for stochastic dynamics](http://arxiv.org/abs/2501.10339v3)** | 2025-09-02 |  |
-| **[Data-Driven Abstraction and Synthesis for Stochastic Systems with Unknown Dynamics](http://arxiv.org/abs/2508.15543v2)** | 2025-09-02 |  |
 
