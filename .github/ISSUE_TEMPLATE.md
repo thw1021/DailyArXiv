@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 19, 2025
+title: Latest 15 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quasi Steady-State Frequency](http://arxiv.org/abs/2505.21461v3)** | 2025-09-17 |  |
 | **[Performance measurements of modern Fortran MPI applications with Score-P](http://arxiv.org/abs/2508.16592v2)** | 2025-09-17 |  |
 | **[A reduced-order derivative-informed neural operator for subsurface fluid-flow](http://arxiv.org/abs/2509.13620v1)** | 2025-09-17 |  |
 | **[Testing and benchmarking emerging supercomputers via the MFC flow solver](http://arxiv.org/abs/2509.13575v1)** | 2025-09-16 | 9 pages, 3 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Learning Fluid-Structure Interaction Dynamics with Physics-Informed Neural Networks and Immersed Boundary Methods](http://arxiv.org/abs/2505.18565v4)** | 2025-09-10 |  |
 | **[Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models](http://arxiv.org/abs/2509.08270v1)** | 2025-09-10 |  |
 | **[Tensor-Train Operator Inference](http://arxiv.org/abs/2509.08071v1)** | 2025-09-09 | AIAA SciTech 2026 |
-| **[Mixed-precision numerics in scientific applications: survey and perspectives](http://arxiv.org/abs/2412.19322v3)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted to Journal of Supercomputing</p></details> |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Object Tracking Incorporating Transfer Learning into Unscented and Cubature Kalman Filters](http://arxiv.org/abs/2408.07157v2)** | 2025-09-18 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 2 tables</p></details> |
+| **[FlowCast-ODE: Continuous Hourly Weather Forecasting with Dynamic Flow Matching and ODE Integration](http://arxiv.org/abs/2509.14775v1)** | 2025-09-18 |  |
+| **[Learning Conservative Neural Control Barrier Functions from Offline Data](http://arxiv.org/abs/2505.00908v2)** | 2025-09-18 |  |
+| **[Continuous-Time Value Iteration for Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2509.09135v2)** | 2025-09-17 | 19 pages, 10 figures |
 | **[Data Denoising and Derivative Estimation for Data-Driven Modeling of Nonlinear Dynamical Systems](http://arxiv.org/abs/2509.14219v1)** | 2025-09-17 |  |
 | **[Gremban Expansion for Signed Networks: Algebraic and Combinatorial Foundations for Community-Faction Detection](http://arxiv.org/abs/2509.14193v1)** | 2025-09-17 |  |
 | **[Enabling Local Neural Operators to perform Equation-Free System-Level Analysis](http://arxiv.org/abs/2505.02308v2)** | 2025-09-17 | 35 pages, 13 figures |
@@ -75,8 +79,4 @@ labels: documentation
 | **[Ungar -- A C++ Framework for Real-Time Optimal Control Using Template Metaprogramming](http://arxiv.org/abs/2309.06783v3)** | 2025-09-16 | <details><summary>2023 ...</summary><p>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 7 pages, 2 figures. Library available at https://github.com/fdevinc/ungar. Presentation available at https://www.youtube.com/watch?v=iKQ6felf45k</p></details> |
 | **[Deep Koopman Learning using Noisy Data](http://arxiv.org/abs/2405.16649v6)** | 2025-09-16 |  |
 | **[Spatiotemporal graph neural process for reconstruction, extrapolation, and classification of cardiac trajectories](http://arxiv.org/abs/2509.12953v1)** | 2025-09-16 |  |
-| **[TimeCluster with PCA is Equivalent to Subspace Identification of Linear Dynamical Systems](http://arxiv.org/abs/2509.12895v1)** | 2025-09-16 | 15 pages, 9 figures |
-| **[Executable Ontologies: Synthesizing Event Semantics with Dataflow Architecture](http://arxiv.org/abs/2509.09775v2)** | 2025-09-16 | <details><summary>22 pa...</summary><p>22 pages, 6 figures. Corrected captions on Figure 4</p></details> |
-| **[Hybrid State Estimation of Uncertain Nonlinear Dynamics Using Neural Processes](http://arxiv.org/abs/2509.12522v1)** | 2025-09-15 | <details><summary>32 pa...</summary><p>32 pages (single column) - 6 figures</p></details> |
-| **[Teamwork as Linear Interpersonal Dynamics](http://arxiv.org/abs/2509.08811v2)** | 2025-09-15 |  |
 
