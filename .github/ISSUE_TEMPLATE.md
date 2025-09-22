@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2025
+title: Latest 15 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quasi Steady-State Frequency](http://arxiv.org/abs/2505.21461v3)** | 2025-09-17 |  |
+| **[Discrete Empirical Interpolation Method with Upper and Lower Bound Constraints](http://arxiv.org/abs/2509.16018v1)** | 2025-09-19 |  |
+| **[Quasi Steady-State Frequency](http://arxiv.org/abs/2505.21461v4)** | 2025-09-19 |  |
+| **[GridapROMs.jl: Efficient reduced order modelling in the Julia programming language](http://arxiv.org/abs/2503.15994v3)** | 2025-09-18 | 14 pages, 6 figures |
 | **[Performance measurements of modern Fortran MPI applications with Score-P](http://arxiv.org/abs/2508.16592v2)** | 2025-09-17 |  |
 | **[A reduced-order derivative-informed neural operator for subsurface fluid-flow](http://arxiv.org/abs/2509.13620v1)** | 2025-09-17 |  |
 | **[Testing and benchmarking emerging supercomputers via the MFC flow solver](http://arxiv.org/abs/2509.13575v1)** | 2025-09-16 | 9 pages, 3 figures |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Deep Reinforcement Learning for Active Flow Control around a Three-Dimensional Flow-Separated Wing at Re = 1,000](http://arxiv.org/abs/2509.10195v1)** | 2025-09-12 |  |
 | **[An Integrated Open Source Software System for the Generation and Analysis of Subject-Specific Blood Flow Simulation Ensembles](http://arxiv.org/abs/2509.09392v1)** | 2025-09-11 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, 2 tables</p></details> |
 | **[Learning Fluid-Structure Interaction Dynamics with Physics-Informed Neural Networks and Immersed Boundary Methods](http://arxiv.org/abs/2505.18565v4)** | 2025-09-10 |  |
-| **[Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models](http://arxiv.org/abs/2509.08270v1)** | 2025-09-10 |  |
-| **[Tensor-Train Operator Inference](http://arxiv.org/abs/2509.08071v1)** | 2025-09-09 | AIAA SciTech 2026 |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GridapROMs.jl: Efficient reduced order modelling in the Julia programming language](http://arxiv.org/abs/2503.15994v3)** | 2025-09-18 | 14 pages, 6 figures |
 | **[Reduced Order Modeling of Energetic Materials Using Physics-Aware Recurrent Convolutional Neural Networks in a Latent Space (LatentPARC)](http://arxiv.org/abs/2509.12401v1)** | 2025-09-15 |  |
 | **[Data-driven balanced truncation for linear systems with quadratic outputs](http://arxiv.org/abs/2509.12393v1)** | 2025-09-15 |  |
 | **[A Chebyshev--Ritz Spectral Framework for Nonlinear Vibration of CNT-Reinforced Composite Beams](http://arxiv.org/abs/2509.11946v1)** | 2025-09-15 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[Taming High-Dimensional Dynamics: Learning Optimal Projections onto Spectral Submanifolds](http://arxiv.org/abs/2504.03157v2)** | 2025-09-04 |  |
 | **[Autoencoder-based non-intrusive model order reduction in continuum mechanics](http://arxiv.org/abs/2509.02237v1)** | 2025-09-02 |  |
 | **[Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](http://arxiv.org/abs/2410.18148v4)** | 2025-08-31 | 34 pages |
-| **[Reduced-Order Modeling of Cyclo-Stationary Time Series Using Score-Based Generative Methods](http://arxiv.org/abs/2508.19448v2)** | 2025-08-30 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatio-temporal Dynamical Indices for Complex Systems](http://arxiv.org/abs/2412.10069v2)** | 2025-09-19 |  |
+| **[Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning](http://arxiv.org/abs/2505.11349v2)** | 2025-09-18 | <details><summary>New e...</summary><p>New experiments on SciML tasks and other improvements</p></details> |
 | **[Object Tracking Incorporating Transfer Learning into Unscented and Cubature Kalman Filters](http://arxiv.org/abs/2408.07157v2)** | 2025-09-18 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 2 tables</p></details> |
 | **[FlowCast-ODE: Continuous Hourly Weather Forecasting with Dynamic Flow Matching and ODE Integration](http://arxiv.org/abs/2509.14775v1)** | 2025-09-18 |  |
 | **[Learning Conservative Neural Control Barrier Functions from Offline Data](http://arxiv.org/abs/2505.00908v2)** | 2025-09-18 |  |
@@ -72,11 +74,4 @@ labels: documentation
 | **[Gremban Expansion for Signed Networks: Algebraic and Combinatorial Foundations for Community-Faction Detection](http://arxiv.org/abs/2509.14193v1)** | 2025-09-17 |  |
 | **[Enabling Local Neural Operators to perform Equation-Free System-Level Analysis](http://arxiv.org/abs/2505.02308v2)** | 2025-09-17 | 35 pages, 13 figures |
 | **[Identifying Network Structure of Linear Dynamical Systems: Observability and Edge Misclassification](http://arxiv.org/abs/2509.14065v1)** | 2025-09-17 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, in submission</p></details> |
-| **[Rigorous Function Calculi in Ariadne](http://arxiv.org/abs/2306.17541v5)** | 2025-09-17 |  |
-| **[Contextual modulation of language comprehension in a dynamic neural model of lexical meaning](http://arxiv.org/abs/2407.14701v3)** | 2025-09-16 |  |
-| **[Identifying Network Structure of Nonlinear Dynamical Systems: Contraction and Kuramoto Oscillators](http://arxiv.org/abs/2509.13505v1)** | 2025-09-16 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, in submission</p></details> |
-| **[Safety Critical Model Predictive Control Using Discrete-Time Control Density Functions](http://arxiv.org/abs/2509.13257v1)** | 2025-09-16 |  |
-| **[Ungar -- A C++ Framework for Real-Time Optimal Control Using Template Metaprogramming](http://arxiv.org/abs/2309.06783v3)** | 2025-09-16 | <details><summary>2023 ...</summary><p>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 7 pages, 2 figures. Library available at https://github.com/fdevinc/ungar. Presentation available at https://www.youtube.com/watch?v=iKQ6felf45k</p></details> |
-| **[Deep Koopman Learning using Noisy Data](http://arxiv.org/abs/2405.16649v6)** | 2025-09-16 |  |
-| **[Spatiotemporal graph neural process for reconstruction, extrapolation, and classification of cardiac trajectories](http://arxiv.org/abs/2509.12953v1)** | 2025-09-16 |  |
 
