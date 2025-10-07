@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2025
+title: Latest 15 Papers - October 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FoilDiff: A Hybrid Transformer Backbone for Diffusion-based Modelling of 2D Airfoil Flow Fields](http://arxiv.org/abs/2510.04325v1)** | 2025-10-05 |  |
+| **[Dissecting Larval Zebrafish Hunting using Deep Reinforcement Learning Trained RNN Agents](http://arxiv.org/abs/2510.03699v1)** | 2025-10-04 |  |
+| **[Physics-informed Neural-operator Predictive Control for Drag Reduction in Turbulent Flows](http://arxiv.org/abs/2510.03360v1)** | 2025-10-03 |  |
 | **[nDNA -- the Semantic Helix of Artificial Cognition](http://arxiv.org/abs/2509.18216v2)** | 2025-10-02 |  |
 | **[SPUS: A Lightweight and Parameter-Efficient Foundation Model for PDEs](http://arxiv.org/abs/2510.01370v1)** | 2025-10-01 |  |
 | **[RheOFormer: A generative transformer model for simulation of complex fluids and flows](http://arxiv.org/abs/2510.01365v1)** | 2025-10-01 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to PNAS</p></details> |
@@ -19,13 +22,12 @@ labels: documentation
 | **[Towards a Certificate of Trust: Task-Aware OOD Detection for Scientific AI](http://arxiv.org/abs/2509.25080v1)** | 2025-09-29 |  |
 | **[Learning to Solve Optimization Problems Constrained with Partial Differential Equations](http://arxiv.org/abs/2509.24573v1)** | 2025-09-29 |  |
 | **[Code2MCP: Transforming Code Repositories into MCP Services](http://arxiv.org/abs/2509.05941v2)** | 2025-09-28 |  |
-| **[Reversible GNS for Dissipative Fluids with Consistent Bidirectional Dynamics](http://arxiv.org/abs/2509.22207v1)** | 2025-09-26 | 13 pages, 5 figures |
-| **[ChaosNexus: A Foundation Model for Universal Chaotic System Forecasting with Multi-scale Representations](http://arxiv.org/abs/2509.21802v1)** | 2025-09-26 |  |
-| **[Analysis and Simulation of a Fluid-Heat System in a Thin, Rough Layer in Contact With a Solid Bulk Domain](http://arxiv.org/abs/2406.02150v3)** | 2025-09-25 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stochastic Subspace via Probabilistic Principal Component Analysis for Characterizing Model Error](http://arxiv.org/abs/2504.19963v3)** | 2025-10-06 | <details><summary>Publi...</summary><p>Published in Computational Mechanics, a journal</p></details> |
+| **[SubApSnap: Solving parameter-dependent linear systems with a snapshot and subsampling](http://arxiv.org/abs/2510.04825v1)** | 2025-10-06 |  |
 | **[Transmission Conditions for the Non-Overlapping Schwarz Coupling of Full Order and Operator Inference Models](http://arxiv.org/abs/2509.12228v2)** | 2025-10-02 |  |
 | **[Global convergence of Oja's component flow for general square matrices and its applications](http://arxiv.org/abs/2510.00801v1)** | 2025-10-01 | 15 pages, 6 figures |
 | **[An Interpolation-based Scheme for Rapid Frequency-Domain System Identification](http://arxiv.org/abs/2510.00525v1)** | 2025-10-01 | <details><summary>7 pag...</summary><p>7 pages, 5 figures Submitted to IEEE American Control Conference 2026</p></details> |
@@ -39,12 +41,15 @@ labels: documentation
 | **[Adapting Projection-Based Reduced-Order Models using Projected Gaussian Process](http://arxiv.org/abs/2410.14090v2)** | 2025-09-14 |  |
 | **[Deep Global Model Reduction Learning in Porous Media Flow Simulation](http://arxiv.org/abs/1807.09335v2)** | 2025-09-11 |  |
 | **[Efficient High-Order Participation Factor Computation via Batch-Structured Tensor Contraction](http://arxiv.org/abs/2509.08968v1)** | 2025-09-10 |  |
-| **[Hybrid Physics-Data Enrichments to Represent Uncertainty in Reduced Gas-Surface Chemistry Models for Hypersonic Flight](http://arxiv.org/abs/2509.08137v1)** | 2025-09-09 |  |
-| **[Parameter Robustness in Data-Driven Estimation of Dynamical Systems](http://arxiv.org/abs/2509.06534v1)** | 2025-09-08 | <details><summary>Submi...</summary><p>Submitted for publication in the IEEE Conference on Decision and Control (CDC) 2025</p></details> |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stochastic Subspace via Probabilistic Principal Component Analysis for Characterizing Model Error](http://arxiv.org/abs/2504.19963v3)** | 2025-10-06 | <details><summary>Publi...</summary><p>Published in Computational Mechanics, a journal</p></details> |
+| **[Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot](http://arxiv.org/abs/2510.05001v1)** | 2025-10-06 | <details><summary>6 pag...</summary><p>6 pages, 10 figures. Presented at IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2025</p></details> |
+| **[From Shadow to Light: Toward Safe and Efficient Policy Learning Across MPC, DeePC, RL, and LLM Agents](http://arxiv.org/abs/2510.04076v1)** | 2025-10-05 |  |
+| **[Sequential decoder training for improved latent space dynamics identification](http://arxiv.org/abs/2510.03535v1)** | 2025-10-03 |  |
+| **[SGRDN-Data learned sparsification of graph reaction-diffusion networks](http://arxiv.org/abs/2303.11943v4)** | 2025-10-03 |  |
 | **[oRANS: Online optimisation of RANS machine learning models with embedded DNS data generation](http://arxiv.org/abs/2510.02982v1)** | 2025-10-03 |  |
 | **[Transmission Conditions for the Non-Overlapping Schwarz Coupling of Full Order and Operator Inference Models](http://arxiv.org/abs/2509.12228v2)** | 2025-10-02 |  |
 | **[Deducing Closed-Form Expressions for Bright-Solitons in Strongly Magnetized Plasmas with Physics Informed Symbolic Regression (PISR)](http://arxiv.org/abs/2510.02551v1)** | 2025-10-02 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 1 table, 7 sections, 53 referenced works</p></details> |
@@ -55,28 +60,19 @@ labels: documentation
 | **[Reservoir computing based predictive reduced order model for steel grade intermixing in an industrial continuous casting tundish](http://arxiv.org/abs/2509.26293v1)** | 2025-09-30 |  |
 | **[Interpolated Adaptive Linear Reduced Order Modeling for Deformation Dynamics](http://arxiv.org/abs/2509.25392v1)** | 2025-09-29 |  |
 | **[The Frequency Reduced-Basis method: Reduced order models for time-dependent problems using the Laplace transform](http://arxiv.org/abs/2502.19120v2)** | 2025-09-28 |  |
-| **[Accelerating High-Fidelity Fixed Point Schemes with On-the-fly Reduced Order Modeling](http://arxiv.org/abs/2509.22846v1)** | 2025-09-26 |  |
-| **[GenUQ: Predictive Uncertainty Estimates via Generative Hyper-Networks](http://arxiv.org/abs/2509.21605v1)** | 2025-09-25 | 9 pages, 6 figures |
-| **[Model reduction of parametric ordinary differential equations via autoencoders: structure-preserving latent dynamics and convergence analysis](http://arxiv.org/abs/2509.21280v1)** | 2025-09-25 |  |
-| **[Incorporating Human-Inspired Ankle Characteristics in a Forced-Oscillation-Based Reduced-Order Model for Walking](http://arxiv.org/abs/2509.20689v1)** | 2025-09-25 |  |
-| **[Characterizing failure morphologies in fiber-reinforced composites via k-means clustering based multiscale framework](http://arxiv.org/abs/2509.20011v1)** | 2025-09-24 | 36 pages, 14 figures |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Real-Time Nonlinear Model Predictive Control of Heavy-Duty Skid-Steered Mobile Platform for Trajectory Tracking Tasks](http://arxiv.org/abs/2510.02976v1)** | 2025-10-03 |  |
-| **[The Curious Case of In-Training Compression of State Space Models](http://arxiv.org/abs/2510.02823v1)** | 2025-10-03 |  |
-| **[DiffusionBlocks: Block-wise Neural Network Training via Diffusion Interpretation](http://arxiv.org/abs/2506.14202v2)** | 2025-10-03 | Under review |
-| **[Accurate identification of communication between multiple interacting neural populations](http://arxiv.org/abs/2506.19094v4)** | 2025-10-03 |  |
-| **[Neural Network-based Co-design of Output-Feedback Control Barrier Function and Observer](http://arxiv.org/abs/2509.26597v2)** | 2025-10-02 | <details><summary>There...</summary><p>There were errors in paper (introduction section and notations)</p></details> |
-| **[Recurrent Control Barrier Functions: A Path Towards Nonparametric Safety Verification](http://arxiv.org/abs/2510.02127v1)** | 2025-10-02 | 8 Pages, 3 Figures |
-| **[Smooth Quasar-Convex Optimization with Constraints](http://arxiv.org/abs/2510.01943v1)** | 2025-10-02 |  |
-| **[Explicit Discovery of Nonlinear Symmetries from Dynamic Data](http://arxiv.org/abs/2510.01855v1)** | 2025-10-02 |  |
-| **[Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing](http://arxiv.org/abs/2506.05292v2)** | 2025-10-02 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Updated to include results with RC generalization to unseen segregated and asymmetric basins of attraction and unseen chaotic attractors</p></details> |
-| **[Synthetic Blips: Generalizing Synthetic Controls for Dynamic Treatment Effects](http://arxiv.org/abs/2210.11003v2)** | 2025-10-01 |  |
-| **[A Control Theory inspired Exploration Method for a Linear Bandit driven by a Linear Gaussian Dynamical System](http://arxiv.org/abs/2510.01364v1)** | 2025-10-01 |  |
-| **[NLDSI-BWE: Non Linear Dynamical Systems-Inspired Multi Resolution Discriminators for Speech Bandwidth Extension](http://arxiv.org/abs/2510.01109v1)** | 2025-10-01 |  |
-| **[Nonlinear Framework for Speech Bandwidth Extension](http://arxiv.org/abs/2507.15970v2)** | 2025-10-01 |  |
-| **[Dynamical system reconstruction from partial observations using stochastic dynamics](http://arxiv.org/abs/2510.01089v1)** | 2025-10-01 |  |
-| **[TubeDAgger: Reducing the Number of Expert Interventions with Stochastic Reach-Tubes](http://arxiv.org/abs/2510.00906v1)** | 2025-10-01 |  |
+| **[A Martingale-Free Introduction to Conditional Gaussian Nonlinear Systems](http://arxiv.org/abs/2410.24056v2)** | 2025-10-06 | <details><summary>Final...</summary><p>Final revision with corrected typographical errors. 63 pages (Main Text pp. 1--26; Appendix pp. 27--53), 3 figures (all in Main Text). Published in Entropy (MDPI). Code available upon request. For further details visit https://mariosandreou.short.gy/MartingaleFreeIntroCGNS</p></details> |
+| **[Neural Brain: A Neuroscience-inspired Framework for Embodied Agents](http://arxiv.org/abs/2505.07634v3)** | 2025-10-06 | <details><summary>51 pa...</summary><p>51 pages, 17 figures, 9 tables</p></details> |
+| **[The Limits of Inference in Complex Systems: When Stochastic Models Become Indistinguishable](http://arxiv.org/abs/2509.24977v2)** | 2025-10-06 |  |
+| **[Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC](http://arxiv.org/abs/2403.18149v2)** | 2025-10-06 | <details><summary>First...</summary><p>First three authors contributed equally</p></details> |
+| **[PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization](http://arxiv.org/abs/2510.04436v1)** | 2025-10-06 |  |
+| **[Learning to Predict Chaos: Curriculum-Driven Training for Robust Forecasting of Chaotic Dynamics](http://arxiv.org/abs/2510.04342v1)** | 2025-10-05 | <details><summary>MIT U...</summary><p>MIT URTC Technical Paper (Oral), 5 pages, 4 figures</p></details> |
+| **[MAD: A Magnitude And Direction Policy Parametrization for Stability Constrained Reinforcement Learning](http://arxiv.org/abs/2504.02565v2)** | 2025-10-05 |  |
+| **[Adaptive Federated Learning via Dynamical System Model](http://arxiv.org/abs/2510.04203v1)** | 2025-10-05 |  |
+| **[Stab-QRAM: An All-Clifford Quantum Random Access Memory for Special Data](http://arxiv.org/abs/2509.26494v2)** | 2025-10-05 | 7 pages, 4 figures |
+| **[On the Convergence and Size Transferability of Continuous-depth Graph Neural Networks](http://arxiv.org/abs/2510.03923v1)** | 2025-10-04 |  |
+| **[Detecting Invariant Manifolds in ReLU-Based RNNs](http://arxiv.org/abs/2510.03814v1)** | 2025-10-04 |  |
 
