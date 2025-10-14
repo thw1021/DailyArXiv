@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2025
+title: Latest 15 Papers - October 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial and Temporal Boundaries in Difference-in-Differences: A Framework from Navier-Stokes Equation](http://arxiv.org/abs/2510.11013v1)** | 2025-10-13 | 56 pages, 4 figures |
+| **[Blade: A Derivative-free Bayesian Inversion Method using Diffusion Priors](http://arxiv.org/abs/2510.10968v1)** | 2025-10-13 |  |
+| **[Phase-separated lipid vesicles: continuum modeling, simulation, and validation](http://arxiv.org/abs/2504.15201v2)** | 2025-10-12 |  |
+| **[A comprehensive comparison of neural operators for 3D industry-scale engineering designs](http://arxiv.org/abs/2510.05995v2)** | 2025-10-11 |  |
 | **[CFDLLMBench: A Benchmark Suite for Evaluating Large Language Models in Computational Fluid Dynamics](http://arxiv.org/abs/2509.20374v2)** | 2025-10-10 |  |
 | **[Closed-loop control of sloshing fuel in a spinning spacecraft](http://arxiv.org/abs/2510.08121v1)** | 2025-10-09 |  |
 | **[Targeted Digital Twin via Flow Map Learning and Its Application to Fluid Dynamics](http://arxiv.org/abs/2510.07549v1)** | 2025-10-08 |  |
 | **[VICON: Vision In-Context Operator Networks for Multi-Physics Fluid Dynamics Prediction](http://arxiv.org/abs/2411.16063v4)** | 2025-10-08 | <details><summary>updat...</summary><p>update after NIPS suggestions</p></details> |
 | **[Bioinspired Tapered-Spring Turbulence Sensor for Underwater Flow Detection](http://arxiv.org/abs/2510.07348v1)** | 2025-10-07 | 9 pages, 9 figures |
-| **[A comprehensive comparison of neural operators for 3D industry-scale engineering designs](http://arxiv.org/abs/2510.05995v1)** | 2025-10-07 |  |
 | **[Performance of a high-order MPI-Kokkos accelerated fluid solver](http://arxiv.org/abs/2510.05254v1)** | 2025-10-06 | <details><summary>12 pa...</summary><p>12 pages, 16 figures. submitted to Computer Physics Communications</p></details> |
 | **[FoilDiff: A Hybrid Transformer Backbone for Diffusion-based Modelling of 2D Airfoil Flow Fields](http://arxiv.org/abs/2510.04325v1)** | 2025-10-05 |  |
 | **[Dissecting Larval Zebrafish Hunting using Deep Reinforcement Learning Trained RNN Agents](http://arxiv.org/abs/2510.03699v1)** | 2025-10-04 |  |
 | **[Physics-informed Neural-operator Predictive Control for Drag Reduction in Turbulent Flows](http://arxiv.org/abs/2510.03360v1)** | 2025-10-03 |  |
 | **[nDNA -- the Semantic Helix of Artificial Cognition](http://arxiv.org/abs/2509.18216v2)** | 2025-10-02 |  |
 | **[SPUS: A Lightweight and Parameter-Efficient Foundation Model for PDEs](http://arxiv.org/abs/2510.01370v1)** | 2025-10-01 |  |
-| **[RheOFormer: A generative transformer model for simulation of complex fluids and flows](http://arxiv.org/abs/2510.01365v1)** | 2025-10-01 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to PNAS</p></details> |
-| **[ROSplane 2.0: A Fixed-Wing Autopilot for Research](http://arxiv.org/abs/2510.01041v1)** | 2025-10-01 |  |
-| **[Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark](http://arxiv.org/abs/2509.26574v2)** | 2025-10-01 | <details><summary>39 pa...</summary><p>39 pages, 6 figures, 6 tables</p></details> |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parameterized crack modelling based on a localized non-intrusive reduced basis method](http://arxiv.org/abs/2510.10624v1)** | 2025-10-12 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 4 tables</p></details> |
+| **[Model order reduction of parametric dynamical systems by slice sampling tensor completion](http://arxiv.org/abs/2411.07151v3)** | 2025-10-11 |  |
+| **[Bounds of Validity for Bifurcations of Equilibria in a Class of Networked Dynamical Systems](http://arxiv.org/abs/2510.10215v1)** | 2025-10-11 | <details><summary>This ...</summary><p>This manuscript has been submitted to the 2026 American Control Conference taking place in New Orleans, Louisiana, in May 2026</p></details> |
 | **[GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations](http://arxiv.org/abs/2510.07314v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025, First authors contributed equally</p></details> |
 | **[Identification and optimal control strategies for the transversal splitting of ultra--cold Bose gases](http://arxiv.org/abs/2510.07113v2)** | 2025-10-09 |  |
 | **[Topology optimization of nonlinear forced response curves via reduction on spectral submanifolds](http://arxiv.org/abs/2510.07900v1)** | 2025-10-09 | <details><summary>26 pa...</summary><p>26 pages, 12 figures. Submitted to Nonlinear Dynamics</p></details> |
@@ -57,26 +60,23 @@ labels: documentation
 | **[From Shadow to Light: Toward Safe and Efficient Policy Learning Across MPC, DeePC, RL, and LLM Agents](http://arxiv.org/abs/2510.04076v1)** | 2025-10-05 |  |
 | **[Sequential decoder training for improved latent space dynamics identification](http://arxiv.org/abs/2510.03535v1)** | 2025-10-03 |  |
 | **[SGRDN-Data learned sparsification of graph reaction-diffusion networks](http://arxiv.org/abs/2303.11943v4)** | 2025-10-03 |  |
-| **[oRANS: Online optimisation of RANS machine learning models with embedded DNS data generation](http://arxiv.org/abs/2510.02982v1)** | 2025-10-03 |  |
-| **[Transmission Conditions for the Non-Overlapping Schwarz Coupling of Full Order and Operator Inference Models](http://arxiv.org/abs/2509.12228v2)** | 2025-10-02 |  |
-| **[Deducing Closed-Form Expressions for Bright-Solitons in Strongly Magnetized Plasmas with Physics Informed Symbolic Regression (PISR)](http://arxiv.org/abs/2510.02551v1)** | 2025-10-02 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 1 table, 7 sections, 53 referenced works</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MODE: Learning compositional representations of complex systems with Mixtures Of Dynamical Experts](http://arxiv.org/abs/2510.09594v1)** | 2025-10-10 | 30 pages, 5 figures |
-| **[Solving Fokker-Planck-Kolmogorov Equation by Distribution Self-adaptation Normalized Physics-informed Neural Networks](http://arxiv.org/abs/2510.09422v1)** | 2025-10-10 |  |
-| **[Design Principles for Sequence Models via Coefficient Dynamics](http://arxiv.org/abs/2510.09389v1)** | 2025-10-10 |  |
-| **[Task-Level Insights from Eigenvalues across Sequence Models](http://arxiv.org/abs/2510.09379v1)** | 2025-10-10 |  |
-| **[Agentic Exploration of Physics Models](http://arxiv.org/abs/2509.24978v3)** | 2025-10-10 |  |
-| **[CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models](http://arxiv.org/abs/2505.16620v2)** | 2025-10-10 | NeurIPS 2025 |
-| **[Synthetic Series-Symbol Data Generation for Time Series Foundation Models](http://arxiv.org/abs/2510.08445v2)** | 2025-10-10 | <details><summary>57 pa...</summary><p>57 pages, 25 figures, 35 tables, NeurIPS 2025 accepted</p></details> |
-| **[Network Dynamics-Based Framework for Understanding Deep Neural Networks](http://arxiv.org/abs/2501.02436v4)** | 2025-10-10 | 13 pages, 7 figures |
-| **[Model-Based Lookahead Reinforcement Learning for in-hand manipulation](http://arxiv.org/abs/2510.08884v1)** | 2025-10-10 |  |
-| **[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](http://arxiv.org/abs/2502.00338v4)** | 2025-10-09 |  |
-| **[Carleman-Fourier linearization of nonlinear real dynamical systems with quasi-periodic fields](http://arxiv.org/abs/2503.01498v2)** | 2025-10-09 | <details><summary>Discr...</summary><p>Discrete and Continuous Dynamical Systems Series B, accepted</p></details> |
-| **[Near-optimal Rank Adaptive Inference of High Dimensional Matrices](http://arxiv.org/abs/2510.08117v1)** | 2025-10-09 |  |
-| **[LDMD with Temporally Adaptive Segmentation](http://arxiv.org/abs/2510.08065v1)** | 2025-10-09 | 24 pages |
-| **[Average Controlled and Average Natural Micro Direct Effects in Summary Causal Graphs](http://arxiv.org/abs/2410.23975v2)** | 2025-10-09 |  |
-| **[The Curious Case of In-Training Compression of State Space Models](http://arxiv.org/abs/2510.02823v2)** | 2025-10-09 |  |
+| **[Robust Online Sampling from Possibly Moving Target Distributions](http://arxiv.org/abs/2510.11571v1)** | 2025-10-13 |  |
+| **[Structured Kolmogorov-Arnold Neural ODEs for Interpretable Learning and Symbolic Discovery of Nonlinear Dynamics](http://arxiv.org/abs/2506.18339v2)** | 2025-10-13 |  |
+| **[Emergence of hybrid computational dynamics through reinforcement learning](http://arxiv.org/abs/2510.11162v1)** | 2025-10-13 | 22 pages, 11 figures |
+| **[Optimal Multi-Modal Transportation and Electric Power Flow: The Value of Coordinated Dynamic Operation](http://arxiv.org/abs/2510.10914v1)** | 2025-10-13 | 31 pages, 9 figures |
+| **[A Stochastic Differential Equation Framework for Multi-Objective LLM Interactions: Dynamical Systems Analysis with Code Generation Applications](http://arxiv.org/abs/2510.10739v1)** | 2025-10-12 | <details><summary>Peer-...</summary><p>Peer-reviewed and accepted to the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) DynaFront 2025 Workshop (https://sites.google.com/view/dynafrontneurips25)</p></details> |
+| **[DUST: A Framework for Data-Driven Density Steering](http://arxiv.org/abs/2408.02777v2)** | 2025-10-12 | <details><summary>submi...</summary><p>submitted to Automatica</p></details> |
+| **[PDE-Transformer: A Continuous Dynamical Systems Approach to Sequence Modeling](http://arxiv.org/abs/2510.03272v2)** | 2025-10-12 |  |
+| **[Compositional Symmetry as Compression: Lie Pseudogroup Structure in Algorithmic Agents](http://arxiv.org/abs/2510.10586v1)** | 2025-10-12 | <details><summary>Submi...</summary><p>Submitted to NeurReps 2025 (https://www.neurreps.org)</p></details> |
+| **[Linear Algebra Problems Solved by Using Damped Dynamical Systems on the Stiefel Manifold](http://arxiv.org/abs/2510.10535v1)** | 2025-10-12 |  |
+| **[Controller for Incremental Input-to-State Practical Stabilization of Partially Unknown systems with Invariance Guarantees](http://arxiv.org/abs/2510.10450v1)** | 2025-10-12 | 2 figures,9 pages |
+| **[Artificial intelligence as a surrogate brain: Bridging neural dynamical models and data](http://arxiv.org/abs/2510.10308v1)** | 2025-10-11 | 5 figures |
+| **[Model order reduction of parametric dynamical systems by slice sampling tensor completion](http://arxiv.org/abs/2411.07151v3)** | 2025-10-11 |  |
+| **[Bounds of Validity for Bifurcations of Equilibria in a Class of Networked Dynamical Systems](http://arxiv.org/abs/2510.10215v1)** | 2025-10-11 | <details><summary>This ...</summary><p>This manuscript has been submitted to the 2026 American Control Conference taking place in New Orleans, Louisiana, in May 2026</p></details> |
+| **[Distributionally Robust Control with End-to-End Statistically Guaranteed Metric Learning](http://arxiv.org/abs/2510.10214v1)** | 2025-10-11 |  |
+| **[Temporal Lifting as Latent-Space Regularization for Continuous-Time Flow Models in AI Systems](http://arxiv.org/abs/2510.09805v1)** | 2025-10-10 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 1 table, 1 algorithm</p></details> |
 
