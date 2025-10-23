@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2025
+title: Latest 15 Papers - October 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parameter Estimation in River Transport Models With Immobile Phase Exchange Using Dimensional Analysis and Reduced-Order Models](http://arxiv.org/abs/2510.19664v1)** | 2025-10-22 | <details><summary>36 pa...</summary><p>36 pages, 8 figures, submitted to Water Resources Research</p></details> |
+| **[Application of Reduced-Order Models for Temporal Multiscale Representations in the Prediction of Dynamical Systems](http://arxiv.org/abs/2510.18925v1)** | 2025-10-21 | <details><summary>Regul...</summary><p>Regular research article, 28 pages, 13 figures</p></details> |
 | **[A Review of Equation-Based and Data-Driven Reduced Order Models featuring a Hybrid cardiovascular application](http://arxiv.org/abs/2510.17331v1)** | 2025-10-20 |  |
 | **[Improving performance estimation of a PCM-integrated solar chimney through reduced-order based data assimilation](http://arxiv.org/abs/2510.16469v1)** | 2025-10-18 |  |
 | **[Nonlinear energy-preserving model reduction with lifting transformations that quadratize the energy](http://arxiv.org/abs/2503.02273v2)** | 2025-10-18 |  |
@@ -58,17 +60,23 @@ labels: documentation
 | **[Model order reduction of parametric dynamical systems by slice sampling tensor completion](http://arxiv.org/abs/2411.07151v3)** | 2025-10-11 |  |
 | **[Bounds of Validity for Bifurcations of Equilibria in a Class of Networked Dynamical Systems](http://arxiv.org/abs/2510.10215v1)** | 2025-10-11 | <details><summary>This ...</summary><p>This manuscript has been submitted to the 2026 American Control Conference taking place in New Orleans, Louisiana, in May 2026</p></details> |
 | **[GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations](http://arxiv.org/abs/2510.07314v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025, First authors contributed equally</p></details> |
-| **[Identification and optimal control strategies for the transversal splitting of ultra--cold Bose gases](http://arxiv.org/abs/2510.07113v2)** | 2025-10-09 |  |
-| **[Topology optimization of nonlinear forced response curves via reduction on spectral submanifolds](http://arxiv.org/abs/2510.07900v1)** | 2025-10-09 | <details><summary>26 pa...</summary><p>26 pages, 12 figures. Submitted to Nonlinear Dynamics</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Environment Inference for Learning Generalizable Dynamical System](http://arxiv.org/abs/2510.19784v1)** | 2025-10-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
+| **[LyTimeT: Towards Robust and Interpretable State-Variable Discovery](http://arxiv.org/abs/2510.19716v1)** | 2025-10-22 |  |
+| **[Non-intrusive structural-preserving sequential data assimilation](http://arxiv.org/abs/2510.19701v1)** | 2025-10-22 |  |
+| **[Vahana.jl -- A framework (not only) for large-scale agent-based models](http://arxiv.org/abs/2406.14441v2)** | 2025-10-22 |  |
+| **[Localized Dynamic Mode Decomposition with Temporally Adaptive Segmentation](http://arxiv.org/abs/2503.13093v2)** | 2025-10-22 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 7 tables</p></details> |
+| **[LDMD with Temporally Adaptive Segmentation](http://arxiv.org/abs/2510.08065v2)** | 2025-10-22 | <details><summary>arXiv...</summary><p>arXiv:2510.08065 is an updated version of our earlier preprint arXiv:2503.13093. We now wish to consolidate these two works by updating arXiv:2503.13093 and withdrawing arXiv:2510.08065</p></details> |
+| **[Optimization Benchmark for Diffusion Models on Dynamical Systems](http://arxiv.org/abs/2510.19376v1)** | 2025-10-22 |  |
+| **[Extreme Event Aware ($η$-) Learning](http://arxiv.org/abs/2510.19161v1)** | 2025-10-22 | <details><summary>Minor...</summary><p>Minor revisions at PNAS</p></details> |
+| **[Finite Sample Identification of Partially Observed Bilinear Dynamical Systems](http://arxiv.org/abs/2501.07652v2)** | 2025-10-21 |  |
+| **[Sub-optimality of the Separation Principle for Quadratic Control from Bilinear Observations](http://arxiv.org/abs/2504.11555v2)** | 2025-10-21 |  |
 | **[In-Context Learning of Stochastic Differential Equations with Foundation Inference Models](http://arxiv.org/abs/2502.19049v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. The previous version appeared under the title "Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation."</p></details> |
 | **[Least Restrictive Hyperplane Control Barrier Functions](http://arxiv.org/abs/2510.18643v1)** | 2025-10-21 |  |
 | **[Dynamical model parameters from ultrasound tongue kinematics](http://arxiv.org/abs/2510.18629v1)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted for publication in JASA Express Letters</p></details> |
+| **[Application of Reduced-Order Models for Temporal Multiscale Representations in the Prediction of Dynamical Systems](http://arxiv.org/abs/2510.18925v1)** | 2025-10-21 | <details><summary>Regul...</summary><p>Regular research article, 28 pages, 13 figures</p></details> |
 | **[Finite-time Safety and Reach-avoid Verification of Stochastic Discrete-time Systems](http://arxiv.org/abs/2404.18118v2)** | 2025-10-21 | <details><summary>To ap...</summary><p>To appear in Information and Computation</p></details> |
-| **[DrunkAgent: Stealthy Memory Corruption in LLM-Powered Recommender Agents](http://arxiv.org/abs/2503.23804v3)** | 2025-10-21 |  |
-| **[In-Context Learning of Linear Dynamical Systems with Transformers: Approximation Bounds and Depth-Separation](http://arxiv.org/abs/2502.08136v3)** | 2025-10-21 | <details><summary>NeurI...</summary><p>NeurIPS 2025 camera ready version. Slight change to title and author order from earlier version. Added experiments and acknowledgements section</p></details> |
-| **[Ensemble based Closed-Loop Optimal Control using Physics-Informed Neural Networks](http://arxiv.org/abs/2510.18195v1)** | 2025-10-21 |  |
 
