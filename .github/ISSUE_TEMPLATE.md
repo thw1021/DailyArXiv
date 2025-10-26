@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 24, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CALM-PDE: Continuous and Adaptive Convolutions for Latent Space Modeling of Time-dependent PDEs](http://arxiv.org/abs/2505.12944v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted for publication at the 39th Conference on Neural Information Processing Systems (NeurIPS) 2025, San Diego, California, USA</p></details> |
+| **[The inverse initial data problem for anisotropic Navier-Stokes equations via Legendre time reduction method](http://arxiv.org/abs/2507.16810v2)** | 2025-10-22 |  |
+| **[Guiding diffusion models to reconstruct flow fields from sparse data](http://arxiv.org/abs/2510.19971v1)** | 2025-10-22 | <details><summary>Code ...</summary><p>Code and dataset can be found at https://github.com/tum-pbs/sparse-reconstruction</p></details> |
 | **[PDE-Free Mass-Constrained Learning of Complex Systems with Hidden States: The crowd dynamics case](http://arxiv.org/abs/2510.17657v2)** | 2025-10-21 | 25 pages, 7 figures |
 | **[PICT -- A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics](http://arxiv.org/abs/2505.16992v2)** | 2025-10-20 | <details><summary>Sourc...</summary><p>Source code at https://github.com/tum-pbs/PICT</p></details> |
 | **[Spatial and Temporal Boundaries in Difference-in-Differences: A Framework from Navier-Stokes Equation](http://arxiv.org/abs/2510.11013v2)** | 2025-10-20 | 56 pages, 4 figures |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](http://arxiv.org/abs/2510.14190v1)** | 2025-10-16 |  |
 | **[Conditional Clifford-Steerable CNNs with Complete Kernel Basis for PDE Modeling](http://arxiv.org/abs/2510.14007v1)** | 2025-10-15 |  |
 | **[Property Testing for Ocean Models. Can We Specify It? (Invited Talk)](http://arxiv.org/abs/2510.13692v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[Fully implicit timestepping methods for the rotating shallow water equations](http://arxiv.org/abs/2508.02358v2)** | 2025-10-15 |  |
-| **[Deep Generative Prior for First Order Inverse Optimization](http://arxiv.org/abs/2504.20278v2)** | 2025-10-14 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Under Review</p></details> |
-| **[PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction](http://arxiv.org/abs/2510.16004v1)** | 2025-10-14 | 22 pages, 16 figures |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling](http://arxiv.org/abs/2505.13358v3)** | 2025-10-23 |  |
+| **[Convergence in On-line Learning of Static and Dynamic Systems](http://arxiv.org/abs/2501.03049v2)** | 2025-10-23 |  |
+| **[Multicast-partitioning in Time-triggered Stream Planning for Time-Sensitive Networks](http://arxiv.org/abs/2510.20440v1)** | 2025-10-23 |  |
+| **[Constrained Trajectory Optimization for Hybrid Dynamical Systems](http://arxiv.org/abs/2410.22894v2)** | 2025-10-23 | 6 pages 4 figures |
+| **[IEnSF: Iterative Ensemble Score Filter for Reducing Error in Posterior Score Estimation in Nonlinear Data Assimilation](http://arxiv.org/abs/2510.20159v1)** | 2025-10-23 | 36 pages, 11 figures |
 | **[Environment Inference for Learning Generalizable Dynamical System](http://arxiv.org/abs/2510.19784v1)** | 2025-10-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
 | **[LyTimeT: Towards Robust and Interpretable State-Variable Discovery](http://arxiv.org/abs/2510.19716v1)** | 2025-10-22 |  |
 | **[Non-intrusive structural-preserving sequential data assimilation](http://arxiv.org/abs/2510.19701v1)** | 2025-10-22 |  |
@@ -74,9 +79,4 @@ labels: documentation
 | **[Extreme Event Aware ($η$-) Learning](http://arxiv.org/abs/2510.19161v1)** | 2025-10-22 | <details><summary>Minor...</summary><p>Minor revisions at PNAS</p></details> |
 | **[Finite Sample Identification of Partially Observed Bilinear Dynamical Systems](http://arxiv.org/abs/2501.07652v2)** | 2025-10-21 |  |
 | **[Sub-optimality of the Separation Principle for Quadratic Control from Bilinear Observations](http://arxiv.org/abs/2504.11555v2)** | 2025-10-21 |  |
-| **[In-Context Learning of Stochastic Differential Equations with Foundation Inference Models](http://arxiv.org/abs/2502.19049v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. The previous version appeared under the title "Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation."</p></details> |
-| **[Least Restrictive Hyperplane Control Barrier Functions](http://arxiv.org/abs/2510.18643v1)** | 2025-10-21 |  |
-| **[Dynamical model parameters from ultrasound tongue kinematics](http://arxiv.org/abs/2510.18629v1)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted for publication in JASA Express Letters</p></details> |
-| **[Application of Reduced-Order Models for Temporal Multiscale Representations in the Prediction of Dynamical Systems](http://arxiv.org/abs/2510.18925v1)** | 2025-10-21 | <details><summary>Regul...</summary><p>Regular research article, 28 pages, 13 figures</p></details> |
-| **[Finite-time Safety and Reach-avoid Verification of Stochastic Discrete-time Systems](http://arxiv.org/abs/2404.18118v2)** | 2025-10-21 | <details><summary>To ap...</summary><p>To appear in Information and Computation</p></details> |
 
