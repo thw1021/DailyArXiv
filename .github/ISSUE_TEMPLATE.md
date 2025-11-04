@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2025
+title: Latest 15 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Cameras](http://arxiv.org/abs/2504.18864v3)** | 2025-11-01 |  |
 | **[Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems](http://arxiv.org/abs/2412.02729v2)** | 2025-10-31 |  |
 | **[DrivAerStar: An Industrial-Grade CFD Dataset for Vehicle Aerodynamic Optimization](http://arxiv.org/abs/2510.16857v2)** | 2025-10-31 |  |
 | **[Curly Flow Matching for Learning Non-gradient Field Dynamics](http://arxiv.org/abs/2510.26645v1)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
@@ -18,10 +19,6 @@ labels: documentation
 | **[Emergent Dynamical Spatial Boundaries in Emergency Medical Services: A Navier-Stokes Framework from First Principles](http://arxiv.org/abs/2510.26810v1)** | 2025-10-23 | <details><summary>110 p...</summary><p>110 pages, 11 figures</p></details> |
 | **[The inverse initial data problem for anisotropic Navier-Stokes equations via Legendre time reduction method](http://arxiv.org/abs/2507.16810v2)** | 2025-10-22 |  |
 | **[Guiding diffusion models to reconstruct flow fields from sparse data](http://arxiv.org/abs/2510.19971v1)** | 2025-10-22 | <details><summary>Code ...</summary><p>Code and dataset can be found at https://github.com/tum-pbs/sparse-reconstruction</p></details> |
-| **[PDE-Free Mass-Constrained Learning of Complex Systems with Hidden States: The crowd dynamics case](http://arxiv.org/abs/2510.17657v2)** | 2025-10-21 | 25 pages, 7 figures |
-| **[Residual-guided AI-CFD hybrid method enables stable and scalable simulations: from 2D benchmarks to 3D applications](http://arxiv.org/abs/2510.21804v1)** | 2025-10-21 |  |
-| **[PICT -- A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics](http://arxiv.org/abs/2505.16992v2)** | 2025-10-20 | <details><summary>Sourc...</summary><p>Source code at https://github.com/tum-pbs/PICT</p></details> |
-| **[Spatial and Temporal Boundaries in Difference-in-Differences: A Framework from Navier-Stokes Equation](http://arxiv.org/abs/2510.11013v2)** | 2025-10-20 | 56 pages, 4 figures |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -64,19 +61,13 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation](http://arxiv.org/abs/2411.10000v3)** | 2025-11-03 |  |
+| **[Learning Nonholonomic Dynamics with Constraint Discovery](http://arxiv.org/abs/2410.15201v3)** | 2025-11-03 |  |
+| **[Neuromorphic Intelligence](http://arxiv.org/abs/2509.11940v4)** | 2025-11-02 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 3 boxes</p></details> |
+| **[InputDSA: Demixing then Comparing Recurrent and Externally Driven Dynamics](http://arxiv.org/abs/2510.25943v2)** | 2025-11-01 | 36 pages, 14 figures |
+| **[Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation](http://arxiv.org/abs/2507.02608v4)** | 2025-10-31 |  |
 | **[Kernel conditional tests from learning-theoretic bounds](http://arxiv.org/abs/2506.03898v2)** | 2025-10-31 | <details><summary>46 pa...</summary><p>46 pages, 8 figures, 9 tables. Accepted at NeurIPS 2025; to appear in the proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems. Reviews and discussion: https://openreview.net/forum?id=hJKDwf32Xu</p></details> |
 | **[Solving Infinite-Horizon Optimal Control Problems using the Extreme Theory of Functional Connections](http://arxiv.org/abs/2510.27187v1)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted to Indian Control Conference (ICC-11), 6 pages, 12 figures</p></details> |
 | **[FMint-SDE: A Multimodal Foundation Model for Accelerating Numerical Simulation of SDEs via Error Correction](http://arxiv.org/abs/2510.27173v1)** | 2025-10-31 |  |
 | **[Transformers as Implicit State Estimators: In-Context Learning in Dynamical Systems](http://arxiv.org/abs/2410.16546v2)** | 2025-10-31 |  |
-| **[Privacy Preservation by Local Design in Cooperative Networked Control Systems](http://arxiv.org/abs/2207.03904v3)** | 2025-10-31 | 14 pages, 7 figures |
-| **[Climate Science and Control Engineering: Insights, Parallels, and Connections](http://arxiv.org/abs/2504.21153v3)** | 2025-10-30 |  |
-| **[Linear model reduction using spectral proper orthogonal decomposition](http://arxiv.org/abs/2407.03334v2)** | 2025-10-30 | 38 pages, 17 figures |
-| **[Nonlinear space-time model reduction in the frequency domain](http://arxiv.org/abs/2411.13531v2)** | 2025-10-30 | 41 pages, 12 figures |
-| **[Heuristic Adaptation of Potentially Misspecified Domain Support for Likelihood-Free Inference in Stochastic Dynamical Systems](http://arxiv.org/abs/2510.26656v1)** | 2025-10-30 |  |
-| **[Convex computation of regions of attraction from data using Sums-of-Squares programming](http://arxiv.org/abs/2507.14073v2)** | 2025-10-30 |  |
-| **[On the number of non-degenerate canalizing Boolean functions](http://arxiv.org/abs/2510.26556v1)** | 2025-10-30 | 11 pages, 3 figures |
-| **[Modeling Neural Activity with Conditionally Linear Dynamical Systems](http://arxiv.org/abs/2502.18347v2)** | 2025-10-30 | <details><summary>24 pa...</summary><p>24 pages, 7 figures. Associated code available at: https://github.com/neurostatslab/clds. To appear at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Variational System Identification of Aircraft](http://arxiv.org/abs/2510.26496v1)** | 2025-10-30 | <details><summary>AIAA ...</summary><p>AIAA Paper number AIAA 2025-1253. Presented at the AIAA SciTech 2025 Forum</p></details> |
-| **[SafEDMD: A Koopman-based data-driven controller design framework for nonlinear dynamical systems](http://arxiv.org/abs/2402.03145v4)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted for publication in Automatica</p></details> |
-| **[InputDSA: Demixing then Comparing Recurrent and Externally Driven Dynamics](http://arxiv.org/abs/2510.25943v1)** | 2025-10-29 | 36 pages, 14 figures |
 
