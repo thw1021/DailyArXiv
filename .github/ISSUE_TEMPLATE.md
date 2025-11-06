@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2025
+title: Latest 15 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Physics: Using AI Libraries to Develop Physics-Based Solvers for Incompressible Computational Fluid Dynamics](http://arxiv.org/abs/2402.17913v2)** | 2025-11-04 | 28 pages, 14 figures |
 | **[Simulation of a Non-Newtonian drop impact on a rigid surface: A mess-free approach](http://arxiv.org/abs/2511.02308v1)** | 2025-11-04 |  |
 | **[Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Cameras](http://arxiv.org/abs/2504.18864v3)** | 2025-11-01 |  |
 | **[Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems](http://arxiv.org/abs/2412.02729v2)** | 2025-10-31 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[CALM-PDE: Continuous and Adaptive Convolutions for Latent Space Modeling of Time-dependent PDEs](http://arxiv.org/abs/2505.12944v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted for publication at the 39th Conference on Neural Information Processing Systems (NeurIPS) 2025, San Diego, California, USA</p></details> |
 | **[Emergent Dynamical Spatial Boundaries in Emergency Medical Services: A Navier-Stokes Framework from First Principles](http://arxiv.org/abs/2510.26810v1)** | 2025-10-23 | <details><summary>110 p...</summary><p>110 pages, 11 figures</p></details> |
 | **[The inverse initial data problem for anisotropic Navier-Stokes equations via Legendre time reduction method](http://arxiv.org/abs/2507.16810v2)** | 2025-10-22 |  |
-| **[Guiding diffusion models to reconstruct flow fields from sparse data](http://arxiv.org/abs/2510.19971v1)** | 2025-10-22 | <details><summary>Code ...</summary><p>Code and dataset can be found at https://github.com/tum-pbs/sparse-reconstruction</p></details> |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[System Identification of a Moored ASV with Recessed Moon Pool via Deterministic and Bayesian Hankel-DMDc](http://arxiv.org/abs/2511.03482v1)** | 2025-11-05 | <details><summary>26 pa...</summary><p>26 pages, 11 figures, 2 tables, 1 box</p></details> |
+| **[Robust reduced-order model predictive control using peak-to-peak analysis of filtered signals](http://arxiv.org/abs/2511.03002v1)** | 2025-11-04 | <details><summary>Code ...</summary><p>Code available at: https://github.com/KohlerJohannes/ROM_MPC_ECC</p></details> |
 | **[HFNO: an interpretable data-driven decomposition strategy for turbulent flows](http://arxiv.org/abs/2511.01535v1)** | 2025-11-03 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 1 table</p></details> |
 | **[AquaROM: shape optimization pipeline for soft swimmers using parametric reduced order models](http://arxiv.org/abs/2511.01031v1)** | 2025-11-02 |  |
 | **[Nonlinear space-time model reduction in the frequency domain](http://arxiv.org/abs/2411.13531v2)** | 2025-10-30 | 41 pages, 12 figures |
@@ -58,25 +60,11 @@ labels: documentation
 | **[House Thermal Model Estimation: Robustness Across Seasons and Setpoints](http://arxiv.org/abs/2510.21044v1)** | 2025-10-23 | <details><summary>This ...</summary><p>This manuscript is a version of our paper accepted at the 57th North American Power Symposium (NAPS) 2025</p></details> |
 | **[Towards Interpretable Deep Learning and Analysis of Dynamical Systems via the Discrete Empirical Interpolation Method](http://arxiv.org/abs/2510.21852v1)** | 2025-10-22 | 9 pages, 12 figures |
 | **[Parameter Estimation in River Transport Models With Immobile Phase Exchange Using Dimensional Analysis and Reduced-Order Models](http://arxiv.org/abs/2510.19664v1)** | 2025-10-22 | <details><summary>36 pa...</summary><p>36 pages, 8 figures, submitted to Water Resources Research</p></details> |
-| **[Application of Reduced-Order Models for Temporal Multiscale Representations in the Prediction of Dynamical Systems](http://arxiv.org/abs/2510.18925v1)** | 2025-10-21 | <details><summary>Regul...</summary><p>Regular research article, 28 pages, 13 figures</p></details> |
-| **[A Review of Equation-Based and Data-Driven Reduced Order Models featuring a Hybrid cardiovascular application](http://arxiv.org/abs/2510.17331v1)** | 2025-10-20 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Universal Sequence Preconditioning](http://arxiv.org/abs/2502.06545v4)** | 2025-11-04 | <details><summary>35 pa...</summary><p>35 pages, 3 tables, 5 figures</p></details> |
-| **[Tracking solutions of time-varying variational inequalities](http://arxiv.org/abs/2406.14059v2)** | 2025-11-04 |  |
-| **[Constrained computational hybrid controller for Input Affine Hybrid Dynamical Systems](http://arxiv.org/abs/2511.00420v2)** | 2025-11-04 |  |
-| **[Optimal Targeting in Dynamic Systems](http://arxiv.org/abs/2507.00312v3)** | 2025-11-04 |  |
-| **[DoFlow: Causal Generative Flows for Interventional and Counterfactual Time-Series Prediction](http://arxiv.org/abs/2511.02137v1)** | 2025-11-04 |  |
-| **[Natural Building Blocks for Structured World Models: Theory, Evidence, and Scaling](http://arxiv.org/abs/2511.02091v1)** | 2025-11-03 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, under review for World Modeling Workshop 2026</p></details> |
-| **[Variational Data-Consistent Assimilation](http://arxiv.org/abs/2511.01759v1)** | 2025-11-03 | 38 Pages, 9 figures |
-| **[DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation](http://arxiv.org/abs/2411.10000v3)** | 2025-11-03 |  |
-| **[HFNO: an interpretable data-driven decomposition strategy for turbulent flows](http://arxiv.org/abs/2511.01535v1)** | 2025-11-03 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 1 table</p></details> |
-| **[CSMD: Curated Multimodal Dataset for Chinese Stock Analysis](http://arxiv.org/abs/2511.01318v1)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted by CIKM 2025</p></details> |
-| **[Lyapunov Stability Learning with Nonlinear Control via Inductive Biases](http://arxiv.org/abs/2511.01283v1)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted by IEEE Robio 2025</p></details> |
-| **[Particle Filter Made Simple: A Step-by-Step Beginner-friendly Guide](http://arxiv.org/abs/2511.01281v1)** | 2025-11-03 | 26 pages |
-| **[Learning Nonholonomic Dynamics with Constraint Discovery](http://arxiv.org/abs/2410.15201v3)** | 2025-11-03 |  |
-| **[On entropy production of repeated quantum measurements III. Quantum detailed balance](http://arxiv.org/abs/2511.00910v1)** | 2025-11-02 |  |
-| **[Neuromorphic Intelligence](http://arxiv.org/abs/2509.11940v4)** | 2025-11-02 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 3 boxes</p></details> |
+| **[Shift Before You Learn: Enabling Low-Rank Representations in Reinforcement Learning](http://arxiv.org/abs/2509.05193v2)** | 2025-11-05 | <details><summary>63 pa...</summary><p>63 pages, 11 figures. Accepted to NeurIPS 2025 (Spotlight)</p></details> |
+| **[Model order reduction via Lie groups](http://arxiv.org/abs/2511.03520v1)** | 2025-11-05 | 22 pages, 21 figures |
+| **[Data-driven Modeling of Grid-following Control in Grid-connected Converters](http://arxiv.org/abs/2511.03494v1)** | 2025-11-05 |  |
 
