@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -13,8 +13,8 @@ labels: documentation
 | **[FDBB: Fluid Dynamics Building Blocks](https://arxiv.org/pdf/1809.09851v1)** | 2018-09-27 |  |
 | **[Inpainting Computational Fluid Dynamics with Deep Learning](https://arxiv.org/pdf/2402.17185v1)** | 2024-02-28 | 20 pages, 9 figures |
 | **[SPNets: Differentiable Fluid Dynamics for Deep Neural Networks](https://arxiv.org/pdf/1806.06094v2)** | 2018-09-27 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL) 2018</p></details> |
-| **[Motion Planning for Fluid Manipulation using Simplified Dynamics](https://arxiv.org/pdf/1603.02347v1)** | 2016-03-09 |  |
 | **[HelmFluid: Learning Helmholtz Dynamics for Interpretable Fluid Prediction](https://arxiv.org/pdf/2310.10565v3)** | 2024-06-10 |  |
+| **[Motion Planning for Fluid Manipulation using Simplified Dynamics](https://arxiv.org/pdf/1603.02347v1)** | 2016-03-09 |  |
 | **[DeepLag: Discovering Deep Lagrangian Dynamics for Intuitive Fluid Prediction](https://arxiv.org/pdf/2402.02425v5)** | 2024-11-05 |  |
 | **[Prospects of federated machine learning in fluid dynamics](https://arxiv.org/pdf/2208.07017v1)** | 2024-06-12 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2207.12245</p></details> |
 | **[Enhancing Computational Fluid Dynamics with Machine Learning](https://arxiv.org/pdf/2110.02085v2)** | 2022-07-04 | 15 pages, 4 figures |
