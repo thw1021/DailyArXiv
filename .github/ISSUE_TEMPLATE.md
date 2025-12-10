@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 10, 2025
+title: Latest 15 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation](https://arxiv.org/abs/2512.07720v1)** | 2025-12-08 |  |
+| **[ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation](https://arxiv.org/abs/2512.07720v2)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project page: \url{https://lhyfst.github.io/visa}</p></details> |
+| **[CFD-copilot: leveraging domain-adapted large language model and model context protocol to enhance simulation automation](https://arxiv.org/abs/2512.07917v1)** | 2025-12-08 |  |
 | **[Learning Fluid-Structure Interaction with Physics-Informed Machine Learning and Immersed Boundary Methods](https://arxiv.org/abs/2505.18565v5)** | 2025-12-03 |  |
 | **[MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention](https://arxiv.org/abs/2512.01738v1)** | 2025-12-01 |  |
 | **[Rethinking Intracranial Aneurysm Vessel Segmentation: A Perspective from Computational Fluid Dynamics Applications](https://arxiv.org/abs/2512.01319v1)** | 2025-12-01 | 18 pages, 5 figures |
@@ -19,9 +20,8 @@ labels: documentation
 | **[Comparison of Generative Learning Methods for Turbulence Surrogates](https://arxiv.org/abs/2411.16417v3)** | 2025-11-26 |  |
 | **[CompARE: A Computational framework for Airborne Respiratory disease Evaluation integrating flow physics and human behavior](https://arxiv.org/abs/2511.21782v1)** | 2025-11-26 |  |
 | **[A Dynamics-Informed Gaussian Process Framework for 2D Stochastic Navier-Stokes via Quasi-Gaussianity](https://arxiv.org/abs/2511.21281v1)** | 2025-11-26 |  |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v1)** | 2025-11-25 |  |
 | **[Physics-informed self-supervised learning for predictive modeling of coronary artery digital twins](https://arxiv.org/abs/2512.03055v1)** | 2025-11-25 | 19 pages |
-| **[ASP-Assisted Symbolic Regression: Uncovering Hidden Physics in Fluid Mechanics](https://arxiv.org/abs/2507.17777v2)** | 2025-11-25 | <details><summary>This ...</summary><p>This research was implemented in the framework of the Action "Flagship actions in interdisciplinary scientific fields with a special focus on the productive fabric'', which is implemented through the National Recovery and Resilience Fund Greece 2.0 and funded by the European Union--NextGenerationEU (Project ID: TAEDR-0535983)</p></details> |
-| **[FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling](https://arxiv.org/abs/2506.07902v2)** | 2025-11-25 | 31 pages, 12 figures |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
+| **[Partial decidability protocol for the Wang tiling problem from statistical mechanics and chaotic mapping](https://arxiv.org/abs/2507.13268v2)** | 2025-12-09 | <details><summary>23 pa...</summary><p>23 pages, 36 figures. Many improvements and clarifications have been included in the manuscript. Version accepted for publication on PHYSICA A</p></details> |
+| **[Asynchronous Stochastic Approximation with Applications to Average-Reward Reinforcement Learning](https://arxiv.org/abs/2409.03915v3)** | 2025-12-09 | <details><summary>34 pa...</summary><p>34 pages. This version contains only the asynchronous stochastic approximation material from version 2 of the original report; the reinforcement-learning material has been moved to a separate, stand-alone paper (arXiv:2512.06218). Minor corrections and additional remarks have been incorporated. A shorter version of this paper is to appear in the SIAM Journal on Control and Optimization</p></details> |
+| **[Hebbian Physics Networks: A Self-Organizing Computational Architecture Based on Local Physical Laws](https://arxiv.org/abs/2507.00641v2)** | 2025-12-09 | 11 pages, 3 figures |
 | **[Understanding Individual Decision-Making in Multi-Agent Reinforcement Learning: A Dynamical Systems Approach](https://arxiv.org/abs/2512.07588v1)** | 2025-12-08 |  |
 | **[RRAEDy: Adaptive Latent Linearization of Nonlinear Dynamical Systems](https://arxiv.org/abs/2512.07542v1)** | 2025-12-08 |  |
 | **[An Information Theory of Finite Abstractions and their Fundamental Scalability Limits](https://arxiv.org/abs/2512.03977v3)** | 2025-12-08 |  |
@@ -75,8 +79,4 @@ labels: documentation
 | **[Physics-Informed Neural Koopman Machine for Interpretable Longitudinal Personalized Alzheimer's Disease Forecasting](https://arxiv.org/abs/2512.06134v1)** | 2025-12-05 |  |
 | **[Symmetric Linear Dynamical Systems are Learnable from Few Observations](https://arxiv.org/abs/2512.05337v1)** | 2025-12-05 |  |
 | **[On the Decidability of Monadic Theories of Arithmetic Predicates](https://arxiv.org/abs/2405.07953v3)** | 2025-12-04 | <details><summary>32 pa...</summary><p>32 pages, conference version of "On the Decidability of Monadic Second-Order Logic with Arithmetic Predicates" from LICS 2024 (Distinguished Paper Award)</p></details> |
-| **[Constrained Gaussian Random Fields with Continuous Linear Boundary Restrictions for Physics-informed Modeling of States](https://arxiv.org/abs/2511.22868v2)** | 2025-12-04 |  |
-| **[Entropic Analysis of Time Series through Kernel Density Estimation](https://arxiv.org/abs/2503.18916v2)** | 2025-12-04 |  |
-| **[How to Tame Your LLM: Semantic Collapse in Continuous Systems](https://arxiv.org/abs/2512.05162v1)** | 2025-12-04 | <details><summary>35 pa...</summary><p>35 pages, 1 figure. Exolytica AI Technical Report XTR-2025-01</p></details> |
-| **[One Ring to Rule Them All: Constrained Distributional Control for Massive-Scale Heterogeneous Robotic Ensemble Systems](https://arxiv.org/abs/2512.04502v1)** | 2025-12-04 | 9 pages, 8 figures |
 
