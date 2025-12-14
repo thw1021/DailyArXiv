@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 12, 2025
+title: Latest 15 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Blood Pressure Prediction for Coronary Artery Disease Diagnosis using Coronary Computed Tomography Angiography](https://arxiv.org/abs/2512.10765v1)** | 2025-12-11 | 19 pages, 9 figures |
+| **[MFC 5.0: An exascale many-physics flow solver](https://arxiv.org/abs/2503.07953v4)** | 2025-12-11 | <details><summary>51 pa...</summary><p>51 pages, 22 figures, 2 tables</p></details> |
 | **[SynthPix: A lightspeed PIV images generator](https://arxiv.org/abs/2512.09664v1)** | 2025-12-10 | <details><summary>Code:...</summary><p>Code: https://github.com/antonioterpin/synthpix</p></details> |
 | **[Rates and architectures for learning geometrically non-trivial operators](https://arxiv.org/abs/2512.09376v1)** | 2025-12-10 | 26 pages, 5 figures |
 | **[Graph Deep Learning for Intracranial Aneurysm Blood Flow Simulation and Risk Assessment](https://arxiv.org/abs/2512.09013v1)** | 2025-12-09 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Simulating many-engine spacecraft: Exceeding 1 quadrillion degrees of freedom via information geometric regularization](https://arxiv.org/abs/2505.07392v4)** | 2025-11-28 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 4 tables. SC25 ACM Gordon Bell Prize Finalist</p></details> |
 | **[Resolving Sharp Gradients of Unstable Singularities to Machine Precision via Neural Networks](https://arxiv.org/abs/2511.22819v1)** | 2025-11-28 | 27 pages, 12 figures |
 | **[Data efficient surrogate modeling for engineering design: Ensemble-free batch mode deep active learning for regression](https://arxiv.org/abs/2211.10360v2)** | 2025-11-28 | 6 pages, 4 figures |
-| **[Comparison of Generative Learning Methods for Turbulence Surrogates](https://arxiv.org/abs/2411.16417v3)** | 2025-11-26 |  |
-| **[CompARE: A Computational framework for Airborne Respiratory disease Evaluation integrating flow physics and human behavior](https://arxiv.org/abs/2511.21782v1)** | 2025-11-26 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
+| **[Dynamics of Agentic Loops in Large Language Models: A Geometric Theory of Trajectories](https://arxiv.org/abs/2512.10350v1)** | 2025-12-11 |  |
+| **[Error Analysis of Generalized Langevin Equations with Approximated Memory Kernels](https://arxiv.org/abs/2512.10256v1)** | 2025-12-11 |  |
 | **[Next-Generation Reservoir Computing for Dynamical Inference](https://arxiv.org/abs/2509.11338v2)** | 2025-12-10 | <details><summary>12 pa...</summary><p>12 pages, 12 figures; revision</p></details> |
 | **[Lazy Diffusion: Mitigating spectral collapse in generative diffusion-based stable autoregressive emulation of turbulent flows](https://arxiv.org/abs/2512.09572v1)** | 2025-12-10 |  |
 | **[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309v4)** | 2025-12-10 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Signal Processing (16 pages, 6 figures)</p></details> |
@@ -76,7 +79,4 @@ labels: documentation
 | **[An Information Theory of Finite Abstractions and their Fundamental Scalability Limits](https://arxiv.org/abs/2512.03977v3)** | 2025-12-08 |  |
 | **[Disturbance Compensation for Safe Kinematic Control of Robotic Systems with Closed Architecture](https://arxiv.org/abs/2512.05292v2)** | 2025-12-08 | <details><summary>Exten...</summary><p>Extended version of the paper submitted for publication. This document contains detailed mathematical derivations and additional experimental results omitted from the submission due to page constraints</p></details> |
 | **[Neuro-Vesicles: Neuromodulation Should Be a Dynamical System, Not a Tensor Decoration](https://arxiv.org/abs/2512.06966v1)** | 2025-12-07 | <details><summary>17 pa...</summary><p>17 pages, 1 overview figure, 3 tables; Early-stage theoretical design of the Neuro-Vesicle framework, posted as a record of original contribution</p></details> |
-| **[From Observations to Parameters: Detecting Changepoint in Nonlinear Dynamics with Simulation-based Inference](https://arxiv.org/abs/2510.17933v2)** | 2025-12-07 | 15 pages |
-| **[Formalisation of Security for Federated Learning with DP and Attacker Advantage in IIIf for Satellite Swarms -- Extended Version](https://arxiv.org/abs/2512.06467v1)** | 2025-12-06 |  |
-| **[Calibrating Geophysical Predictions under Constrained Probabilistic Distributions](https://arxiv.org/abs/2512.03081v2)** | 2025-12-06 |  |
 
