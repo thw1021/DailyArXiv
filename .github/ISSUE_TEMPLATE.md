@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,6 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Particle Image Velocimetry Refinement via Consensus ADMM](https://arxiv.org/abs/2512.11695v1)** | 2025-12-12 | <details><summary>Code:...</summary><p>Code: https://github.com/antonioterpin/flowgym</p></details> |
+| **[FloraForge: LLM-Assisted Procedural Generation of Editable and Analysis-Ready 3D Plant Geometric Models For Agricultural Applications](https://arxiv.org/abs/2512.11925v1)** | 2025-12-11 |  |
 | **[Blood Pressure Prediction for Coronary Artery Disease Diagnosis using Coronary Computed Tomography Angiography](https://arxiv.org/abs/2512.10765v1)** | 2025-12-11 | 19 pages, 9 figures |
 | **[MFC 5.0: An exascale many-physics flow solver](https://arxiv.org/abs/2503.07953v4)** | 2025-12-11 | <details><summary>51 pa...</summary><p>51 pages, 22 figures, 2 tables</p></details> |
 | **[SynthPix: A lightspeed PIV images generator](https://arxiv.org/abs/2512.09664v1)** | 2025-12-10 | <details><summary>Code:...</summary><p>Code: https://github.com/antonioterpin/synthpix</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[How do trout regulate patterns of muscle contraction to optimize propulsive efficiency during steady swimming](https://arxiv.org/abs/2512.01218v1)** | 2025-12-01 |  |
 | **[Multi-fidelity Bayesian Optimization Framework for CFD-Based Non-Premixed Burner Design](https://arxiv.org/abs/2511.23140v1)** | 2025-11-28 |  |
 | **[Simulating many-engine spacecraft: Exceeding 1 quadrillion degrees of freedom via information geometric regularization](https://arxiv.org/abs/2505.07392v4)** | 2025-11-28 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 4 tables. SC25 ACM Gordon Bell Prize Finalist</p></details> |
-| **[Resolving Sharp Gradients of Unstable Singularities to Machine Precision via Neural Networks](https://arxiv.org/abs/2511.22819v1)** | 2025-11-28 | 27 pages, 12 figures |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reduced Order Modeling of Energetic Materials Using Physics-Aware Recurrent Convolutional Neural Networks in a Latent Space (LatentPARC)](https://arxiv.org/abs/2509.12401v2)** | 2025-12-15 |  |
+| **[Balancing Accuracy and Speed: A Multi-Fidelity Ensemble Kalman Filter with a Machine Learning Surrogate Model](https://arxiv.org/abs/2512.12276v1)** | 2025-12-13 |  |
 | **[Probing forced responses and causality in data-driven climate emulators: conceptual limitations and the role of reduced-order models](https://arxiv.org/abs/2506.22552v6)** | 2025-12-12 |  |
 | **[Fast prediction of plasma instabilities with sparse-grid-accelerated optimized dynamic mode decomposition](https://arxiv.org/abs/2507.03245v2)** | 2025-12-05 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 10 tables</p></details> |
 | **[Time Extrapolation with Graph Convolutional Autoencoder and Tensor Train Decomposition](https://arxiv.org/abs/2511.23037v1)** | 2025-11-28 |  |
@@ -58,12 +60,18 @@ labels: documentation
 | **[Block-structured Operator Inference for coupled multiphysics model reduction](https://arxiv.org/abs/2511.05389v1)** | 2025-11-07 | 28 pages, 19 figures |
 | **[Data-driven uncertainty-aware seakeeping prediction of the Delft 372 catamaran using ensemble Hankel dynamic mode decomposition](https://arxiv.org/abs/2511.04461v1)** | 2025-11-06 |  |
 | **[Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](https://arxiv.org/abs/2410.18148v5)** | 2025-11-05 | 34 pages |
-| **[System Identification of a Moored ASV with Recessed Moon Pool via Deterministic and Bayesian Hankel-DMDc](https://arxiv.org/abs/2511.03482v1)** | 2025-11-05 | <details><summary>26 pa...</summary><p>26 pages, 11 figures, 2 tables, 1 box</p></details> |
-| **[HFNO: an interpretable data-driven decomposition strategy for turbulent flows](https://arxiv.org/abs/2511.01535v1)** | 2025-11-03 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 1 table</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations](https://arxiv.org/abs/2408.06069v2)** | 2025-12-15 |  |
+| **[Unsupervised learning of multiscale switching dynamical system models from multimodal neural data](https://arxiv.org/abs/2512.12881v1)** | 2025-12-14 | 30 pages, 8 figures |
+| **[From Linear Risk to Emergent Harm: Complexity as the Missing Core of AI Governance](https://arxiv.org/abs/2512.12707v1)** | 2025-12-14 | <details><summary>White...</summary><p>White Paper / Policy Brief (Working Paper). Published version available at: https://doi.org/10.5281/zenodo.17929014</p></details> |
+| **[Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics](https://arxiv.org/abs/2512.12602v1)** | 2025-12-14 | 17 pages, 2 figures |
+| **[Noise-robust Contrastive Learning for Critical Transition Detection in Dynamical Systems](https://arxiv.org/abs/2512.12523v1)** | 2025-12-14 | under revision |
+| **[Optimized Architectures for Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.12448v1)** | 2025-12-13 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
+| **[Data-driven modelling of autonomous and forced dynamical systems](https://arxiv.org/abs/2512.12432v1)** | 2025-12-13 | <details><summary>Keywo...</summary><p>Keywords: Invariant foliation, Invariant manifold, Reduced order model, Instantaneous frequency, Tensor approximation, Machine learning, JEPA</p></details> |
+| **[Neural CDEs as Correctors for Learned Time Series Models](https://arxiv.org/abs/2512.12116v1)** | 2025-12-13 |  |
 | **[Probing forced responses and causality in data-driven climate emulators: conceptual limitations and the role of reduced-order models](https://arxiv.org/abs/2506.22552v6)** | 2025-12-12 |  |
 | **[LUCID: Learning-Enabled Uncertainty-Aware Certification of Stochastic Dynamical Systems](https://arxiv.org/abs/2512.11750v1)** | 2025-12-12 | <details><summary>The m...</summary><p>The manuscript has been accepted for publication in the main track of AAAI 2026</p></details> |
 | **[Learning to Evolve with Convergence Guarantee via Neural Unrolling](https://arxiv.org/abs/2512.11453v1)** | 2025-12-12 |  |
@@ -71,12 +79,4 @@ labels: documentation
 | **[ASPEN: An Adaptive Spectral Physics-Enabled Network for Ginzburg-Landau Dynamics](https://arxiv.org/abs/2512.03290v2)** | 2025-12-12 | 15 pages, 7 figures |
 | **[Model-Based Lookahead Reinforcement Learning for in-hand manipulation](https://arxiv.org/abs/2510.08884v2)** | 2025-12-11 |  |
 | **[T-SHRED: Symbolic Regression for Regularization and Model Discovery with Transformer Shallow Recurrent Decoders](https://arxiv.org/abs/2506.15881v3)** | 2025-12-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, submitted to Transactions of the Royal Society (Symbolic Regression in the Physical Sciences)</p></details> |
-| **[On a class of constrained Bayesian filters and their numerical implementation in high-dimensional state-space Markov models](https://arxiv.org/abs/2512.11012v1)** | 2025-12-11 |  |
-| **[Dynamics of Agentic Loops in Large Language Models: A Geometric Theory of Trajectories](https://arxiv.org/abs/2512.10350v1)** | 2025-12-11 |  |
-| **[Error Analysis of Generalized Langevin Equations with Approximated Memory Kernels](https://arxiv.org/abs/2512.10256v1)** | 2025-12-11 |  |
-| **[Next-Generation Reservoir Computing for Dynamical Inference](https://arxiv.org/abs/2509.11338v2)** | 2025-12-10 | <details><summary>12 pa...</summary><p>12 pages, 12 figures; revision</p></details> |
-| **[Lazy Diffusion: Mitigating spectral collapse in generative diffusion-based stable autoregressive emulation of turbulent flows](https://arxiv.org/abs/2512.09572v1)** | 2025-12-10 |  |
-| **[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309v4)** | 2025-12-10 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Signal Processing (16 pages, 6 figures)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[Partial decidability protocol for the Wang tiling problem from statistical mechanics and chaotic mapping](https://arxiv.org/abs/2507.13268v2)** | 2025-12-09 | <details><summary>23 pa...</summary><p>23 pages, 36 figures. Many improvements and clarifications have been included in the manuscript. Version accepted for publication on PHYSICA A</p></details> |
 
