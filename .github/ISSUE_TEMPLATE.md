@@ -80,3 +80,40 @@ labels: documentation
 | **[Optimized Architectures for Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.12448v1)** | 2025-12-13 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
 | **[Data-driven modelling of autonomous and forced dynamical systems](https://arxiv.org/abs/2512.12432v1)** | 2025-12-13 | <details><summary>Keywo...</summary><p>Keywords: Invariant foliation, Invariant manifold, Reduced order model, Instantaneous frequency, Tensor approximation, Machine learning, JEPA</p></details> |
 
+## Koopman Operator
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance](https://arxiv.org/abs/2512.02397v3)** | 2025-12-17 |  |
+| **[Non-parametric Causal Inference in Dynamic Thresholding Designs](https://arxiv.org/abs/2512.15244v1)** | 2025-12-17 |  |
+| **[How Many Heads Make an SSM? A Unified Framework for Attention and State Space Models](https://arxiv.org/abs/2512.15115v1)** | 2025-12-17 |  |
+| **[Dense Associative Memories with Analog Circuits](https://arxiv.org/abs/2512.15002v1)** | 2025-12-17 |  |
+| **[A Physical Basis for Information](https://arxiv.org/abs/2407.09567v6)** | 2025-12-16 | - |
+| **[From STLS to Projection-based Dictionary Selection in Sparse Regression for System Identification](https://arxiv.org/abs/2512.14404v1)** | 2025-12-16 | 34 pages, 11 figures |
+| **[Causal Structure Learning for Dynamical Systems with Theoretical Score Analysis](https://arxiv.org/abs/2512.14361v1)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted as Oral at AAAI 2026 Conference</p></details> |
+| **[CiRL: Open-Source Environments for Reinforcement Learning in Circular Economy and Net Zero](https://arxiv.org/abs/2505.21536v2)** | 2025-12-16 | To be submitted |
+| **[Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations](https://arxiv.org/abs/2408.06069v2)** | 2025-12-15 |  |
+| **[Unsupervised learning of multiscale switching dynamical system models from multimodal neural data](https://arxiv.org/abs/2512.12881v1)** | 2025-12-14 | 30 pages, 8 figures |
+| **[From Linear Risk to Emergent Harm: Complexity as the Missing Core of AI Governance](https://arxiv.org/abs/2512.12707v1)** | 2025-12-14 | <details><summary>White...</summary><p>White Paper / Policy Brief (Working Paper). Published version available at: https://doi.org/10.5281/zenodo.17929014</p></details> |
+| **[Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics](https://arxiv.org/abs/2512.12602v1)** | 2025-12-14 | 17 pages, 2 figures |
+| **[Noise-robust Contrastive Learning for Critical Transition Detection in Dynamical Systems](https://arxiv.org/abs/2512.12523v1)** | 2025-12-14 | under revision |
+| **[Optimized Architectures for Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.12448v1)** | 2025-12-13 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
+| **[Data-driven modelling of autonomous and forced dynamical systems](https://arxiv.org/abs/2512.12432v1)** | 2025-12-13 | <details><summary>Keywo...</summary><p>Keywords: Invariant foliation, Invariant manifold, Reduced order model, Instantaneous frequency, Tensor approximation, Machine learning, JEPA</p></details> |
+
+## Hypersonic
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance](https://arxiv.org/abs/2512.02397v3)** | 2025-12-17 |  |
+| **[Non-parametric Causal Inference in Dynamic Thresholding Designs](https://arxiv.org/abs/2512.15244v1)** | 2025-12-17 |  |
+| **[How Many Heads Make an SSM? A Unified Framework for Attention and State Space Models](https://arxiv.org/abs/2512.15115v1)** | 2025-12-17 |  |
+| **[Dense Associative Memories with Analog Circuits](https://arxiv.org/abs/2512.15002v1)** | 2025-12-17 |  |
+| **[A Physical Basis for Information](https://arxiv.org/abs/2407.09567v6)** | 2025-12-16 | - |
+| **[From STLS to Projection-based Dictionary Selection in Sparse Regression for System Identification](https://arxiv.org/abs/2512.14404v1)** | 2025-12-16 | 34 pages, 11 figures |
+| **[Causal Structure Learning for Dynamical Systems with Theoretical Score Analysis](https://arxiv.org/abs/2512.14361v1)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted as Oral at AAAI 2026 Conference</p></details> |
+| **[CiRL: Open-Source Environments for Reinforcement Learning in Circular Economy and Net Zero](https://arxiv.org/abs/2505.21536v2)** | 2025-12-16 | To be submitted |
+| **[Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations](https://arxiv.org/abs/2408.06069v2)** | 2025-12-15 |  |
+| **[Unsupervised learning of multiscale switching dynamical system models from multimodal neural data](https://arxiv.org/abs/2512.12881v1)** | 2025-12-14 | 30 pages, 8 figures |
+| **[From Linear Risk to Emergent Harm: Complexity as the Missing Core of AI Governance](https://arxiv.org/abs/2512.12707v1)** | 2025-12-14 | <details><summary>White...</summary><p>White Paper / Policy Brief (Working Paper). Published version available at: https://doi.org/10.5281/zenodo.17929014</p></details> |
+| **[Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics](https://arxiv.org/abs/2512.12602v1)** | 2025-12-14 | 17 pages, 2 figures |
+| **[Noise-robust Contrastive Learning for Critical Transition Detection in Dynamical Systems](https://arxiv.org/abs/2512.12523v1)** | 2025-12-14 | under revision |
+| **[Optimized Architectures for Kolmogorov-Arnold Networks](https://arxiv.org/abs/2512.12448v1)** | 2025-12-13 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
+| **[Data-driven modelling of autonomous and forced dynamical systems](https://arxiv.org/abs/2512.12432v1)** | 2025-12-13 | <details><summary>Keywo...</summary><p>Keywords: Invariant foliation, Invariant manifold, Reduced order model, Instantaneous frequency, Tensor approximation, Machine learning, JEPA</p></details> |
