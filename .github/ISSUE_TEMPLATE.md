@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 25, 2025
+title: Latest 20 Papers - December 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -31,6 +31,7 @@ labels: documentation
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Active inference and artificial reasoning](https://arxiv.org/abs/2512.21129v1)** | 2025-12-24 |  |
 | **[Data-Driven Model Reduction using WeldNet: Windowed Encoders for Learning Dynamics](https://arxiv.org/abs/2512.11090v1)** | 2025-12-11 |  |
 | **[SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting](https://arxiv.org/abs/2503.05168v3)** | 2025-12-04 |  |
 | **[A Convex-Inspired Neural Construction for Structured and Generalizable Nonlinear Model Reduction](https://arxiv.org/abs/2511.18241v1)** | 2025-11-23 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Information theory for data-driven model reduction in physics and biology](https://arxiv.org/abs/2312.06608v3)** | 2025-09-28 | 62 pages, 26 figures |
 | **[Latent Twins](https://arxiv.org/abs/2509.20615v1)** | 2025-09-24 | <details><summary>38 pa...</summary><p>38 pages, 22 figures, 1 table</p></details> |
 | **[Adapting Projection-Based Reduced-Order Models using Projected Gaussian Process](https://arxiv.org/abs/2410.14090v2)** | 2025-09-14 |  |
-| **[Hybrid Physics-Data Enrichments to Represent Uncertainty in Reduced Gas-Surface Chemistry Models for Hypersonic Flight](https://arxiv.org/abs/2509.08137v1)** | 2025-09-09 |  |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,10 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mechanistic Analysis of Transformers for Dynamical Systems](https://arxiv.org/abs/2512.21113v1)** | 2025-12-24 |  |
+| **[Dyna-Style Reinforcement Learning Modeling and Control of Non-linear Dynamics](https://arxiv.org/abs/2512.21081v1)** | 2025-12-24 |  |
+| **[Robustness Certificates for Neural Networks against Adversarial Attacks](https://arxiv.org/abs/2512.20865v1)** | 2025-12-24 |  |
+| **[Learning from Imperfect Data: Robust Inference of Dynamic Systems using Simulation-based Generative Model](https://arxiv.org/abs/2507.10884v2)** | 2025-12-24 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, AAAI2026 (paper id: 20546)</p></details> |
 | **[Similarity Field Theory: A Mathematical Framework for Intelligence](https://arxiv.org/abs/2509.18218v4)** | 2025-12-23 |  |
 | **[On Efficient Adjustment for Micro Causal Effects in Summary Causal Graphs](https://arxiv.org/abs/2512.18315v2)** | 2025-12-23 |  |
 | **[Edge-of-chaos enhanced quantum-inspired algorithm for combinatorial optimization](https://arxiv.org/abs/2508.17655v4)** | 2025-12-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 3 tables</p></details> |
@@ -95,10 +99,6 @@ labels: documentation
 | **[Neural Proofs for Sound Verification and Control of Complex Systems](https://arxiv.org/abs/2512.18389v1)** | 2025-12-20 |  |
 | **[Approximation and learning with compositional tensor trains](https://arxiv.org/abs/2512.18059v1)** | 2025-12-19 | 37 pages, 6 figures |
 | **[Neural CDEs as Correctors for Learned Time Series Models](https://arxiv.org/abs/2512.12116v2)** | 2025-12-19 |  |
-| **[Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems](https://arxiv.org/abs/2508.12569v2)** | 2025-12-19 | 39 pages, 13 figures |
-| **[Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy](https://arxiv.org/abs/2512.17899v1)** | 2025-12-19 | 18 pages, 5 figures |
-| **[A Systems-Theoretic View on the Convergence of Algorithms under Disturbances](https://arxiv.org/abs/2512.17598v1)** | 2025-12-19 |  |
-| **[ASecond-Order SpikingSSM for Wearables](https://arxiv.org/abs/2510.14386v2)** | 2025-12-19 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
