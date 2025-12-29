@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 29, 2025
+title: Latest 20 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PhysicsCorrect: A Training-Free Approach for Stable Neural PDE Simulations](https://arxiv.org/abs/2507.02227v2)** | 2025-12-25 | AAAI 2026 Oral |
+| **[Safe Path Planning and Observation Quality Enhancement Strategy for Unmanned Aerial Vehicles in Water Quality Monitoring Tasks](https://arxiv.org/abs/2512.21375v1)** | 2025-12-24 |  |
+| **[AInsteinBench: Benchmarking Coding Agents on Scientific Repositories](https://arxiv.org/abs/2512.21373v1)** | 2025-12-24 |  |
 | **[Self-Guided Diffusion Model for Accelerating Computational Fluid Dynamics](https://arxiv.org/abs/2504.04375v3)** | 2025-12-23 |  |
 | **[A Critical Assessment of Pattern Comparisons Between POD and Autoencoders in Intraventricular Flows](https://arxiv.org/abs/2512.19376v1)** | 2025-12-22 | 27 pages, 9 figures |
 | **[A Surrogate-Augmented Symbolic CFD-Driven Training Framework for Accelerating Multi-objective Physical Model Development](https://arxiv.org/abs/2512.19031v1)** | 2025-12-22 |  |
@@ -24,9 +27,6 @@ labels: documentation
 | **[ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation](https://arxiv.org/abs/2512.07720v2)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project page: \url{https://lhyfst.github.io/visa}</p></details> |
 | **[CFD-copilot: leveraging domain-adapted large language model and model context protocol to enhance simulation automation](https://arxiv.org/abs/2512.07917v1)** | 2025-12-08 |  |
 | **[Learning Fluid-Structure Interaction with Physics-Informed Machine Learning and Immersed Boundary Methods](https://arxiv.org/abs/2505.18565v5)** | 2025-12-03 |  |
-| **[MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention](https://arxiv.org/abs/2512.01738v1)** | 2025-12-01 |  |
-| **[Rethinking Intracranial Aneurysm Vessel Segmentation: A Perspective from Computational Fluid Dynamics Applications](https://arxiv.org/abs/2512.01319v1)** | 2025-12-01 | 18 pages, 5 figures |
-| **[How do trout regulate patterns of muscle contraction to optimize propulsive efficiency during steady swimming](https://arxiv.org/abs/2512.01218v1)** | 2025-12-01 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v1)** | 2025-12-24 |  |
 | **[mLaSDI: Multi-stage latent space dynamics identification](https://arxiv.org/abs/2506.09207v3)** | 2025-12-23 |  |
 | **[Reduced-order autoregressive dynamics of a complex financial system: a PCA-based approach](https://arxiv.org/abs/2212.12044v2)** | 2025-12-23 | 12 pages, 6 figures |
 | **[Reduced Order Modeling for Tsunami Forecasting with Bayesian Hierarchical Pooling](https://arxiv.org/abs/2512.19804v1)** | 2025-12-22 |  |
@@ -74,11 +75,13 @@ labels: documentation
 | **[Operator learning for energy-efficient building ventilation control with computational fluid dynamics simulation of a real-world classroom](https://arxiv.org/abs/2504.21243v2)** | 2025-11-18 | <details><summary>The p...</summary><p>The paper is accepted by Applied Energy</p></details> |
 | **[Block Structure Preserving Model Order Reduction for A-EFIE Integral Equation Method](https://arxiv.org/abs/2511.13390v1)** | 2025-11-17 | 2 pages |
 | **[Attention-Enhanced Convolutional Autoencoder and Structured Delay Embeddings for Weather Prediction](https://arxiv.org/abs/2511.12682v1)** | 2025-11-16 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, Preprint</p></details> |
-| **[Uncertainty Quantification for Reduced-Order Surrogate Models Applied to Cloud Microphysics](https://arxiv.org/abs/2511.04534v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences (ML4PS). 12 pages, 3 figures, 2 tables. LLNL-CONF-2010541</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HopCast: Calibration of Autoregressive Dynamics Models](https://arxiv.org/abs/2501.16587v5)** | 2025-12-26 |  |
+| **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v1)** | 2025-12-24 |  |
+| **[Safe Path Planning and Observation Quality Enhancement Strategy for Unmanned Aerial Vehicles in Water Quality Monitoring Tasks](https://arxiv.org/abs/2512.21375v1)** | 2025-12-24 |  |
 | **[A Mechanistic Analysis of Transformers for Dynamical Systems](https://arxiv.org/abs/2512.21113v1)** | 2025-12-24 |  |
 | **[Dyna-Style Reinforcement Learning Modeling and Control of Non-linear Dynamics](https://arxiv.org/abs/2512.21081v1)** | 2025-12-24 |  |
 | **[Robustness Certificates for Neural Networks against Adversarial Attacks](https://arxiv.org/abs/2512.20865v1)** | 2025-12-24 |  |
@@ -96,9 +99,6 @@ labels: documentation
 | **[The Universe Learning Itself: On the Evolution of Dynamics from the Big Bang to Machine Intelligence](https://arxiv.org/abs/2512.16515v2)** | 2025-12-21 | 38 pages, 3 figures |
 | **[Comparing Dynamical Models Through Diffeomorphic Vector Field Alignment](https://arxiv.org/abs/2512.18566v1)** | 2025-12-21 | <details><summary>57 pa...</summary><p>57 pages, 18 figures. For associated code, see https://github.com/rq-Chen/DFORM_stable</p></details> |
 | **[ASPEN: An Adaptive Spectral Physics-Enabled Network for Ginzburg-Landau Dynamics](https://arxiv.org/abs/2512.03290v3)** | 2025-12-21 | 15 pages, 7 figures |
-| **[Neural Proofs for Sound Verification and Control of Complex Systems](https://arxiv.org/abs/2512.18389v1)** | 2025-12-20 |  |
-| **[Approximation and learning with compositional tensor trains](https://arxiv.org/abs/2512.18059v1)** | 2025-12-19 | 37 pages, 6 figures |
-| **[Neural CDEs as Correctors for Learned Time Series Models](https://arxiv.org/abs/2512.12116v2)** | 2025-12-19 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
