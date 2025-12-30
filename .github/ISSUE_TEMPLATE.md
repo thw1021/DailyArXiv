@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 30, 2025
+title: Latest 20 Papers - December 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,14 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum Generative Models for Computational Fluid Dynamics: A First Exploration of Latent Space Learning in Lattice Boltzmann Simulations](https://arxiv.org/abs/2512.22672v1)** | 2025-12-27 |  |
 | **[PhysicsCorrect: A Training-Free Approach for Stable Neural PDE Simulations](https://arxiv.org/abs/2507.02227v2)** | 2025-12-25 | AAAI 2026 Oral |
 | **[Safe Path Planning and Observation Quality Enhancement Strategy for Unmanned Aerial Vehicles in Water Quality Monitoring Tasks](https://arxiv.org/abs/2512.21375v1)** | 2025-12-24 |  |
 | **[AInsteinBench: Benchmarking Coding Agents on Scientific Repositories](https://arxiv.org/abs/2512.21373v1)** | 2025-12-24 |  |
+| **[Amortized Inference for Model Rocket Aerodynamics: Learning to Estimate Physical Parameters from Simulation](https://arxiv.org/abs/2512.22248v1)** | 2025-12-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 2 tables</p></details> |
 | **[Self-Guided Diffusion Model for Accelerating Computational Fluid Dynamics](https://arxiv.org/abs/2504.04375v3)** | 2025-12-23 |  |
 | **[A Critical Assessment of Pattern Comparisons Between POD and Autoencoders in Intraventricular Flows](https://arxiv.org/abs/2512.19376v1)** | 2025-12-22 | 27 pages, 9 figures |
+| **[SPUMA: a minimally invasive approach to the GPU porting of OPENFOAM](https://arxiv.org/abs/2512.22215v1)** | 2025-12-22 | 43 pages |
 | **[A Surrogate-Augmented Symbolic CFD-Driven Training Framework for Accelerating Multi-objective Physical Model Development](https://arxiv.org/abs/2512.19031v1)** | 2025-12-22 |  |
 | **[HydroGym: A Reinforcement Learning Platform for Fluid Dynamics](https://arxiv.org/abs/2512.17534v1)** | 2025-12-19 |  |
 | **[Graph Neural Networks for Interferometer Simulations](https://arxiv.org/abs/2512.16051v1)** | 2025-12-18 |  |
@@ -24,9 +27,6 @@ labels: documentation
 | **[Rates and architectures for learning geometrically non-trivial operators](https://arxiv.org/abs/2512.09376v1)** | 2025-12-10 | 26 pages, 5 figures |
 | **[Graph Deep Learning for Intracranial Aneurysm Blood Flow Simulation and Risk Assessment](https://arxiv.org/abs/2512.09013v1)** | 2025-12-09 |  |
 | **[Generative Urban Flow Modeling: From Geometry to Airflow with Graph Diffusion](https://arxiv.org/abs/2512.14725v1)** | 2025-12-09 |  |
-| **[ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation](https://arxiv.org/abs/2512.07720v2)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project page: \url{https://lhyfst.github.io/visa}</p></details> |
-| **[CFD-copilot: leveraging domain-adapted large language model and model context protocol to enhance simulation automation](https://arxiv.org/abs/2512.07917v1)** | 2025-12-08 |  |
-| **[Learning Fluid-Structure Interaction with Physics-Informed Machine Learning and Immersed Boundary Methods](https://arxiv.org/abs/2505.18565v5)** | 2025-12-03 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,15 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems](https://arxiv.org/abs/2508.12569v3)** | 2025-12-29 | 39 pages, 13 figures |
+| **[A Wide-Sense Stationarity Test Based on the Geometric Structure of Covariance](https://arxiv.org/abs/2512.23251v1)** | 2025-12-29 |  |
+| **[Model-free source seeking of exponentially convergent unicycle: theoretical and robotic experimental results](https://arxiv.org/abs/2511.00752v2)** | 2025-12-29 |  |
+| **[Learning solution operator of dynamical systems with diffusion maps kernel ridge regression](https://arxiv.org/abs/2512.17203v2)** | 2025-12-29 |  |
+| **[Divergence-kernel method for linear responses of densities and generative models](https://arxiv.org/abs/2509.03992v2)** | 2025-12-28 | <details><summary>Revis...</summary><p>Revised. Expanded discussion of generative models, renamed the method DK-SDE, added 20D experiments and hyperparameter sweeps, and updated implementation/runtimes (JAX)</p></details> |
+| **[Verification of Linear Dynamical Systems via O-Minimality of the Real Numbers](https://arxiv.org/abs/2410.13053v4)** | 2025-12-28 | <details><summary>ICALP...</summary><p>ICALP2025 paper with few corrections</p></details> |
+| **[Effective Game-Theoretic Motion Planning via Nested Search](https://arxiv.org/abs/2511.08001v2)** | 2025-12-28 | <details><summary>Updat...</summary><p>Updated version. Additional experiment included. Cosmetic/formatting changes made</p></details> |
+| **[Ambiguous Online Learning](https://arxiv.org/abs/2506.19810v2)** | 2025-12-28 |  |
+| **[Relaxation-based dynamical Ising machines for discrete tomography](https://arxiv.org/abs/2512.22784v1)** | 2025-12-28 | 21 pages; 6 figures |
 | **[HopCast: Calibration of Autoregressive Dynamics Models](https://arxiv.org/abs/2501.16587v5)** | 2025-12-26 |  |
 | **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v1)** | 2025-12-24 |  |
 | **[Safe Path Planning and Observation Quality Enhancement Strategy for Unmanned Aerial Vehicles in Water Quality Monitoring Tasks](https://arxiv.org/abs/2512.21375v1)** | 2025-12-24 |  |
@@ -90,15 +99,6 @@ labels: documentation
 | **[On Efficient Adjustment for Micro Causal Effects in Summary Causal Graphs](https://arxiv.org/abs/2512.18315v2)** | 2025-12-23 |  |
 | **[Edge-of-chaos enhanced quantum-inspired algorithm for combinatorial optimization](https://arxiv.org/abs/2508.17655v4)** | 2025-12-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 3 tables</p></details> |
 | **[Block-Recurrent Dynamics in Vision Transformers](https://arxiv.org/abs/2512.19941v1)** | 2025-12-23 | 25 pages, 15 figures |
-| **[Probing forced responses and causality in data-driven climate emulators: conceptual limitations and the role of reduced-order models](https://arxiv.org/abs/2506.22552v7)** | 2025-12-22 |  |
-| **[4D Gaussian Splatting as a Learned Dynamical System](https://arxiv.org/abs/2512.19648v1)** | 2025-12-22 |  |
-| **[An Inverse Scattering Inspired Fourier Neural Operator for Time-Dependent PDE Learning](https://arxiv.org/abs/2512.19439v1)** | 2025-12-22 |  |
-| **[Research Program: Theory of Learning in Dynamical Systems](https://arxiv.org/abs/2512.19410v1)** | 2025-12-22 |  |
-| **[Attractor learning for spatiotemporally chaotic dynamical systems using echo state networks with transfer learning](https://arxiv.org/abs/2505.24099v2)** | 2025-12-21 |  |
-| **[Merge on workspaces as Hopf algebra Markov chain](https://arxiv.org/abs/2512.18861v1)** | 2025-12-21 | <details><summary>80 pa...</summary><p>80 pages, LaTeX, 1 png figure</p></details> |
-| **[The Universe Learning Itself: On the Evolution of Dynamics from the Big Bang to Machine Intelligence](https://arxiv.org/abs/2512.16515v2)** | 2025-12-21 | 38 pages, 3 figures |
-| **[Comparing Dynamical Models Through Diffeomorphic Vector Field Alignment](https://arxiv.org/abs/2512.18566v1)** | 2025-12-21 | <details><summary>57 pa...</summary><p>57 pages, 18 figures. For associated code, see https://github.com/rq-Chen/DFORM_stable</p></details> |
-| **[ASPEN: An Adaptive Spectral Physics-Enabled Network for Ginzburg-Landau Dynamics](https://arxiv.org/abs/2512.03290v3)** | 2025-12-21 | 15 pages, 7 figures |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
