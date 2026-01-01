@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 01, 2026
+title: Latest 20 Papers - January 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Policy Learning for Legged Robot with Simplified Model Pretraining and Model Homotopy Transfer](https://arxiv.org/abs/2512.24698v1)** | 2025-12-31 | <details><summary>8 pag...</summary><p>8 pages. Submitted to the IEEE for possible publication</p></details> |
 | **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v1)** | 2025-12-24 |  |
 | **[mLaSDI: Multi-stage latent space dynamics identification](https://arxiv.org/abs/2506.09207v3)** | 2025-12-23 |  |
 | **[Reduced-order autoregressive dynamics of a complex financial system: a PCA-based approach](https://arxiv.org/abs/2212.12044v2)** | 2025-12-23 | 12 pages, 6 figures |
@@ -74,13 +75,17 @@ labels: documentation
 | **[Hybrid coupling with operator inference and the overlapping Schwarz alternating method](https://arxiv.org/abs/2511.20687v1)** | 2025-11-20 |  |
 | **[Operator learning for energy-efficient building ventilation control with computational fluid dynamics simulation of a real-world classroom](https://arxiv.org/abs/2504.21243v2)** | 2025-11-18 | <details><summary>The p...</summary><p>The paper is accepted by Applied Energy</p></details> |
 | **[Block Structure Preserving Model Order Reduction for A-EFIE Integral Equation Method](https://arxiv.org/abs/2511.13390v1)** | 2025-11-17 | 2 pages |
-| **[Attention-Enhanced Convolutional Autoencoder and Structured Delay Embeddings for Weather Prediction](https://arxiv.org/abs/2511.12682v1)** | 2025-11-16 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, Preprint</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sequential Bayesian parameter-state estimation in dynamical systems with noisy and incomplete observations via a variational framework](https://arxiv.org/abs/2512.25056v1)** | 2025-12-31 | 31 pages, 8 figures |
+| **[Energy-Aware Bayesian Control Barrier Functions for Physics-Informed Gaussian Process Dynamics](https://arxiv.org/abs/2512.24493v1)** | 2025-12-30 |  |
+| **[Generative forecasting with joint probability models](https://arxiv.org/abs/2512.24446v1)** | 2025-12-30 | 18 pages, 11 figures |
+| **[Towards mechanistic understanding in a data-driven weather model: internal activations reveal interpretable physical features](https://arxiv.org/abs/2512.24440v1)** | 2025-12-30 | 18 pages, 13 figures |
 | **[Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems](https://arxiv.org/abs/2508.12569v3)** | 2025-12-29 | 39 pages, 13 figures |
 | **[A Wide-Sense Stationarity Test Based on the Geometric Structure of Covariance](https://arxiv.org/abs/2512.23251v1)** | 2025-12-29 |  |
+| **[Enabling Physical AI at the Edge: Hardware-Accelerated Recovery of System Dynamics](https://arxiv.org/abs/2512.23767v1)** | 2025-12-29 | <details><summary>2025 ...</summary><p>2025 59th Asilomar Conference on Signals, Systems, and Computers</p></details> |
 | **[Model-free source seeking of exponentially convergent unicycle: theoretical and robotic experimental results](https://arxiv.org/abs/2511.00752v2)** | 2025-12-29 |  |
 | **[Learning solution operator of dynamical systems with diffusion maps kernel ridge regression](https://arxiv.org/abs/2512.17203v2)** | 2025-12-29 |  |
 | **[Divergence-kernel method for linear responses of densities and generative models](https://arxiv.org/abs/2509.03992v2)** | 2025-12-28 | <details><summary>Revis...</summary><p>Revised. Expanded discussion of generative models, renamed the method DK-SDE, added 20D experiments and hyperparameter sweeps, and updated implementation/runtimes (JAX)</p></details> |
@@ -94,11 +99,6 @@ labels: documentation
 | **[A Mechanistic Analysis of Transformers for Dynamical Systems](https://arxiv.org/abs/2512.21113v1)** | 2025-12-24 |  |
 | **[Dyna-Style Reinforcement Learning Modeling and Control of Non-linear Dynamics](https://arxiv.org/abs/2512.21081v1)** | 2025-12-24 |  |
 | **[Robustness Certificates for Neural Networks against Adversarial Attacks](https://arxiv.org/abs/2512.20865v1)** | 2025-12-24 |  |
-| **[Learning from Imperfect Data: Robust Inference of Dynamic Systems using Simulation-based Generative Model](https://arxiv.org/abs/2507.10884v2)** | 2025-12-24 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, AAAI2026 (paper id: 20546)</p></details> |
-| **[Similarity Field Theory: A Mathematical Framework for Intelligence](https://arxiv.org/abs/2509.18218v4)** | 2025-12-23 |  |
-| **[On Efficient Adjustment for Micro Causal Effects in Summary Causal Graphs](https://arxiv.org/abs/2512.18315v2)** | 2025-12-23 |  |
-| **[Edge-of-chaos enhanced quantum-inspired algorithm for combinatorial optimization](https://arxiv.org/abs/2508.17655v4)** | 2025-12-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 3 tables</p></details> |
-| **[Block-Recurrent Dynamics in Vision Transformers](https://arxiv.org/abs/2512.19941v1)** | 2025-12-23 | 25 pages, 15 figures |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
