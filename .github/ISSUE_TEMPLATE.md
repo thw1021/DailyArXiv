@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 06, 2026
+title: Latest 20 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v1)** | 2026-01-05 |  |
+| **[Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints](https://arxiv.org/abs/2504.11320v2)** | 2026-01-05 | 49 pages, 18 figures |
+| **[Car Drag Coefficient Prediction from 3D Point Clouds Using a Slice-Based Surrogate Model](https://arxiv.org/abs/2601.02112v1)** | 2026-01-05 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Published in: Bramer M., Stahl F. (eds) Artificial Intelligence XLII. SGAI 2025. Lecture Notes in Computer Science, vol 16302. Springer, Cham</p></details> |
+| **[Uncertainty Quantification of Surrogate Models using Conformal Prediction](https://arxiv.org/abs/2408.09881v3)** | 2026-01-05 |  |
+| **[Blade: A Derivative-free Bayesian Inversion Method using Diffusion Priors](https://arxiv.org/abs/2510.10968v2)** | 2026-01-05 |  |
+| **[Towards LLM-enabled autonomous combustion research: A literature-aware agent for self-corrective modeling workflows](https://arxiv.org/abs/2601.01357v1)** | 2026-01-04 |  |
 | **[Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Cameras](https://arxiv.org/abs/2504.18864v4)** | 2026-01-02 | <details><summary>To ap...</summary><p>To appear in AAAI-26 proceedings</p></details> |
 | **[Solving nonlinear subsonic compressible flow in infinite domain via multi-stage neural networks](https://arxiv.org/abs/2601.00342v1)** | 2026-01-01 | 24 pages, 9 figures |
 | **[Cuffless, calibration-free hemodynamic monitoring with physics-informed machine learning models](https://arxiv.org/abs/2601.00081v1)** | 2025-12-31 | <details><summary>225 p...</summary><p>225 pages, Number of Main Figures 4, Number of Extended Data Tables 4, Number of Extended Data Figures 5, Number of Supplementary Figures 34, Number of Supplementary Tables 11, Number of Supplementary Videos 11, Supplementary Statistical Table 1 (Supplementary Table 12)</p></details> |
@@ -21,12 +27,6 @@ labels: documentation
 | **[A Surrogate-Augmented Symbolic CFD-Driven Training Framework for Accelerating Multi-objective Physical Model Development](https://arxiv.org/abs/2512.19031v1)** | 2025-12-22 |  |
 | **[HydroGym: A Reinforcement Learning Platform for Fluid Dynamics](https://arxiv.org/abs/2512.17534v1)** | 2025-12-19 |  |
 | **[Graph Neural Networks for Interferometer Simulations](https://arxiv.org/abs/2512.16051v1)** | 2025-12-18 |  |
-| **[Particle Image Velocimetry Refinement via Consensus ADMM](https://arxiv.org/abs/2512.11695v1)** | 2025-12-12 | <details><summary>Code:...</summary><p>Code: https://github.com/antonioterpin/flowgym</p></details> |
-| **[Machine Learning Framework for Thrombosis Risk Prediction in Rotary Blood Pumps](https://arxiv.org/abs/2512.15761v1)** | 2025-12-12 |  |
-| **[FloraForge: LLM-Assisted Procedural Generation of Editable and Analysis-Ready 3D Plant Geometric Models For Agricultural Applications](https://arxiv.org/abs/2512.11925v1)** | 2025-12-11 |  |
-| **[Blood Pressure Prediction for Coronary Artery Disease Diagnosis using Coronary Computed Tomography Angiography](https://arxiv.org/abs/2512.10765v1)** | 2025-12-11 | 19 pages, 9 figures |
-| **[MFC 5.0: An exascale many-physics flow solver](https://arxiv.org/abs/2503.07953v4)** | 2025-12-11 | <details><summary>51 pa...</summary><p>51 pages, 22 figures, 2 tables</p></details> |
-| **[SynthPix: A lightspeed PIV images generator](https://arxiv.org/abs/2512.09664v1)** | 2025-12-10 | <details><summary>Code:...</summary><p>Code: https://github.com/antonioterpin/synthpix</p></details> |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hybrid coupling with operator inference and the overlapping Schwarz alternating method](https://arxiv.org/abs/2511.20687v2)** | 2026-01-03 |  |
 | **[Dynamic Policy Learning for Legged Robot with Simplified Model Pretraining and Model Homotopy Transfer](https://arxiv.org/abs/2512.24698v1)** | 2025-12-31 | <details><summary>8 pag...</summary><p>8 pages. Submitted to the IEEE for possible publication</p></details> |
 | **[Active learning for data-driven reduced models of parametric differential systems with Bayesian operator inference](https://arxiv.org/abs/2601.00038v1)** | 2025-12-30 |  |
 | **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v1)** | 2025-12-24 |  |
@@ -73,36 +74,38 @@ labels: documentation
 | **[Fast prediction of plasma instabilities with sparse-grid-accelerated optimized dynamic mode decomposition](https://arxiv.org/abs/2507.03245v2)** | 2025-12-05 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 10 tables</p></details> |
 | **[Time Extrapolation with Graph Convolutional Autoencoder and Tensor Train Decomposition](https://arxiv.org/abs/2511.23037v1)** | 2025-11-28 |  |
 | **[Operator Learning at Machine Precision](https://arxiv.org/abs/2511.19980v1)** | 2025-11-25 |  |
-| **[Hybrid coupling with operator inference and the overlapping Schwarz alternating method](https://arxiv.org/abs/2511.20687v1)** | 2025-11-20 |  |
 | **[Operator learning for energy-efficient building ventilation control with computational fluid dynamics simulation of a real-world classroom](https://arxiv.org/abs/2504.21243v2)** | 2025-11-18 | <details><summary>The p...</summary><p>The paper is accepted by Applied Energy</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ambiguous Online Learning](https://arxiv.org/abs/2506.19810v3)** | 2026-01-05 |  |
+| **[Comparison of neural network training strategies for the simulation of dynamical systems](https://arxiv.org/abs/2512.03851v2)** | 2026-01-05 | <details><summary>submi...</summary><p>submitted to ECC 2026</p></details> |
+| **[ChaosBench-Logic: A Benchmark for Logical and Symbolic Reasoning on Chaotic Dynamical Systems](https://arxiv.org/abs/2601.01982v1)** | 2026-01-05 | <details><summary>7 pag...</summary><p>7 pages, 0 figures , Accepted to AAAI-26 Bridge Program: Logical and Symbolic Reasoning in Language Models (camera-ready)</p></details> |
+| **[Information Flow in geophysical systems](https://arxiv.org/abs/2601.01795v1)** | 2026-01-05 | Submitted to JAMES |
+| **[Latent Space Element Method](https://arxiv.org/abs/2601.01741v1)** | 2026-01-05 | 17 pages, 10 figures |
+| **[Relaxed Equivariance via Multitask Learning](https://arxiv.org/abs/2410.17878v3)** | 2026-01-04 |  |
+| **[On the Emergence of Linear Behavior in Large-Scale Dynamical Systems via Spatial Averaging](https://arxiv.org/abs/2509.25589v2)** | 2026-01-04 |  |
+| **[Modeling Information Blackouts in Missing Not-At-Random Time Series Data](https://arxiv.org/abs/2601.01480v1)** | 2026-01-04 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables</p></details> |
+| **[Benchmarking Continuous Dynamic Multi-Objective Optimization: Survey and Generalized Test Suite](https://arxiv.org/abs/2601.01317v1)** | 2026-01-04 |  |
+| **[No Minima, No Collisions: Combining Modulation and Control Barrier Function Strategies for Feasible Dynamic Collision Avoidance](https://arxiv.org/abs/2502.14238v3)** | 2026-01-03 |  |
+| **[NeuroSSM: Multiscale Differential State-Space Modeling for Context-Aware fMRI Analysis](https://arxiv.org/abs/2601.01229v1)** | 2026-01-03 |  |
+| **[KOS-TL (Knowledge Operation System Type Logic)](https://arxiv.org/abs/2601.01143v1)** | 2026-01-03 |  |
+| **[Fibonacci-Driven Recursive Ensembles: Algorithms, Convergence, and Learning Dynamics](https://arxiv.org/abs/2601.01055v1)** | 2026-01-03 | 19 pages |
+| **[Disordered Dynamics in High Dimensions: Connections to Random Matrices and Machine Learning](https://arxiv.org/abs/2601.01010v1)** | 2026-01-03 |  |
 | **[Gradient-free ensemble transform methods for generalized Bayesian inference in generative models](https://arxiv.org/abs/2601.00760v1)** | 2026-01-02 |  |
 | **[Three factor delay learning rules for spiking neural networks](https://arxiv.org/abs/2601.00668v1)** | 2026-01-02 | 7 pages, 5 figures |
 | **[Neural Chains and Discrete Dynamical Systems](https://arxiv.org/abs/2601.00473v1)** | 2026-01-01 |  |
 | **[Sequential Reservoir Computing for Efficient High-Dimensional Spatiotemporal Forecasting](https://arxiv.org/abs/2601.00172v1)** | 2026-01-01 |  |
 | **[The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097v1)** | 2025-12-31 | 15 figures |
 | **[Sequential Bayesian parameter-state estimation in dynamical systems with noisy and incomplete observations via a variational framework](https://arxiv.org/abs/2512.25056v1)** | 2025-12-31 | 31 pages, 8 figures |
-| **[Energy-Aware Bayesian Control Barrier Functions for Physics-Informed Gaussian Process Dynamics](https://arxiv.org/abs/2512.24493v1)** | 2025-12-30 |  |
-| **[Generative forecasting with joint probability models](https://arxiv.org/abs/2512.24446v1)** | 2025-12-30 | 18 pages, 11 figures |
-| **[Towards mechanistic understanding in a data-driven weather model: internal activations reveal interpretable physical features](https://arxiv.org/abs/2512.24440v1)** | 2025-12-30 | 18 pages, 13 figures |
-| **[Active learning for data-driven reduced models of parametric differential systems with Bayesian operator inference](https://arxiv.org/abs/2601.00038v1)** | 2025-12-30 |  |
-| **[Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems](https://arxiv.org/abs/2508.12569v3)** | 2025-12-29 | 39 pages, 13 figures |
-| **[A Wide-Sense Stationarity Test Based on the Geometric Structure of Covariance](https://arxiv.org/abs/2512.23251v1)** | 2025-12-29 |  |
-| **[Enabling Physical AI at the Edge: Hardware-Accelerated Recovery of System Dynamics](https://arxiv.org/abs/2512.23767v1)** | 2025-12-29 | <details><summary>2025 ...</summary><p>2025 59th Asilomar Conference on Signals, Systems, and Computers</p></details> |
-| **[Model-free source seeking of exponentially convergent unicycle: theoretical and robotic experimental results](https://arxiv.org/abs/2511.00752v2)** | 2025-12-29 |  |
-| **[Learning solution operator of dynamical systems with diffusion maps kernel ridge regression](https://arxiv.org/abs/2512.17203v2)** | 2025-12-29 |  |
-| **[Divergence-kernel method for linear responses of densities and generative models](https://arxiv.org/abs/2509.03992v2)** | 2025-12-28 | <details><summary>Revis...</summary><p>Revised. Expanded discussion of generative models, renamed the method DK-SDE, added 20D experiments and hyperparameter sweeps, and updated implementation/runtimes (JAX)</p></details> |
-| **[Verification of Linear Dynamical Systems via O-Minimality of the Real Numbers](https://arxiv.org/abs/2410.13053v4)** | 2025-12-28 | <details><summary>ICALP...</summary><p>ICALP2025 paper with few corrections</p></details> |
-| **[Effective Game-Theoretic Motion Planning via Nested Search](https://arxiv.org/abs/2511.08001v2)** | 2025-12-28 | <details><summary>Updat...</summary><p>Updated version. Additional experiment included. Cosmetic/formatting changes made</p></details> |
-| **[Ambiguous Online Learning](https://arxiv.org/abs/2506.19810v2)** | 2025-12-28 |  |
-| **[Relaxation-based dynamical Ising machines for discrete tomography](https://arxiv.org/abs/2512.22784v1)** | 2025-12-28 | 21 pages; 6 figures |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Robust Koopman Learning from Noisy Data](https://arxiv.org/abs/2601.01971v1)** | 2026-01-05 |  |
+| **[Scalable Data-Driven Reachability Analysis and Control via Koopman Operators with Conformal Coverage Guarantees](https://arxiv.org/abs/2601.01076v1)** | 2026-01-03 | <details><summary>Under...</summary><p>Under review, 28 pages, 12 figures</p></details> |
+| **[Path Integral Solution for Dissipative Generative Dynamics](https://arxiv.org/abs/2601.00860v1)** | 2025-12-30 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables, along with 2 supplementary materials</p></details> |
 | **[Generative Modeling through Spectral Analysis of Koopman Operator](https://arxiv.org/abs/2512.18837v1)** | 2025-12-21 |  |
 | **[Solvability Complexity Index Classification For Koopman Operator Spectra In $L^p$ For $1<p<\infty$](https://arxiv.org/abs/2509.16016v2)** | 2025-12-15 | <details><summary>62 pa...</summary><p>62 pages: 49 pages + Appendix; Version 2: added remark (remark 5.28) in chapter 5 and corrected some typos/small logical mistakes</p></details> |
 | **[Koopman operator-based discussion on partial observation in stochastic systems](https://arxiv.org/abs/2506.21844v3)** | 2025-12-12 | 26 pages, 5 figures |
@@ -120,9 +123,6 @@ labels: documentation
 | **[On the Surprising Effectiveness of Spectral Clipping in Learning Stable Linear and Latent-Linear Dynamical Systems](https://arxiv.org/abs/2412.01168v6)** | 2025-11-17 |  |
 | **[Conformal Online Learning of Deep Koopman Linear Embeddings](https://arxiv.org/abs/2511.12760v1)** | 2025-11-16 |  |
 | **[Adaptive Digital Twin of Sheet Metal Forming via Proper Orthogonal Decomposition-Based Koopman Operator with Model Predictive Control](https://arxiv.org/abs/2511.10852v1)** | 2025-11-13 |  |
-| **[Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783v1)** | 2025-11-12 | 11 pages, 5 figures |
-| **[KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning](https://arxiv.org/abs/2509.09074v2)** | 2025-11-12 | <details><summary>Revis...</summary><p>Revised with link to code. Accepted to CoRL 2025 (Conference on Robot Learning). 15 pages 11 figures</p></details> |
-| **[Koopman global linearization of contact dynamics for robot locomotion and manipulation enables elaborate control](https://arxiv.org/abs/2511.06515v1)** | 2025-11-09 |  |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
@@ -140,5 +140,4 @@ labels: documentation
 | **[Eilmer: an Open-Source Multi-Physics Hypersonic Flow Solver](https://arxiv.org/abs/2206.01386v1)** | 2022-06-03 |  |
 | **[Terminal Adaptive Guidance for Autonomous Hypersonic Strike Weapons via Reinforcement Learning](https://arxiv.org/abs/2110.00634v2)** | 2021-10-16 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2107.14764; text overlap with arXiv:2109.03880</p></details> |
 | **[Adaptive Approach Phase Guidance for a Hypersonic Glider via Reinforcement Meta Learning](https://arxiv.org/abs/2107.14764v1)** | 2021-07-30 | <details><summary>Under...</summary><p>Under review for 2021 AIAA scitech GN&C conference</p></details> |
-| **[A unified construction of all-speed HLL-type schemes for hypersonic heating computations](https://arxiv.org/abs/2103.06374v1)** | 2021-02-20 |  |
 
