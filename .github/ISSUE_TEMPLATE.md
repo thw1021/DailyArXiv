@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 09, 2026
+title: Latest 20 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Equilibrium Response of Atmospheric Machine-Learning Models to Uniform Sea Surface Temperature Warming](https://arxiv.org/abs/2510.02415v2)** | 2026-01-08 |  |
+| **[Guiding diffusion models to reconstruct flow fields from sparse data](https://arxiv.org/abs/2510.19971v2)** | 2026-01-08 | <details><summary>Publi...</summary><p>Published on Physics of Fluids, code and data can be found at https://github.com/tum-pbs/sparse-reconstruction</p></details> |
 | **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v1)** | 2026-01-05 |  |
 | **[Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints](https://arxiv.org/abs/2504.11320v2)** | 2026-01-05 | 49 pages, 18 figures |
 | **[Car Drag Coefficient Prediction from 3D Point Clouds Using a Slice-Based Surrogate Model](https://arxiv.org/abs/2601.02112v1)** | 2026-01-05 | <details><summary>14 pa...</summary><p>14 pages, 5 figures. Published in: Bramer M., Stahl F. (eds) Artificial Intelligence XLII. SGAI 2025. Lecture Notes in Computer Science, vol 16302. Springer, Cham</p></details> |
@@ -25,12 +27,11 @@ labels: documentation
 | **[Self-Guided Diffusion Model for Accelerating Computational Fluid Dynamics](https://arxiv.org/abs/2504.04375v3)** | 2025-12-23 |  |
 | **[A Critical Assessment of Pattern Comparisons Between POD and Autoencoders in Intraventricular Flows](https://arxiv.org/abs/2512.19376v1)** | 2025-12-22 | 27 pages, 9 figures |
 | **[SPUMA: a minimally invasive approach to the GPU porting of OPENFOAM](https://arxiv.org/abs/2512.22215v1)** | 2025-12-22 | 43 pages |
-| **[A Surrogate-Augmented Symbolic CFD-Driven Training Framework for Accelerating Multi-objective Physical Model Development](https://arxiv.org/abs/2512.19031v1)** | 2025-12-22 |  |
-| **[HydroGym: A Reinforcement Learning Platform for Fluid Dynamics](https://arxiv.org/abs/2512.17534v1)** | 2025-12-19 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structure-preserving Lift & Learn: Scientific machine learning for nonlinear conservative partial differential equations](https://arxiv.org/abs/2507.00301v2)** | 2026-01-08 |  |
 | **[Active inference and artificial reasoning](https://arxiv.org/abs/2512.21129v1)** | 2025-12-24 |  |
 | **[Surrogate Trajectories Along Probability Flows: Pseudo Markovian Alternative to Mori Zwanzig](https://arxiv.org/abs/2601.00015v1)** | 2025-12-20 |  |
 | **[Data-Driven Model Reduction using WeldNet: Windowed Encoders for Learning Dynamics](https://arxiv.org/abs/2512.11090v1)** | 2025-12-11 |  |
@@ -50,15 +51,15 @@ labels: documentation
 | **[Stochastic Subspace via Probabilistic Principal Component Analysis for Characterizing Model Error](https://arxiv.org/abs/2504.19963v3)** | 2025-10-06 | <details><summary>Publi...</summary><p>Published in Computational Mechanics, a journal</p></details> |
 | **[A space-decoupling framework for optimization on bounded-rank matrices with orthogonally invariant constraints](https://arxiv.org/abs/2501.13830v2)** | 2025-09-30 | <details><summary>50 pa...</summary><p>50 pages, 12 figures, 6 tables</p></details> |
 | **[Information theory for data-driven model reduction in physics and biology](https://arxiv.org/abs/2312.06608v3)** | 2025-09-28 | 62 pages, 26 figures |
-| **[Latent Twins](https://arxiv.org/abs/2509.20615v1)** | 2025-09-24 | <details><summary>38 pa...</summary><p>38 pages, 22 figures, 1 table</p></details> |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v2)** | 2026-01-08 |  |
+| **[Structure-preserving Lift & Learn: Scientific machine learning for nonlinear conservative partial differential equations](https://arxiv.org/abs/2507.00301v2)** | 2026-01-08 |  |
 | **[Hybrid coupling with operator inference and the overlapping Schwarz alternating method](https://arxiv.org/abs/2511.20687v2)** | 2026-01-03 |  |
 | **[Dynamic Policy Learning for Legged Robot with Simplified Model Pretraining and Model Homotopy Transfer](https://arxiv.org/abs/2512.24698v1)** | 2025-12-31 | <details><summary>8 pag...</summary><p>8 pages. Submitted to the IEEE for possible publication</p></details> |
 | **[Active learning for data-driven reduced models of parametric differential systems with Bayesian operator inference](https://arxiv.org/abs/2601.00038v1)** | 2025-12-30 |  |
-| **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v1)** | 2025-12-24 |  |
 | **[mLaSDI: Multi-stage latent space dynamics identification](https://arxiv.org/abs/2506.09207v3)** | 2025-12-23 |  |
 | **[Reduced-order autoregressive dynamics of a complex financial system: a PCA-based approach](https://arxiv.org/abs/2212.12044v2)** | 2025-12-23 | 12 pages, 6 figures |
 | **[Reduced Order Modeling for Tsunami Forecasting with Bayesian Hierarchical Pooling](https://arxiv.org/abs/2512.19804v1)** | 2025-12-22 |  |
@@ -74,11 +75,13 @@ labels: documentation
 | **[Fast prediction of plasma instabilities with sparse-grid-accelerated optimized dynamic mode decomposition](https://arxiv.org/abs/2507.03245v2)** | 2025-12-05 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 10 tables</p></details> |
 | **[Time Extrapolation with Graph Convolutional Autoencoder and Tensor Train Decomposition](https://arxiv.org/abs/2511.23037v1)** | 2025-11-28 |  |
 | **[Operator Learning at Machine Precision](https://arxiv.org/abs/2511.19980v1)** | 2025-11-25 |  |
-| **[Operator learning for energy-efficient building ventilation control with computational fluid dynamics simulation of a real-world classroom](https://arxiv.org/abs/2504.21243v2)** | 2025-11-18 | <details><summary>The p...</summary><p>The paper is accepted by Applied Energy</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop](https://arxiv.org/abs/2601.05184v1)** | 2026-01-08 |  |
+| **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v2)** | 2026-01-08 |  |
+| **[Phasor Agents: Oscillatory Graphs with Three-Factor Plasticity and Sleep-Staged Learning](https://arxiv.org/abs/2601.04362v1)** | 2026-01-07 | 22 pages, 14 figures |
 | **[Minimum distance classification for nonlinear dynamical systems](https://arxiv.org/abs/2601.04058v1)** | 2026-01-07 |  |
 | **[Agentic Exploration of Physics Models](https://arxiv.org/abs/2509.24978v4)** | 2026-01-07 |  |
 | **[Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics](https://arxiv.org/abs/2512.12602v2)** | 2026-01-07 | 17 pages, 2 figures |
@@ -96,9 +99,6 @@ labels: documentation
 | **[Relaxed Equivariance via Multitask Learning](https://arxiv.org/abs/2410.17878v3)** | 2026-01-04 |  |
 | **[On the Emergence of Linear Behavior in Large-Scale Dynamical Systems via Spatial Averaging](https://arxiv.org/abs/2509.25589v2)** | 2026-01-04 |  |
 | **[Benchmarking Continuous Dynamic Multi-Objective Optimization: Survey and Generalized Test Suite](https://arxiv.org/abs/2601.01317v1)** | 2026-01-04 |  |
-| **[No Minima, No Collisions: Combining Modulation and Control Barrier Function Strategies for Feasible Dynamic Collision Avoidance](https://arxiv.org/abs/2502.14238v3)** | 2026-01-03 |  |
-| **[NeuroSSM: Multiscale Differential State-Space Modeling for Context-Aware fMRI Analysis](https://arxiv.org/abs/2601.01229v1)** | 2026-01-03 |  |
-| **[KOS-TL (Knowledge Operation System Type Logic)](https://arxiv.org/abs/2601.01143v1)** | 2026-01-03 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
