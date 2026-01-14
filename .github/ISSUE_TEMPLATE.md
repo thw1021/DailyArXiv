@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 14, 2026
+title: Latest 20 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mesh-Adaptive Hypergraph Neural Network for Unsteady Flow Around Oscillating and Rotating Structures](https://arxiv.org/abs/2503.22252v2)** | 2026-01-13 |  |
+| **[PINGS-X: Physics-Informed Normalized Gaussian Splatting with Axes Alignment for Efficient Super-Resolution of 4D Flow MRI](https://arxiv.org/abs/2511.11048v2)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026. Supplementary material included after references. 27 pages, 21 figures, 11 tables</p></details> |
 | **[SwarmFoam: An OpenFOAM Multi-Agent System Based on Multiple Types of Large Language Models](https://arxiv.org/abs/2601.07252v1)** | 2026-01-12 | 26 pages, 15 figures |
 | **[Low-Latency Event-Based Velocimetry for Quadrotor Control in a Narrow Pipe](https://arxiv.org/abs/2507.15444v2)** | 2026-01-09 | 19 pages |
 | **[The Equilibrium Response of Atmospheric Machine-Learning Models to Uniform Sea Surface Temperature Warming](https://arxiv.org/abs/2510.02415v2)** | 2026-01-08 |  |
@@ -25,8 +27,6 @@ labels: documentation
 | **[PhysicsCorrect: A Training-Free Approach for Stable Neural PDE Simulations](https://arxiv.org/abs/2507.02227v2)** | 2025-12-25 | AAAI 2026 Oral |
 | **[Safe Path Planning and Observation Quality Enhancement Strategy for Unmanned Aerial Vehicles in Water Quality Monitoring Tasks](https://arxiv.org/abs/2512.21375v1)** | 2025-12-24 |  |
 | **[AInsteinBench: Benchmarking Coding Agents on Scientific Repositories](https://arxiv.org/abs/2512.21373v1)** | 2025-12-24 |  |
-| **[Amortized Inference for Model Rocket Aerodynamics: Learning to Estimate Physical Parameters from Simulation](https://arxiv.org/abs/2512.22248v1)** | 2025-12-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 2 tables</p></details> |
-| **[Self-Guided Diffusion Model for Accelerating Computational Fluid Dynamics](https://arxiv.org/abs/2504.04375v3)** | 2025-12-23 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Symbolic Learning of Interpretable Reduced-Order Models for Jumping Quadruped Robots](https://arxiv.org/abs/2508.06538v2)** | 2026-01-13 | 8 pages |
 | **[An adjoint method for training data-driven reduced-order models](https://arxiv.org/abs/2601.07579v1)** | 2026-01-12 |  |
 | **[A Comparison of Parametric Dynamic Mode Decomposition Algorithms for Thermal-Hydraulics Applications](https://arxiv.org/abs/2503.24205v2)** | 2026-01-10 | <details><summary>Accep...</summary><p>Accepted for pubblication in Nuclear Technology</p></details> |
 | **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v2)** | 2026-01-08 |  |
@@ -74,11 +75,12 @@ labels: documentation
 | **[Bayesian Updating of constitutive parameters under hybrid uncertainties with a novel surrogate model applied to biofilms](https://arxiv.org/abs/2512.15145v1)** | 2025-12-17 |  |
 | **[Reduced Order Modeling of Energetic Materials Using Physics-Aware Recurrent Convolutional Neural Networks in a Latent Space (LatentPARC)](https://arxiv.org/abs/2509.12401v2)** | 2025-12-15 |  |
 | **[Balancing Accuracy and Speed: A Multi-Fidelity Ensemble Kalman Filter with a Machine Learning Surrogate Model](https://arxiv.org/abs/2512.12276v1)** | 2025-12-13 |  |
-| **[Fast prediction of plasma instabilities with sparse-grid-accelerated optimized dynamic mode decomposition](https://arxiv.org/abs/2507.03245v2)** | 2025-12-05 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 10 tables</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the use of graph models to achieve individual and group fairness](https://arxiv.org/abs/2601.08784v1)** | 2026-01-13 | 75 pages, 46 figures |
+| **[A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems](https://arxiv.org/abs/2601.08065v1)** | 2026-01-12 | <details><summary>Accep...</summary><p>Accepted to AAAI-2026 Bridge Program B10: Making Embodied AI Reliable with Testing and Formal Verification</p></details> |
 | **[Dual-Level Models for Physics-Informed Multi-Step Time Series Forecasting](https://arxiv.org/abs/2601.07640v1)** | 2026-01-12 |  |
 | **[Learning About Learning: A Physics Path from Spin Glasses to Artificial Intelligence](https://arxiv.org/abs/2601.07635v1)** | 2026-01-12 | 18 pages, 11 figures |
 | **[DyMixOp: Guiding Neural Operator Design for PDEs from a Complex Dynamics Perspective with Local-Global-Mixing](https://arxiv.org/abs/2508.13490v2)** | 2026-01-12 |  |
@@ -97,12 +99,11 @@ labels: documentation
 | **[Phasor Agents: Oscillatory Graphs with Three-Factor Plasticity and Sleep-Staged Learning](https://arxiv.org/abs/2601.04362v1)** | 2026-01-07 | 22 pages, 14 figures |
 | **[Minimum distance classification for nonlinear dynamical systems](https://arxiv.org/abs/2601.04058v1)** | 2026-01-07 |  |
 | **[Agentic Exploration of Physics Models](https://arxiv.org/abs/2509.24978v4)** | 2026-01-07 |  |
-| **[Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics](https://arxiv.org/abs/2512.12602v2)** | 2026-01-07 | 17 pages, 2 figures |
-| **[Tipping Point Forecasting in Non-Stationary Dynamics on Function Spaces](https://arxiv.org/abs/2308.08794v2)** | 2026-01-06 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalization Analysis and Method for Domain Generalization for a Family of Recurrent Neural Networks](https://arxiv.org/abs/2601.08122v1)** | 2026-01-13 |  |
 | **[Minimum distance classification for nonlinear dynamical systems](https://arxiv.org/abs/2601.04058v1)** | 2026-01-07 |  |
 | **[Deep Robust Koopman Learning from Noisy Data](https://arxiv.org/abs/2601.01971v1)** | 2026-01-05 |  |
 | **[Scalable Data-Driven Reachability Analysis and Control via Koopman Operators with Conformal Coverage Guarantees](https://arxiv.org/abs/2601.01076v1)** | 2026-01-03 | <details><summary>Under...</summary><p>Under review, 28 pages, 12 figures</p></details> |
@@ -122,7 +123,6 @@ labels: documentation
 | **[MAKO: Meta-Adaptive Koopman Operators for Learning-based Model Predictive Control of Parametrically Uncertain Nonlinear Systems](https://arxiv.org/abs/2510.09042v2)** | 2025-11-27 |  |
 | **[Optimal Control of Nonlinear Systems with Unknown Dynamics](https://arxiv.org/abs/2305.15188v3)** | 2025-11-18 |  |
 | **[On the Surprising Effectiveness of Spectral Clipping in Learning Stable Linear and Latent-Linear Dynamical Systems](https://arxiv.org/abs/2412.01168v6)** | 2025-11-17 |  |
-| **[Conformal Online Learning of Deep Koopman Linear Embeddings](https://arxiv.org/abs/2511.12760v1)** | 2025-11-16 |  |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
