@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 15, 2026
+title: Latest 20 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -79,10 +79,15 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning About Learning: A Physics Path from Spin Glasses to Artificial Intelligence](https://arxiv.org/abs/2601.07635v2)** | 2026-01-14 | 18 pages, 11 figures |
+| **[3D-SONAR: Self-Organizing Network for 3D Anomaly Ranking](https://arxiv.org/abs/2601.09294v1)** | 2026-01-14 | 28 pages, 12 figures |
+| **[Tipping Point Forecasting in Non-Stationary Dynamics on Function Spaces](https://arxiv.org/abs/2308.08794v3)** | 2026-01-14 |  |
+| **[The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097v2)** | 2026-01-14 | 15 figures |
+| **[Correspondences in computational and dynamical complexity I](https://arxiv.org/abs/2601.09109v1)** | 2026-01-14 | 25 pages, 1 figure |
+| **[Integration Matters for Learning PDEs with Backward SDEs](https://arxiv.org/abs/2505.01078v3)** | 2026-01-13 | NeurIPS 2025 |
 | **[On the use of graph models to achieve individual and group fairness](https://arxiv.org/abs/2601.08784v1)** | 2026-01-13 | 75 pages, 46 figures |
 | **[A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems](https://arxiv.org/abs/2601.08065v1)** | 2026-01-12 | <details><summary>Accep...</summary><p>Accepted to AAAI-2026 Bridge Program B10: Making Embodied AI Reliable with Testing and Formal Verification</p></details> |
 | **[Dual-Level Models for Physics-Informed Multi-Step Time Series Forecasting](https://arxiv.org/abs/2601.07640v1)** | 2026-01-12 |  |
-| **[Learning About Learning: A Physics Path from Spin Glasses to Artificial Intelligence](https://arxiv.org/abs/2601.07635v1)** | 2026-01-12 | 18 pages, 11 figures |
 | **[DyMixOp: Guiding Neural Operator Design for PDEs from a Complex Dynamics Perspective with Local-Global-Mixing](https://arxiv.org/abs/2508.13490v2)** | 2026-01-12 |  |
 | **[AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving](https://arxiv.org/abs/2503.05096v2)** | 2026-01-12 | <details><summary>This ...</summary><p>This paper is accepted by ACM SoCC 2025</p></details> |
 | **[DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models](https://arxiv.org/abs/2507.15716v2)** | 2026-01-11 |  |
@@ -94,11 +99,6 @@ labels: documentation
 | **[Self-Evolving Distributed Memory Architecture for Scalable AI Systems](https://arxiv.org/abs/2601.05569v1)** | 2026-01-09 | 21 pages |
 | **[Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop](https://arxiv.org/abs/2601.05184v1)** | 2026-01-08 |  |
 | **[kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning](https://arxiv.org/abs/2512.21409v2)** | 2026-01-08 |  |
-| **[Machine learning assisted state prediction of misspecified linear dynamical system via modal reduction](https://arxiv.org/abs/2601.05297v1)** | 2026-01-08 |  |
-| **[TimeGNN-Augmented Hybrid-Action MARL for Fine-Grained Task Partitioning and Energy-Aware Offloading in MEC](https://arxiv.org/abs/2601.06191v1)** | 2026-01-08 |  |
-| **[Phasor Agents: Oscillatory Graphs with Three-Factor Plasticity and Sleep-Staged Learning](https://arxiv.org/abs/2601.04362v1)** | 2026-01-07 | 22 pages, 14 figures |
-| **[Minimum distance classification for nonlinear dynamical systems](https://arxiv.org/abs/2601.04058v1)** | 2026-01-07 |  |
-| **[Agentic Exploration of Physics Models](https://arxiv.org/abs/2509.24978v4)** | 2026-01-07 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
