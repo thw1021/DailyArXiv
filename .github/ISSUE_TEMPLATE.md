@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 23, 2026
+title: Latest 20 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniField: Joint Multi-Domain Training for Universal Surface Pressure Modeling](https://arxiv.org/abs/2510.24106v4)** | 2026-01-22 |  |
 | **[Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](https://arxiv.org/abs/2601.15015v1)** | 2026-01-21 | <details><summary>Code ...</summary><p>Code available at https://github.com/safe-autonomous-systems/fluidgym</p></details> |
 | **[Multi-Partner Project: Multi-GPU Performance Portability Analysis for CFD Simulations at Scale](https://arxiv.org/abs/2601.14159v1)** | 2026-01-20 | <details><summary>DATE ...</summary><p>DATE 26 conference Multi-Partner Project Paper</p></details> |
 | **[Comparison of Generative Learning Methods for Turbulence Surrogates](https://arxiv.org/abs/2411.16417v4)** | 2026-01-20 |  |
@@ -26,7 +27,6 @@ labels: documentation
 | **[The Equilibrium Response of Atmospheric Machine-Learning Models to Uniform Sea Surface Temperature Warming](https://arxiv.org/abs/2510.02415v2)** | 2026-01-08 |  |
 | **[Guiding diffusion models to reconstruct flow fields from sparse data](https://arxiv.org/abs/2510.19971v2)** | 2026-01-08 | <details><summary>Publi...</summary><p>Published on Physics of Fluids, code and data can be found at https://github.com/tum-pbs/sparse-reconstruction</p></details> |
 | **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v1)** | 2026-01-05 |  |
-| **[Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints](https://arxiv.org/abs/2504.11320v2)** | 2026-01-05 | 49 pages, 18 figures |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -79,12 +79,15 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamics of Agentic Loops in Large Language Models: A Geometric Theory of Trajectories](https://arxiv.org/abs/2512.10350v3)** | 2026-01-22 |  |
+| **[On the Nonasymptotic Scaling Guarantee of Hyperparameter Estimation in Inhomogeneous, Weakly-Dependent Complex Network Dynamical Systems](https://arxiv.org/abs/2601.15603v1)** | 2026-01-22 |  |
+| **[PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization](https://arxiv.org/abs/2510.04436v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted for publication at the 2026 American Control Conference</p></details> |
+| **[Control Occupation Kernel Regression for Nonlinear Control-Affine Systems](https://arxiv.org/abs/2106.00103v2)** | 2026-01-21 |  |
 | **[On the unconventional Hug integrator](https://arxiv.org/abs/2502.10199v2)** | 2026-01-21 | <details><summary>Added...</summary><p>Added some clarifications and additional numerical results</p></details> |
 | **[A Wide-Sense Stationarity Test Based on the Geometric Structure of Covariance](https://arxiv.org/abs/2512.23251v2)** | 2026-01-21 |  |
 | **[Finite Expression Methods for Discovering Physical Laws from Data](https://arxiv.org/abs/2305.08342v3)** | 2026-01-21 |  |
 | **[Co-Buchi Barrier Certificates for Discrete-time Dynamical Systems](https://arxiv.org/abs/2311.07695v2)** | 2026-01-20 |  |
 | **[Stabilizing autoregressive forecasts in chaotic systems via multi-rate latent recurrence](https://arxiv.org/abs/2601.14487v1)** | 2026-01-20 |  |
-| **[Dynamics of Agentic Loops in Large Language Models: A Geometric Theory of Trajectories](https://arxiv.org/abs/2512.10350v2)** | 2026-01-20 |  |
 | **[Towards Fast Coarse-graining and Equation Discovery with Foundation Inference Models](https://arxiv.org/abs/2510.12618v2)** | 2026-01-20 |  |
 | **[Generating consensus and dissent on massive discussion platforms with an $O(N)$ semantic-vector model](https://arxiv.org/abs/2601.13932v1)** | 2026-01-20 | 9 pages, 8 figures |
 | **[GeoDynamics: A Geometric State-Space Neural Network for Understanding Brain Dynamics on Riemannian Manifolds](https://arxiv.org/abs/2601.13570v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
@@ -96,9 +99,6 @@ labels: documentation
 | **[An Adaptive Online Smoother with Closed-Form Solutions and Information-Theoretic Lag Selection for Conditional Gaussian Nonlinear Systems](https://arxiv.org/abs/2411.05870v2)** | 2026-01-19 | <details><summary>Lates...</summary><p>Latest revision. 46 pages (Main Text pp. 1--28; Appendix pp. 29--40), 9 figures (7 in Main Text, 2 in Appendix). Currently under review in Journal of Nonlinear Science (Springer Nature). Code available upon request. For further details visit https://mariosandreou.short.gy/OnlineSmootherCGNS</p></details> |
 | **[Streaming Operator Inference for Model Reduction of Large-Scale Dynamical Systems](https://arxiv.org/abs/2601.12161v1)** | 2026-01-17 |  |
 | **[Efficient Parametric SVD of Koopman Operator for Stochastic Dynamical Systems](https://arxiv.org/abs/2507.07222v3)** | 2026-01-17 | <details><summary>Accep...</summary><p>Accepted for NeurIPS 2025. The first two authors contributed equally. 30 pages, 5 figures, 4 tables. Code is available at https://github.com/MinchanJeong/NeuralKoopmanSVD</p></details> |
-| **[Flash STU: Fast Spectral Transform Units](https://arxiv.org/abs/2409.10489v6)** | 2026-01-17 |  |
-| **[Latent Dynamics Graph Convolutional Networks for model order reduction of parameterized time-dependent PDEs](https://arxiv.org/abs/2601.11259v1)** | 2026-01-16 |  |
-| **[Comprehensive Robust Dynamic Mode Decomposition from Mode Extraction to Dimensional Reduction](https://arxiv.org/abs/2601.11116v1)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Signal Processing. The source code is available at https://github.com/MDI-TokyoTech/Comprehensive-Robust-Dynamic-Mode-Decomposition. The project page is https://www.mdi.c.titech.ac.jp/publications/cr-dmd</p></details> |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
