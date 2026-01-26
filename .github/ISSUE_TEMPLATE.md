@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 26, 2026
+title: Latest 20 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,8 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RONOM: Reduced-Order Neural Operator Modeling](https://arxiv.org/abs/2507.12814v2)** | 2026-01-23 |  |
+| **[Interpretable and flexible non-intrusive reduced-order models using reproducing kernel Hilbert spaces](https://arxiv.org/abs/2506.10224v2)** | 2026-01-22 |  |
 | **[EmoBipedNav: Emotion-aware Social Navigation for Bipedal Robots with Deep Reinforcement Learning](https://arxiv.org/abs/2503.12538v2)** | 2026-01-18 | 13 pages |
 | **[Data-driven stochastic reduced-order modeling of parametrized dynamical systems](https://arxiv.org/abs/2601.10690v1)** | 2026-01-15 |  |
 | **[Symbolic Learning of Interpretable Reduced-Order Models for Jumping Quadruped Robots](https://arxiv.org/abs/2508.06538v2)** | 2026-01-13 | 8 pages |
@@ -73,12 +75,14 @@ labels: documentation
 | **[GenUQ: Predictive Uncertainty Estimates via Generative Hyper-Networks](https://arxiv.org/abs/2509.21605v2)** | 2025-12-19 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, SPIGM workshop at NeurIPS 2025, https://openreview.net/forum?id=IT9lF59UqG&noteId=IT9lF59UqG</p></details> |
 | **[Data-driven uncertainty-aware seakeeping prediction of the Delft 372 catamaran using ensemble Hankel dynamic mode decomposition](https://arxiv.org/abs/2511.04461v2)** | 2025-12-18 |  |
 | **[Higher-Order LaSDI: Reduced Order Modeling with Multiple Time Derivatives](https://arxiv.org/abs/2512.15997v1)** | 2025-12-17 | 38 pages, 14 figures |
-| **[Nonparametric Stochastic Subspaces via the Bootstrap for Characterizing Model Error](https://arxiv.org/abs/2512.15624v1)** | 2025-12-17 |  |
-| **[Bayesian Updating of constitutive parameters under hybrid uncertainties with a novel surrogate model applied to biofilms](https://arxiv.org/abs/2512.15145v1)** | 2025-12-17 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems](https://arxiv.org/abs/2509.03340v3)** | 2026-01-23 | <details><summary>9 pag...</summary><p>9 pages, 7 figures including appendices. Accepted to Machine Learning and the Physical Sciences Workshop, NeurIPS 2025 (https://ml4physicalsciences.github.io/2025/). Repository with corresponding code: https://github.com/FHendriks11/bifurcationML/. Video explanation: https://www.youtube.com/watch?v=wsL3h17KtjY</p></details> |
+| **[Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783v2)** | 2026-01-23 | 11 pages, 5 figures |
+| **[Joint learning of a network of linear dynamical systems via total variation penalization](https://arxiv.org/abs/2511.18737v2)** | 2026-01-23 | <details><summary>52 pa...</summary><p>52 pages, 10 figures, 2 tables, corrected minor typos</p></details> |
+| **[Hierarchical Physics-Embedded Learning for Prediction and Discovery in Spatiotemporal Dynamical Systems](https://arxiv.org/abs/2510.25306v2)** | 2026-01-23 |  |
 | **[Dynamics of Agentic Loops in Large Language Models: A Geometric Theory of Trajectories](https://arxiv.org/abs/2512.10350v3)** | 2026-01-22 |  |
 | **[On the Nonasymptotic Scaling Guarantee of Hyperparameter Estimation in Inhomogeneous, Weakly-Dependent Complex Network Dynamical Systems](https://arxiv.org/abs/2601.15603v1)** | 2026-01-22 |  |
 | **[PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization](https://arxiv.org/abs/2510.04436v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted for publication at the 2026 American Control Conference</p></details> |
@@ -89,20 +93,17 @@ labels: documentation
 | **[Co-Buchi Barrier Certificates for Discrete-time Dynamical Systems](https://arxiv.org/abs/2311.07695v2)** | 2026-01-20 |  |
 | **[Stabilizing autoregressive forecasts in chaotic systems via multi-rate latent recurrence](https://arxiv.org/abs/2601.14487v1)** | 2026-01-20 |  |
 | **[Towards Fast Coarse-graining and Equation Discovery with Foundation Inference Models](https://arxiv.org/abs/2510.12618v2)** | 2026-01-20 |  |
+| **[Latent Causal Diffusions for Single-Cell Perturbation Modeling](https://arxiv.org/abs/2601.15341v1)** | 2026-01-20 |  |
 | **[Generating consensus and dissent on massive discussion platforms with an $O(N)$ semantic-vector model](https://arxiv.org/abs/2601.13932v1)** | 2026-01-20 | 9 pages, 8 figures |
 | **[GeoDynamics: A Geometric State-Space Neural Network for Understanding Brain Dynamics on Riemannian Manifolds](https://arxiv.org/abs/2601.13570v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[CausationEntropy: Pythonic Optimal Causation Entropy](https://arxiv.org/abs/2601.13365v1)** | 2026-01-19 |  |
 | **[Discovering equations from data: symbolic regression in dynamical systems](https://arxiv.org/abs/2508.20257v2)** | 2026-01-19 |  |
 | **[Training instability in deep learning follows low-dimensional dynamical principles](https://arxiv.org/abs/2601.13160v1)** | 2026-01-19 |  |
-| **[Surrogate-based Bayesian calibration methods for chaotic systems: a comparison of traditional and non-traditional approaches](https://arxiv.org/abs/2508.13071v2)** | 2026-01-19 | 34 pages, 6 figures |
-| **[Sensing-Limited Control of Noiseless Linear Systems Under Nonlinear Observations](https://arxiv.org/abs/2601.12782v1)** | 2026-01-19 | 5 pages, conference |
-| **[An Adaptive Online Smoother with Closed-Form Solutions and Information-Theoretic Lag Selection for Conditional Gaussian Nonlinear Systems](https://arxiv.org/abs/2411.05870v2)** | 2026-01-19 | <details><summary>Lates...</summary><p>Latest revision. 46 pages (Main Text pp. 1--28; Appendix pp. 29--40), 9 figures (7 in Main Text, 2 in Appendix). Currently under review in Journal of Nonlinear Science (Springer Nature). Code available upon request. For further details visit https://mariosandreou.short.gy/OnlineSmootherCGNS</p></details> |
-| **[Streaming Operator Inference for Model Reduction of Large-Scale Dynamical Systems](https://arxiv.org/abs/2601.12161v1)** | 2026-01-17 |  |
-| **[Efficient Parametric SVD of Koopman Operator for Stochastic Dynamical Systems](https://arxiv.org/abs/2507.07222v3)** | 2026-01-17 | <details><summary>Accep...</summary><p>Accepted for NeurIPS 2025. The first two authors contributed equally. 30 pages, 5 figures, 4 tables. Code is available at https://github.com/MinchanJeong/NeuralKoopmanSVD</p></details> |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783v2)** | 2026-01-23 | 11 pages, 5 figures |
 | **[Efficient Parametric SVD of Koopman Operator for Stochastic Dynamical Systems](https://arxiv.org/abs/2507.07222v3)** | 2026-01-17 | <details><summary>Accep...</summary><p>Accepted for NeurIPS 2025. The first two authors contributed equally. 30 pages, 5 figures, 4 tables. Code is available at https://github.com/MinchanJeong/NeuralKoopmanSVD</p></details> |
 | **[SPIKE: Sparse Koopman Regularization for Physics-Informed Neural Networks](https://arxiv.org/abs/2601.10282v2)** | 2026-01-16 |  |
 | **[Adaptive Model-Predictive Control of a Soft Continuum Robot Using a Physics-Informed Neural Network Based on Cosserat Rod Theory](https://arxiv.org/abs/2508.12681v2)** | 2026-01-15 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Robotics, 20 pages, 14 figures</p></details> |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Consistent Projection of Langevin Dynamics: Preserving Thermodynamics and Kinetics in Coarse-Grained Models](https://arxiv.org/abs/2512.03706v1)** | 2025-12-03 |  |
 | **[KALIKO: Kalman-Implicit Koopman Operator Learning For Prediction of Nonlinear Dynamical Systems](https://arxiv.org/abs/2512.03256v1)** | 2025-12-02 |  |
 | **[Koopman operators with intrinsic observables in rigged reproducing kernel Hilbert spaces](https://arxiv.org/abs/2403.02524v3)** | 2025-11-29 | <details><summary>Publi...</summary><p>Published in Nonlinearity</p></details> |
-| **[Banach neural operator for Navier-Stokes equations](https://arxiv.org/abs/2512.09070v1)** | 2025-11-28 |  |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
