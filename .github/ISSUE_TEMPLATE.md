@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 28, 2026
+title: Latest 20 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RHSIA: Real-time Hemodynamics Surrogation for Non-idealized Intracranial Aneurysms](https://arxiv.org/abs/2601.19876v1)** | 2026-01-27 |  |
 | **[AI Agent for Reverse-Engineering Legacy Finite-Difference Code and Translating to Devito](https://arxiv.org/abs/2601.18381v1)** | 2026-01-26 | 14 pages, 7 figures |
 | **[DDFKs: Fluid Simulation with Dynamic Divergence-Free Kernels](https://arxiv.org/abs/2601.17693v1)** | 2026-01-25 |  |
 | **[MDBench: Benchmarking Data-Driven Methods for Model Discovery](https://arxiv.org/abs/2509.20529v3)** | 2026-01-24 |  |
@@ -26,18 +27,17 @@ labels: documentation
 | **[VICON: Vision In-Context Operator Networks for Multi-Physics Fluid Dynamics Prediction](https://arxiv.org/abs/2411.16063v5)** | 2026-01-15 | <details><summary>updat...</summary><p>update after TMLR accept</p></details> |
 | **[A Mesh-Adaptive Hypergraph Neural Network for Unsteady Flow Around Oscillating and Rotating Structures](https://arxiv.org/abs/2503.22252v2)** | 2026-01-13 |  |
 | **[PINGS-X: Physics-Informed Normalized Gaussian Splatting with Axes Alignment for Efficient Super-Resolution of 4D Flow MRI](https://arxiv.org/abs/2511.11048v2)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026. Supplementary material included after references. 27 pages, 21 figures, 11 tables</p></details> |
-| **[SwarmFoam: An OpenFOAM Multi-Agent System Based on Multiple Types of Large Language Models](https://arxiv.org/abs/2601.07252v1)** | 2026-01-12 | 26 pages, 15 figures |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Odd-DC: Generalizable Neural Model Reduction via Odd Difference-of-Convex Structure](https://arxiv.org/abs/2511.18241v2)** | 2026-01-26 |  |
 | **[Streaming Operator Inference for Model Reduction of Large-Scale Dynamical Systems](https://arxiv.org/abs/2601.12161v1)** | 2026-01-17 |  |
 | **[Structure-preserving Lift & Learn: Scientific machine learning for nonlinear conservative partial differential equations](https://arxiv.org/abs/2507.00301v2)** | 2026-01-08 |  |
 | **[Active inference and artificial reasoning](https://arxiv.org/abs/2512.21129v1)** | 2025-12-24 |  |
 | **[Surrogate Trajectories Along Probability Flows: Pseudo Markovian Alternative to Mori Zwanzig](https://arxiv.org/abs/2601.00015v1)** | 2025-12-20 |  |
 | **[Data-Driven Model Reduction using WeldNet: Windowed Encoders for Learning Dynamics](https://arxiv.org/abs/2512.11090v1)** | 2025-12-11 |  |
 | **[SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting](https://arxiv.org/abs/2503.05168v3)** | 2025-12-04 |  |
-| **[A Convex-Inspired Neural Construction for Structured and Generalizable Nonlinear Model Reduction](https://arxiv.org/abs/2511.18241v1)** | 2025-11-23 |  |
 | **[Block-structured Operator Inference for coupled multiphysics model reduction](https://arxiv.org/abs/2511.05389v1)** | 2025-11-07 | 28 pages, 19 figures |
 | **[Dynamic Shape Control of Soft Robots Enabled by Data-Driven Model Reduction](https://arxiv.org/abs/2511.03931v1)** | 2025-11-06 | 20 Pages, 8 Figures |
 | **[Regularization Implies balancedness in the deep linear network](https://arxiv.org/abs/2511.01137v1)** | 2025-11-03 | 18 pages, 3 figures |
@@ -79,6 +79,13 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conformal Online Learning of Deep Koopman Linear Embeddings](https://arxiv.org/abs/2511.12760v2)** | 2026-01-27 | NeurIPS 2025 |
+| **[Geometric Dynamics of Agentic Loops in Large Language Models](https://arxiv.org/abs/2512.10350v4)** | 2026-01-27 |  |
+| **[Output Feedback Stabilization of Linear Systems via Policy Gradient Methods](https://arxiv.org/abs/2601.19284v1)** | 2026-01-27 | 31 pages, 2 figures |
+| **[Nonlocal Kramers-Moyal formulas and data-driven discovery of stochastic dynamical systems with multiplicative Lévy noise](https://arxiv.org/abs/2601.19223v1)** | 2026-01-27 |  |
+| **[Temporal Lifting as Latent-Space Regularization for Continuous-Time Flow Models in AI Systems](https://arxiv.org/abs/2510.09805v2)** | 2026-01-27 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 1 table, 1 algorithm</p></details> |
+| **[A Unifying View of Coverage in Linear Off-Policy Evaluation](https://arxiv.org/abs/2601.19030v1)** | 2026-01-26 | <details><summary>To ap...</summary><p>To appear at ICLR 2026</p></details> |
+| **[Smooth embeddings in contracting recurrent networks driven by regular dynamics: A synthesis for neural representation](https://arxiv.org/abs/2601.19019v1)** | 2026-01-26 | <details><summary>27 pa...</summary><p>27 pages, 1 figure, 2 tables</p></details> |
 | **[A Computationally Efficient Maximum A Posteriori Sequence Estimation via Stein Variational Inference](https://arxiv.org/abs/2312.08684v4)** | 2026-01-26 | 20 pages |
 | **[Multi-Scale Negative Coupled Information Systems (MNCIS): A Unified Spectral Topology Framework for Stability in Turbulence, AI, and Biology](https://arxiv.org/abs/2601.11594v2)** | 2026-01-26 | <details><summary>Inclu...</summary><p>Includes supplementary materials and code. Foundation and mathematical proofs can be found in the companion paper arXiv:2601.00638. V2: Significant theoretical expansion. Extended experimental validation to N=256^3 turbulence simulations</p></details> |
 | **[Remarks about Connection and Dirac matrices](https://arxiv.org/abs/2601.18071v1)** | 2026-01-26 | 16 pages, 2 figures |
@@ -92,17 +99,11 @@ labels: documentation
 | **[Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems](https://arxiv.org/abs/2509.03340v3)** | 2026-01-23 | <details><summary>9 pag...</summary><p>9 pages, 7 figures including appendices. Accepted to Machine Learning and the Physical Sciences Workshop, NeurIPS 2025 (https://ml4physicalsciences.github.io/2025/). Repository with corresponding code: https://github.com/FHendriks11/bifurcationML/. Video explanation: https://www.youtube.com/watch?v=wsL3h17KtjY</p></details> |
 | **[Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783v2)** | 2026-01-23 | 11 pages, 5 figures |
 | **[Joint learning of a network of linear dynamical systems via total variation penalization](https://arxiv.org/abs/2511.18737v2)** | 2026-01-23 | <details><summary>52 pa...</summary><p>52 pages, 10 figures, 2 tables, corrected minor typos</p></details> |
-| **[SFO: Learning PDE Operators via Spectral Filtering](https://arxiv.org/abs/2601.17090v1)** | 2026-01-23 |  |
-| **[Hierarchical Physics-Embedded Learning for Prediction and Discovery in Spatiotemporal Dynamical Systems](https://arxiv.org/abs/2510.25306v2)** | 2026-01-23 |  |
-| **[Dynamics of Agentic Loops in Large Language Models: A Geometric Theory of Trajectories](https://arxiv.org/abs/2512.10350v3)** | 2026-01-22 |  |
-| **[On the Nonasymptotic Scaling Guarantee of Hyperparameter Estimation in Inhomogeneous, Weakly-Dependent Complex Network Dynamical Systems](https://arxiv.org/abs/2601.15603v1)** | 2026-01-22 |  |
-| **[PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization](https://arxiv.org/abs/2510.04436v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted for publication at the 2026 American Control Conference</p></details> |
-| **[Control Occupation Kernel Regression for Nonlinear Control-Affine Systems](https://arxiv.org/abs/2106.00103v2)** | 2026-01-21 |  |
-| **[On the unconventional Hug integrator](https://arxiv.org/abs/2502.10199v2)** | 2026-01-21 | <details><summary>Added...</summary><p>Added some clarifications and additional numerical results</p></details> |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conformal Online Learning of Deep Koopman Linear Embeddings](https://arxiv.org/abs/2511.12760v2)** | 2026-01-27 | NeurIPS 2025 |
 | **[NeuroKoop: Neural Koopman Fusion of Structural-Functional Connectomes for Identifying Prenatal Drug Exposure in Adolescents](https://arxiv.org/abs/2508.16414v2)** | 2026-01-25 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE Xplore. DOI: 10.1109/BHI67747.2025.11269557</p></details> |
 | **[Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783v2)** | 2026-01-23 | 11 pages, 5 figures |
 | **[Efficient Parametric SVD of Koopman Operator for Stochastic Dynamical Systems](https://arxiv.org/abs/2507.07222v3)** | 2026-01-17 | <details><summary>Accep...</summary><p>Accepted for NeurIPS 2025. The first two authors contributed equally. 30 pages, 5 figures, 4 tables. Code is available at https://github.com/MinchanJeong/NeuralKoopmanSVD</p></details> |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Semantic Communication and Control Co-Design for Multi-Objective Distinct Dynamics](https://arxiv.org/abs/2410.02303v2)** | 2025-12-05 |  |
 | **[Learning Visually Interpretable Oscillator Networks for Soft Continuum Robots from Video](https://arxiv.org/abs/2511.18322v2)** | 2025-12-05 | <details><summary>Datas...</summary><p>Dataset available at: https://zenodo.org/records/17812071</p></details> |
 | **[Consistent Projection of Langevin Dynamics: Preserving Thermodynamics and Kinetics in Coarse-Grained Models](https://arxiv.org/abs/2512.03706v1)** | 2025-12-03 |  |
-| **[KALIKO: Kalman-Implicit Koopman Operator Learning For Prediction of Nonlinear Dynamical Systems](https://arxiv.org/abs/2512.03256v1)** | 2025-12-02 |  |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
