@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 02, 2026
+title: Latest 20 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Physics-Informed Neural Networks and Neural Operators for Parametric PDEs](https://arxiv.org/abs/2511.04576v3)** | 2026-01-30 | <details><summary>61 pa...</summary><p>61 pages, 3 figures. Submitted to The 1st International Conference on AI Scientists (ICAIS 2025). This revision corrects the bibliography mismatch caused by hallucination issues</p></details> |
 | **[Learning Transient Convective Heat Transfer with Geometry Aware World Models](https://arxiv.org/abs/2601.22086v1)** | 2026-01-29 | <details><summary>36 pa...</summary><p>36 pages, 18 figures, 2 tables</p></details> |
 | **[From Particles to Agents: Hallucination as a Metric for Cognitive Friction in Spatial Simulation](https://arxiv.org/abs/2601.21977v1)** | 2026-01-29 | <details><summary>Paper...</summary><p>Paper selected for the workshop Human Cognition, AI, and the Future of HCI: Navigating the Disruptive and Wild Landscape of Large Language Models and Agentic AI as part of the Human-Computer Interaction (HCI) conference of the Alpine region (AlpCHI 2026) hosted at the Congressi Stefano Franscini, March 1st to March 5th, 2026 on Monte Verità in Ascona, Switzerland</p></details> |
 | **[Goal-Driven Adaptive Sampling Strategies for Machine Learning Models Predicting Fields](https://arxiv.org/abs/2601.21832v1)** | 2026-01-29 |  |
@@ -26,7 +27,6 @@ labels: documentation
 | **[DaggerFFT: A Distributed FFT Framework Using Task Scheduling in Julia](https://arxiv.org/abs/2601.12209v1)** | 2026-01-18 |  |
 | **[Code2MCP: Transforming Code Repositories into MCP Services](https://arxiv.org/abs/2509.05941v3)** | 2026-01-17 |  |
 | **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v1)** | 2026-01-16 |  |
-| **[Learning Quadrupedal Locomotion for a Heavy Hydraulic Robot Using an Actuator Model](https://arxiv.org/abs/2601.11143v1)** | 2026-01-16 | <details><summary>9 pag...</summary><p>9 pages, Accepted to IEEE Robotics and Automation Letters (RA-L) 2025</p></details> |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,14 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SplineFlow: Flow Matching for Dynamical Systems with B-Spline Interpolants](https://arxiv.org/abs/2601.23072v1)** | 2026-01-30 | <details><summary>36 pa...</summary><p>36 pages, 35 tables, 22 figures</p></details> |
+| **[Wasserstein Geometry of Information Loss in Nonlinear Dynamical Systems](https://arxiv.org/abs/2601.22814v1)** | 2026-01-30 |  |
+| **[Geometric Dynamics of Agentic Loops in Large Language Models](https://arxiv.org/abs/2512.10350v5)** | 2026-01-30 |  |
+| **[Temporal Graph Pattern Machine](https://arxiv.org/abs/2601.22454v1)** | 2026-01-30 |  |
+| **[Spectral Filtering for Learning Quantum Dynamics](https://arxiv.org/abs/2601.22400v1)** | 2026-01-29 |  |
+| **[State Estimation Using Sparse DEIM and Recurrent Neural Networks](https://arxiv.org/abs/2410.15982v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted for publication in Proc. Royal Soc. A</p></details> |
+| **[Knowledge-Informed Kernel State Reconstruction for Interpretable Dynamical System Discovery](https://arxiv.org/abs/2601.22328v1)** | 2026-01-29 |  |
+| **[Riemannian Lyapunov Optimizer: A Unified Framework for Optimization](https://arxiv.org/abs/2601.22284v1)** | 2026-01-29 | 22 pages, 4 figures |
 | **[The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR](https://arxiv.org/abs/2601.22128v1)** | 2026-01-29 |  |
 | **[Generalized Information Gathering Under Dynamics Uncertainty](https://arxiv.org/abs/2601.21988v1)** | 2026-01-29 |  |
 | **[Online Bayesian Experimental Design for Partially Observed Dynamical Systems](https://arxiv.org/abs/2511.04403v2)** | 2026-01-29 | 20 pages, 7 figures |
@@ -91,14 +99,6 @@ labels: documentation
 | **[An Empirical Investigation of Neural ODEs and Symbolic Regression for Dynamical Systems](https://arxiv.org/abs/2601.20637v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at the Machine Learning and the Physical Sciences Workshop, NeurIPS 2025</p></details> |
 | **[Sparse Equation Matching: A Derivative-Free Learning for General-Order Dynamical Systems](https://arxiv.org/abs/2507.20072v2)** | 2026-01-28 |  |
 | **[Universal Sequence Preconditioning](https://arxiv.org/abs/2502.06545v5)** | 2026-01-28 | <details><summary>35 pa...</summary><p>35 pages, 3 tables, 5 figures</p></details> |
-| **[Conformal Online Learning of Deep Koopman Linear Embeddings](https://arxiv.org/abs/2511.12760v2)** | 2026-01-27 | NeurIPS 2025 |
-| **[Geometric Dynamics of Agentic Loops in Large Language Models](https://arxiv.org/abs/2512.10350v4)** | 2026-01-27 |  |
-| **[Deep Neural Networks as Iterated Function Systems and a Generalization Bound](https://arxiv.org/abs/2601.19958v1)** | 2026-01-27 |  |
-| **[Nonlocal Kramers-Moyal formulas and data-driven discovery of stochastic dynamical systems with multiplicative Lévy noise](https://arxiv.org/abs/2601.19223v1)** | 2026-01-27 |  |
-| **[Temporal Lifting as Latent-Space Regularization for Continuous-Time Flow Models in AI Systems](https://arxiv.org/abs/2510.09805v2)** | 2026-01-27 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 1 table, 1 algorithm</p></details> |
-| **[A Unifying View of Coverage in Linear Off-Policy Evaluation](https://arxiv.org/abs/2601.19030v1)** | 2026-01-26 | <details><summary>To ap...</summary><p>To appear at ICLR 2026</p></details> |
-| **[Smooth embeddings in contracting recurrent networks driven by regular dynamics: A synthesis for neural representation](https://arxiv.org/abs/2601.19019v1)** | 2026-01-26 | <details><summary>27 pa...</summary><p>27 pages, 1 figure, 2 tables</p></details> |
-| **[Neural Cellular Automata: From Cells to Pixels](https://arxiv.org/abs/2506.22899v2)** | 2026-01-26 | <details><summary>9 pag...</summary><p>9 pages, 14 figures, +7 pages of Appendix</p></details> |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
