@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 09, 2026
+title: Latest 20 Papers - February 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v2)** | 2026-02-06 |  |
 | **[Position: Universal Time Series Foundation Models Rest on a Category Error](https://arxiv.org/abs/2602.05287v1)** | 2026-02-05 | Position Paper |
 | **[PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction](https://arxiv.org/abs/2510.16004v2)** | 2026-02-03 | 28 pages, 23 figures |
 | **[Point Vortex Dynamics on Closed Surfaces](https://arxiv.org/abs/2602.03684v1)** | 2026-02-03 | <details><summary>Maste...</summary><p>Master Thesis, Technical University of Berlin</p></details> |
@@ -26,7 +27,6 @@ labels: documentation
 | **[DDFKs: Fluid Simulation with Dynamic Divergence-Free Kernels](https://arxiv.org/abs/2601.17693v1)** | 2026-01-25 |  |
 | **[MDBench: Benchmarking Data-Driven Methods for Model Discovery](https://arxiv.org/abs/2509.20529v3)** | 2026-01-24 |  |
 | **[SFO: Learning PDE Operators via Spectral Filtering](https://arxiv.org/abs/2601.17090v1)** | 2026-01-23 |  |
-| **[UniField: Joint Multi-Domain Training for Universal Surface Pressure Modeling](https://arxiv.org/abs/2510.24106v4)** | 2026-01-22 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,10 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reservoir Predictive Path Integral Control for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2509.03839v2)** | 2026-02-06 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication, 13 pages, 5 figures</p></details> |
+| **[Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective](https://arxiv.org/abs/2407.14069v2)** | 2026-02-06 |  |
+| **[Is my model "mind blurting"? Interpreting the dynamics of reasoning tokens with Recurrence Quantification Analysis (RQA)](https://arxiv.org/abs/2602.06266v1)** | 2026-02-05 |  |
+| **[STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](https://arxiv.org/abs/2505.18647v2)** | 2026-02-05 | 18 pages, 12 figures |
 | **[SC3D: Dynamic and Differentiable Causal Discovery for Temporal and Instantaneous Graphs](https://arxiv.org/abs/2602.02830v2)** | 2026-02-05 | 8 pages |
 | **[Streaming Operator Inference for Model Reduction of Large-Scale Dynamical Systems](https://arxiv.org/abs/2601.12161v2)** | 2026-02-05 |  |
 | **[Thompson Sampling-Based Learning and Control for Unknown Dynamic Systems](https://arxiv.org/abs/2506.22186v2)** | 2026-02-05 |  |
@@ -95,14 +99,11 @@ labels: documentation
 | **[Towards X-embodiment safety: A control theory perspective on transferring safety certificates across dynamical systems](https://arxiv.org/abs/2602.03987v1)** | 2026-02-03 |  |
 | **[Learning Hidden Physics and System Parameters with Deep Operator Networks](https://arxiv.org/abs/2412.05133v2)** | 2026-02-03 |  |
 | **[Conformal Reachability for Safe Control in Unknown Environments](https://arxiv.org/abs/2602.03799v1)** | 2026-02-03 |  |
-| **[PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction](https://arxiv.org/abs/2510.16004v2)** | 2026-02-03 | 28 pages, 23 figures |
-| **[Equilibrium Propagation for Non-Conservative Systems](https://arxiv.org/abs/2602.03670v1)** | 2026-02-03 | <details><summary>19 pa...</summary><p>19 pages (9 pages main text), 7 figures</p></details> |
-| **[PRISM: Deriving a White-Box Transformer as a Signal-Noise Decomposition Operator via Maximum Coding Rate Reduction](https://arxiv.org/abs/2601.15540v2)** | 2026-02-03 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Derives Transformer as a signal-noise decomposition operator via Maximizing Coding Rate Reduction. Identifies 'Attention Sink' as spectral resonance (Arnold Tongues) and proposes $π$-RoPE for dynamical stability</p></details> |
-| **[Hyper-Compression: Model Compression via Hyperfunction](https://arxiv.org/abs/2409.00592v4)** | 2026-02-03 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective](https://arxiv.org/abs/2407.14069v2)** | 2026-02-06 |  |
 | **[Bayesian Transfer Operators in Reproducing Kernel Hilbert Spaces](https://arxiv.org/abs/2509.22482v2)** | 2026-02-04 |  |
 | **[Information Shapes Koopman Representation](https://arxiv.org/abs/2510.13025v2)** | 2026-02-04 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
 | **[Lyapunov Constrained Soft Actor-Critic (LC-SAC) using Koopman Operator Theory for Quadrotor Trajectory Tracking](https://arxiv.org/abs/2602.04132v1)** | 2026-02-04 | <details><summary>12 pa...</summary><p>12 pages, 7 Figures, submitted to IEEE RA-L</p></details> |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Deep Robust Koopman Learning from Noisy Data](https://arxiv.org/abs/2601.01971v1)** | 2026-01-05 |  |
 | **[Scalable Data-Driven Reachability Analysis and Control via Koopman Operators with Conformal Coverage Guarantees](https://arxiv.org/abs/2601.01076v1)** | 2026-01-03 | <details><summary>Under...</summary><p>Under review, 28 pages, 12 figures</p></details> |
 | **[Path Integral Solution for Dissipative Generative Dynamics](https://arxiv.org/abs/2601.00860v1)** | 2025-12-30 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables, along with 2 supplementary materials</p></details> |
-| **[Solvability Complexity Index Classification For Koopman Operator Spectra In $L^p$ For $1<p<\infty$](https://arxiv.org/abs/2509.16016v2)** | 2025-12-15 | <details><summary>62 pa...</summary><p>62 pages: 49 pages + Appendix; Version 2: added remark (remark 5.28) in chapter 5 and corrected some typos/small logical mistakes</p></details> |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
