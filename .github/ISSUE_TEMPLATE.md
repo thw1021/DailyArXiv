@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 11, 2026
+title: Latest 20 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -31,6 +31,7 @@ labels: documentation
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Degrees-of-Freedom Approximations for Conditional-Mean Inference in Random-Lot Stability Analysis](https://arxiv.org/abs/2602.10026v1)** | 2026-02-10 |  |
 | **[Automatic and Structure-Aware Sparsification of Hybrid Neural ODEs](https://arxiv.org/abs/2505.18996v2)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted at The 14th International Conference on Learning Representations (ICLR) 2026</p></details> |
 | **[Streaming Operator Inference for Model Reduction of Large-Scale Dynamical Systems](https://arxiv.org/abs/2601.12161v2)** | 2026-02-05 |  |
 | **[Constraint Matters: Multi-Modal Representation for Reducing Mixed-Integer Linear programming](https://arxiv.org/abs/2508.18742v3)** | 2026-02-03 | <details><summary>Accec...</summary><p>Accecpted by ICLR 2026</p></details> |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Asynchronous Agents with Perfect Recall: Model Reductions, Knowledge-Based Construction, and Model Checking for Coalitional Strategies](https://arxiv.org/abs/2412.06706v2)** | 2025-10-20 |  |
 | **[A Bayesian Framework for Symmetry Inference in Chaotic Attractors](https://arxiv.org/abs/2510.16509v1)** | 2025-10-18 |  |
 | **[Nonlinear energy-preserving model reduction with lifting transformations that quadratize the energy](https://arxiv.org/abs/2503.02273v2)** | 2025-10-18 |  |
-| **[Towards Flash Thinking via Decoupled Advantage Policy Optimization](https://arxiv.org/abs/2510.15374v1)** | 2025-10-17 |  |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
@@ -79,7 +79,13 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Block-Recurrent Dynamics in Vision Transformers](https://arxiv.org/abs/2512.19941v2)** | 2026-02-09 | 25 pages, 15 figures |
+| **[Going with the Flow: Koopman Behavioral Models as Implicit Planners for Visuo-Motor Dexterity](https://arxiv.org/abs/2602.07413v2)** | 2026-02-10 | <details><summary>Codes...</summary><p>Codes can be found at https://github.com/GT-STAR-Lab/K-UBM/</p></details> |
+| **[Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980v1)** | 2026-02-10 | 5 pages, 1 figure |
+| **[An adaptive data sampling strategy for stabilizing dynamical systems via controller inference](https://arxiv.org/abs/2506.01816v2)** | 2026-02-10 | 27 pages, 9 figures |
+| **[Toeplitz Based Spectral Methods for Data-driven Dynamical Systems](https://arxiv.org/abs/2602.09791v1)** | 2026-02-10 | 18 pages, 3 figures |
+| **[Block-Recurrent Dynamics in Vision Transformers](https://arxiv.org/abs/2512.19941v3)** | 2026-02-10 | 25 pages, 15 figures |
+| **[Chaos in Autobidding Auctions](https://arxiv.org/abs/2602.09118v1)** | 2026-02-09 |  |
+| **[From Adam to Adam-Like Lagrangians: Second-Order Nonlocal Dynamics](https://arxiv.org/abs/2602.09101v1)** | 2026-02-09 | 42 pages, 10 figures |
 | **[When do neural ordinary differential equations generalize on complex networks?](https://arxiv.org/abs/2602.08980v1)** | 2026-02-09 |  |
 | **[$\texttt{lrnnx}$: A library for Linear RNNs](https://arxiv.org/abs/2602.08810v1)** | 2026-02-09 | <details><summary>EACL ...</summary><p>EACL Student Research Workshop 2026</p></details> |
 | **[The M-Tensor Format: Optimality in High Dimensional Regression for Nonlinear Models with Scarce Data](https://arxiv.org/abs/2602.08509v1)** | 2026-02-09 |  |
@@ -91,22 +97,17 @@ labels: documentation
 | **[Approximating Matrix Functions with Deep Neural Networks and Transformers](https://arxiv.org/abs/2602.07800v1)** | 2026-02-08 |  |
 | **[Expansive homeomorphisms on complexity quasi-metric spaces](https://arxiv.org/abs/2602.07685v1)** | 2026-02-07 |  |
 | **[Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics](https://arxiv.org/abs/2512.12602v3)** | 2026-02-07 | 19 pages, 2 figures |
-| **[Going with the Flow: Koopman Behavioral Models as Implicit Planners for Visuo-Motor Dexterity](https://arxiv.org/abs/2602.07413v1)** | 2026-02-07 |  |
 | **[Predictability Enables Parallelization of Nonlinear State Space Models](https://arxiv.org/abs/2508.16817v4)** | 2026-02-07 | <details><summary>NeurI...</summary><p>NeurIPS '25. XG and LK dual lead authors. Code: https://github.com/lindermanlab/predictability_enables_parallelization</p></details> |
 | **[MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](https://arxiv.org/abs/2502.18534v2)** | 2026-02-07 |  |
-| **[BayesFlow 2.0: Multi-Backend Amortized Bayesian Inference in Python](https://arxiv.org/abs/2602.07098v1)** | 2026-02-06 |  |
-| **[Reservoir Predictive Path Integral Control for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2509.03839v2)** | 2026-02-06 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication, 13 pages, 5 figures</p></details> |
-| **[Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective](https://arxiv.org/abs/2407.14069v2)** | 2026-02-06 |  |
-| **[Is my model "mind blurting"? Interpreting the dynamics of reasoning tokens with Recurrence Quantification Analysis (RQA)](https://arxiv.org/abs/2602.06266v1)** | 2026-02-05 |  |
-| **[STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](https://arxiv.org/abs/2505.18647v2)** | 2026-02-05 | 18 pages, 12 figures |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Going with the Flow: Koopman Behavioral Models as Implicit Planners for Visuo-Motor Dexterity](https://arxiv.org/abs/2602.07413v2)** | 2026-02-10 | <details><summary>Codes...</summary><p>Codes can be found at https://github.com/GT-STAR-Lab/K-UBM/</p></details> |
+| **[Toeplitz Based Spectral Methods for Data-driven Dynamical Systems](https://arxiv.org/abs/2602.09791v1)** | 2026-02-10 | 18 pages, 3 figures |
 | **[Generative Modeling through Koopman Spectral Analysis: An Operator-Theoretic Perspective](https://arxiv.org/abs/2512.18837v3)** | 2026-02-08 |  |
 | **[Low-Rank Koopman Deformables with Log-Linear Time Integration](https://arxiv.org/abs/2602.07687v1)** | 2026-02-07 |  |
 | **[Visual Prompt-Agnostic Evolution](https://arxiv.org/abs/2601.20232v2)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Going with the Flow: Koopman Behavioral Models as Implicit Planners for Visuo-Motor Dexterity](https://arxiv.org/abs/2602.07413v1)** | 2026-02-07 |  |
 | **[Lyapunov Constrained Soft Actor-Critic (LC-SAC) using Koopman Operator Theory for Quadrotor Trajectory Tracking](https://arxiv.org/abs/2602.04132v2)** | 2026-02-06 | <details><summary>11 pa...</summary><p>11 pages, 7 Figures, submitted to IEEE RA-L</p></details> |
 | **[Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective](https://arxiv.org/abs/2407.14069v2)** | 2026-02-06 |  |
 | **[Bayesian Transfer Operators in Reproducing Kernel Hilbert Spaces](https://arxiv.org/abs/2509.22482v2)** | 2026-02-04 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Adaptive Model-Predictive Control of a Soft Continuum Robot Using a Physics-Informed Neural Network Based on Cosserat Rod Theory](https://arxiv.org/abs/2508.12681v2)** | 2026-01-15 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Robotics, 20 pages, 14 figures</p></details> |
 | **[Generalization Analysis and Method for Domain Generalization for a Family of Recurrent Neural Networks](https://arxiv.org/abs/2601.08122v1)** | 2026-01-13 |  |
 | **[Minimum distance classification for nonlinear dynamical systems](https://arxiv.org/abs/2601.04058v1)** | 2026-01-07 |  |
-| **[Deep Robust Koopman Learning from Noisy Data](https://arxiv.org/abs/2601.01971v1)** | 2026-01-05 |  |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
