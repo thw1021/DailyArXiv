@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 12, 2026
+title: Latest 20 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization](https://arxiv.org/abs/2602.10576v1)** | 2026-02-11 |  |
+| **[Code2MCP: Transforming Code Repositories into MCP Services](https://arxiv.org/abs/2509.05941v4)** | 2026-02-11 |  |
 | **[UAV-Supported Maritime Search System: Experience from Valun Bay Field Trials](https://arxiv.org/abs/2602.08450v1)** | 2026-02-09 |  |
 | **[Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields](https://arxiv.org/abs/2602.08029v1)** | 2026-02-08 |  |
 | **[ChatCFD: An LLM-Driven Agent for End-to-End CFD Automation with Structured Knowledge and Reasoning](https://arxiv.org/abs/2506.02019v3)** | 2026-02-07 | 19 pages, 8 figures |
@@ -25,8 +27,6 @@ labels: documentation
 | **[LLM4Fluid: Large Language Models as Generalizable Neural Solvers for Fluid Dynamics](https://arxiv.org/abs/2601.21681v1)** | 2026-01-29 |  |
 | **[Real-Time Pulsatile Flow Prediction for Realistic, Diverse Intracranial Aneurysm Morphologies using a Graph Transformer and Steady-Flow Data Augmentation](https://arxiv.org/abs/2601.19876v2)** | 2026-01-29 |  |
 | **[IntentFlow: Investigating Fluid Dynamics of Intent Communication in Generative AI](https://arxiv.org/abs/2507.22134v4)** | 2026-01-28 |  |
-| **[A Data-Informed Local Subspaces Method for Error-Bounded Lossy Compression of Large-Scale Scientific Datasets](https://arxiv.org/abs/2601.20113v1)** | 2026-01-27 | <details><summary>To be...</summary><p>To be submitted to the IEEE Transactions on Parallel and Distributed Systems</p></details> |
-| **[AI Agent for Reverse-Engineering Legacy Finite-Difference Code and Translating to Devito](https://arxiv.org/abs/2601.18381v1)** | 2026-01-26 | 14 pages, 7 figures |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Coarse-Grained Boltzmann Generators](https://arxiv.org/abs/2602.10637v1)** | 2026-02-11 |  |
 | **[Low-Rank Koopman Deformables with Log-Linear Time Integration](https://arxiv.org/abs/2602.07687v1)** | 2026-02-07 |  |
 | **[Fast prediction of plasma instabilities with sparse-grid-accelerated optimized dynamic mode decomposition](https://arxiv.org/abs/2507.03245v3)** | 2026-02-02 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 10 tables</p></details> |
 | **[OpInf-LLM: Parametric PDE Solving with LLMs via Operator Inference](https://arxiv.org/abs/2602.01493v1)** | 2026-02-02 |  |
@@ -74,11 +75,15 @@ labels: documentation
 | **[Dynamic Policy Learning for Legged Robot with Simplified Model Pretraining and Model Homotopy Transfer](https://arxiv.org/abs/2512.24698v1)** | 2025-12-31 | <details><summary>8 pag...</summary><p>8 pages. Submitted to the IEEE for possible publication</p></details> |
 | **[Active learning for data-driven reduced models of parametric differential systems with Bayesian operator inference](https://arxiv.org/abs/2601.00038v1)** | 2025-12-30 |  |
 | **[mLaSDI: Multi-stage latent space dynamics identification](https://arxiv.org/abs/2506.09207v3)** | 2025-12-23 |  |
-| **[Reduced-order autoregressive dynamics of a complex financial system: a PCA-based approach](https://arxiv.org/abs/2212.12044v2)** | 2025-12-23 | 12 pages, 6 figures |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exponential time differencing for matrix-valued dynamical systems](https://arxiv.org/abs/2406.13761v2)** | 2026-02-11 |  |
+| **[A Multimodal Conditional Mixture Model with Distribution-Level Physics Priors](https://arxiv.org/abs/2602.10451v1)** | 2026-02-11 |  |
+| **[Improving Long-Range Interactions in Graph Neural Simulators via Hamiltonian Dynamics](https://arxiv.org/abs/2511.08185v2)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[HypeRL: Hypernetwork-Based Reinforcement Learning for Control of Parametrized Dynamical Systems](https://arxiv.org/abs/2501.04538v2)** | 2026-02-10 |  |
+| **[Rank-Accuracy Trade-off for LoRA: A Gradient-Flow Analysis](https://arxiv.org/abs/2602.10212v1)** | 2026-02-10 |  |
 | **[Going with the Flow: Koopman Behavioral Models as Implicit Planners for Visuo-Motor Dexterity](https://arxiv.org/abs/2602.07413v2)** | 2026-02-10 | <details><summary>Codes...</summary><p>Codes can be found at https://github.com/GT-STAR-Lab/K-UBM/</p></details> |
 | **[Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980v1)** | 2026-02-10 | 5 pages, 1 figure |
 | **[An adaptive data sampling strategy for stabilizing dynamical systems via controller inference](https://arxiv.org/abs/2506.01816v2)** | 2026-02-10 | 27 pages, 9 figures |
@@ -94,11 +99,6 @@ labels: documentation
 | **[RNNs perform task computations by dynamically warping neural representations](https://arxiv.org/abs/2512.04310v2)** | 2026-02-08 | NeurIPS 2025 |
 | **[Probabilistic Forecasting via Autoregressive Flow Matching](https://arxiv.org/abs/2503.10375v2)** | 2026-02-08 |  |
 | **[Generative Modeling of Neural Dynamics via Latent Stochastic Differential Equations](https://arxiv.org/abs/2412.12112v3)** | 2026-02-08 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 1 table</p></details> |
-| **[Approximating Matrix Functions with Deep Neural Networks and Transformers](https://arxiv.org/abs/2602.07800v1)** | 2026-02-08 |  |
-| **[Expansive homeomorphisms on complexity quasi-metric spaces](https://arxiv.org/abs/2602.07685v1)** | 2026-02-07 |  |
-| **[Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics](https://arxiv.org/abs/2512.12602v3)** | 2026-02-07 | 19 pages, 2 figures |
-| **[Predictability Enables Parallelization of Nonlinear State Space Models](https://arxiv.org/abs/2508.16817v4)** | 2026-02-07 | <details><summary>NeurI...</summary><p>NeurIPS '25. XG and LK dual lead authors. Code: https://github.com/lindermanlab/predictability_enables_parallelization</p></details> |
-| **[MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](https://arxiv.org/abs/2502.18534v2)** | 2026-02-07 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
