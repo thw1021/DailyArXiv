@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 19, 2026
+title: Latest 20 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine-Learning, and Physics-Informed Methods](https://arxiv.org/abs/2602.16000v1)** | 2026-02-17 | 26 pages 4 tables |
 | **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v2)** | 2026-02-17 |  |
 | **[Distributional Deep Learning for Super-Resolution of 4D Flow MRI under Domain Shift](https://arxiv.org/abs/2602.15167v1)** | 2026-02-16 |  |
 | **[In Transformer We Trust? A Perspective on Transformer Architecture Failure Modes](https://arxiv.org/abs/2602.14318v1)** | 2026-02-15 | 46 pages, 34 Figures |
@@ -26,7 +27,6 @@ labels: documentation
 | **[Point Vortex Dynamics on Closed Surfaces](https://arxiv.org/abs/2602.03684v1)** | 2026-02-03 | <details><summary>Maste...</summary><p>Master Thesis, Technical University of Berlin</p></details> |
 | **[Koopman Autoencoders with Continuous-Time Latent Dynamics for Fluid Dynamics Forecasting](https://arxiv.org/abs/2602.02832v1)** | 2026-02-02 |  |
 | **[WAKESET: A Large-Scale, High-Reynolds Number Flow Dataset for Machine Learning of Turbulent Wake Dynamics](https://arxiv.org/abs/2602.01379v1)** | 2026-02-01 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 2 tables</p></details> |
-| **[Sample-Efficient Diffusion-based Control of Complex Physics Systems](https://arxiv.org/abs/2502.17893v2)** | 2026-02-01 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,10 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weighted Birkhoff Averages Accelerate Data-Driven Methods](https://arxiv.org/abs/2511.17772v2)** | 2026-02-18 |  |
+| **[DiffusionBlocks: Block-wise Neural Network Training via Diffusion Interpretation](https://arxiv.org/abs/2506.14202v3)** | 2026-02-18 | <details><summary>To ap...</summary><p>To appear at the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[Event Topology-based Visual Microphone for Amplitude and Frequency Reconstruction](https://arxiv.org/abs/2510.17092v2)** | 2026-02-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 2 tables. Submitted for publication. Accepted for publication in Applied Physics Letters</p></details> |
+| **[Learning Gradient Flow: Using Equation Discovery to Accelerate Engineering Optimization](https://arxiv.org/abs/2602.13513v2)** | 2026-02-17 | <details><summary>44 pa...</summary><p>44 pages, 13 figures. Submitted to CMAME. Changed Topology Optimization example to be 250% acceleration</p></details> |
 | **[Controlled oscillation modeling using port-Hamiltonian neural networks](https://arxiv.org/abs/2602.15704v1)** | 2026-02-17 |  |
 | **[Relative Geometry of Neural Forecasters: Linking Accuracy and Alignment in Learned Latent Geometry](https://arxiv.org/abs/2602.15676v1)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[Continuous-Time Piecewise-Linear Recurrent Neural Networks](https://arxiv.org/abs/2602.15649v1)** | 2026-02-17 |  |
@@ -94,11 +98,7 @@ labels: documentation
 | **[The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097v3)** | 2026-02-15 | 15 figures |
 | **[KoopGen: Koopman Generator Networks for Representing and Predicting Dynamical Systems with Continuous Spectra](https://arxiv.org/abs/2602.14011v1)** | 2026-02-15 | 25 pages |
 | **[On the Surprising Effectiveness of Spectral Clipping in Learning Stable Linear and Latent-Linear Dynamical Systems](https://arxiv.org/abs/2412.01168v7)** | 2026-02-14 |  |
-| **[Learning Gradient Flow: Using Equation Discovery to Accelerate Engineering Optimization](https://arxiv.org/abs/2602.13513v1)** | 2026-02-13 | <details><summary>44 pa...</summary><p>44 pages, 13 figures. To be submitted to CMAME</p></details> |
 | **[Interpolation-Inspired Closure Certificates](https://arxiv.org/abs/2602.12436v1)** | 2026-02-12 |  |
-| **[Policy4OOD: A Knowledge-Guided World Model for Policy Intervention Simulation against the Opioid Overdose Crisis](https://arxiv.org/abs/2602.12373v1)** | 2026-02-12 |  |
-| **[Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](https://arxiv.org/abs/2602.12139v1)** | 2026-02-12 |  |
-| **[Three factor delay learning rules for spiking neural networks](https://arxiv.org/abs/2601.00668v2)** | 2026-02-12 | 7 pages, 5 figures |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
