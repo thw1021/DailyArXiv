@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 20, 2026
+title: Latest 20 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](https://arxiv.org/abs/2510.14190v2)** | 2026-02-19 |  |
 | **[Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine-Learning, and Physics-Informed Methods](https://arxiv.org/abs/2602.16000v1)** | 2026-02-17 | 26 pages 4 tables |
 | **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v2)** | 2026-02-17 |  |
 | **[Distributional Deep Learning for Super-Resolution of 4D Flow MRI under Domain Shift](https://arxiv.org/abs/2602.15167v1)** | 2026-02-16 |  |
@@ -26,7 +27,6 @@ labels: documentation
 | **[PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction](https://arxiv.org/abs/2510.16004v2)** | 2026-02-03 | 28 pages, 23 figures |
 | **[Point Vortex Dynamics on Closed Surfaces](https://arxiv.org/abs/2602.03684v1)** | 2026-02-03 | <details><summary>Maste...</summary><p>Master Thesis, Technical University of Berlin</p></details> |
 | **[Koopman Autoencoders with Continuous-Time Latent Dynamics for Fluid Dynamics Forecasting](https://arxiv.org/abs/2602.02832v1)** | 2026-02-02 |  |
-| **[WAKESET: A Large-Scale, High-Reynolds Number Flow Dataset for Machine Learning of Turbulent Wake Dynamics](https://arxiv.org/abs/2602.01379v1)** | 2026-02-01 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 2 tables</p></details> |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nonlinear Predictive Control of the Continuum and Hybrid Dynamics of a Suspended Deformable Cable for Aerial Pick and Place](https://arxiv.org/abs/2602.17199v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted to the IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
 | **[Neural-POD: A Plug-and-Play Neural Operator Framework for Infinite-Dimensional Functional Nonlinear Proper Orthogonal Decomposition](https://arxiv.org/abs/2602.15632v1)** | 2026-02-17 |  |
 | **[Solving Inverse Parametrized Problems via Finite Elements and Extreme Learning Networks](https://arxiv.org/abs/2602.14757v1)** | 2026-02-16 |  |
 | **[A Structured Neural ODE Approach for Real Time Evaluation of AC Losses in 3D Superconducting Tapes](https://arxiv.org/abs/2510.14487v2)** | 2026-02-16 | <details><summary>in IE...</summary><p>in IEEE Transactions on Applied Superconductivity, 2026</p></details> |
@@ -74,11 +75,18 @@ labels: documentation
 | **[Data-driven stochastic reduced-order modeling of parametrized dynamical systems](https://arxiv.org/abs/2601.10690v1)** | 2026-01-15 |  |
 | **[Symbolic Learning of Interpretable Reduced-Order Models for Jumping Quadruped Robots](https://arxiv.org/abs/2508.06538v2)** | 2026-01-13 | 8 pages |
 | **[An adjoint method for training data-driven reduced-order models](https://arxiv.org/abs/2601.07579v1)** | 2026-01-12 |  |
-| **[A Comparison of Parametric Dynamic Mode Decomposition Algorithms for Thermal-Hydraulics Applications](https://arxiv.org/abs/2503.24205v2)** | 2026-01-10 | <details><summary>Accep...</summary><p>Accepted for pubblication in Nuclear Technology</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nonlinear Model Order Reduction of Dynamical Systems in Process Engineering: Review and Comparison](https://arxiv.org/abs/2506.12819v2)** | 2026-02-19 |  |
+| **[Variational Grey-Box Dynamics Matching](https://arxiv.org/abs/2602.17477v1)** | 2026-02-19 | <details><summary>AISTA...</summary><p>AISTATS 2026. Code is available at https://github.com/DMML-Geneva/VGB-DM</p></details> |
+| **[Block-Recurrent Dynamics in Vision Transformers](https://arxiv.org/abs/2512.19941v5)** | 2026-02-19 | 25 pages, 15 figures |
+| **[Continual uncertainty learning](https://arxiv.org/abs/2602.17174v1)** | 2026-02-19 |  |
+| **[Synergizing Transport-Based Generative Models and Latent Geometry for Stochastic Closure Modeling](https://arxiv.org/abs/2602.17089v1)** | 2026-02-19 |  |
+| **[Continuous-Time Value Iteration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2509.09135v3)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. 21 pages, 13 figures</p></details> |
+| **[Temporal Graph Pattern Machine](https://arxiv.org/abs/2601.22454v2)** | 2026-02-18 |  |
+| **[Position: Why a Dynamical Systems Perspective is Needed to Advance Time Series Modeling](https://arxiv.org/abs/2602.16864v1)** | 2026-02-18 |  |
 | **[Weighted Birkhoff Averages Accelerate Data-Driven Methods](https://arxiv.org/abs/2511.17772v2)** | 2026-02-18 |  |
 | **[DiffusionBlocks: Block-wise Neural Network Training via Diffusion Interpretation](https://arxiv.org/abs/2506.14202v3)** | 2026-02-18 | <details><summary>To ap...</summary><p>To appear at the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
 | **[Event Topology-based Visual Microphone for Amplitude and Frequency Reconstruction](https://arxiv.org/abs/2510.17092v2)** | 2026-02-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 2 tables. Submitted for publication. Accepted for publication in Applied Physics Letters</p></details> |
@@ -91,14 +99,6 @@ labels: documentation
 | **[Safe Reinforcement Learning via Recovery-based Shielding with Gaussian Process Dynamics Models](https://arxiv.org/abs/2602.12444v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at AAMAS 2026</p></details> |
 | **[Causally constrained reduced-order neural models of complex turbulent dynamical systems](https://arxiv.org/abs/2602.13847v2)** | 2026-02-17 |  |
 | **[PolyNODE: Variable-dimension Neural ODEs on M-polyfolds](https://arxiv.org/abs/2602.15128v1)** | 2026-02-16 |  |
-| **[Drift-Diffusion Matching: Embedding dynamics in latent manifolds of asymmetric neural networks](https://arxiv.org/abs/2602.14885v1)** | 2026-02-16 | 23 pages, 15 figures |
-| **[VCDF: A Validated Consensus-Driven Framework for Time Series Causal Discovery](https://arxiv.org/abs/2410.19412v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted to Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2026</p></details> |
-| **[Preliminary sonification of ENSO using traditional Javanese gamelan scales](https://arxiv.org/abs/2602.14560v1)** | 2026-02-16 | 16 pages, 7 figures |
-| **[Accelerated Sequential Flow Matching: A Bayesian Filtering Perspective](https://arxiv.org/abs/2602.05319v2)** | 2026-02-15 |  |
-| **[The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097v3)** | 2026-02-15 | 15 figures |
-| **[KoopGen: Koopman Generator Networks for Representing and Predicting Dynamical Systems with Continuous Spectra](https://arxiv.org/abs/2602.14011v1)** | 2026-02-15 | 25 pages |
-| **[On the Surprising Effectiveness of Spectral Clipping in Learning Stable Linear and Latent-Linear Dynamical Systems](https://arxiv.org/abs/2412.01168v7)** | 2026-02-14 |  |
-| **[Interpolation-Inspired Closure Certificates](https://arxiv.org/abs/2602.12436v1)** | 2026-02-12 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
