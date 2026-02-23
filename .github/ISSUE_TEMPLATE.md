@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 23, 2026
+title: Latest 20 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Physics-informed graph neural networks for flow field estimation in carotid arteries](https://arxiv.org/abs/2408.07110v2)** | 2026-02-20 | <details><summary>Publi...</summary><p>Published in "Medical Image Analysis"</p></details> |
+| **[Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver](https://arxiv.org/abs/2602.18248v1)** | 2026-02-20 |  |
+| **[Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model](https://arxiv.org/abs/2412.13897v2)** | 2026-02-19 | Accepted by 3DV 2026 |
 | **[Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](https://arxiv.org/abs/2510.14190v2)** | 2026-02-19 |  |
 | **[Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine-Learning, and Physics-Informed Methods](https://arxiv.org/abs/2602.16000v1)** | 2026-02-17 | 26 pages 4 tables |
 | **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v2)** | 2026-02-17 |  |
@@ -24,9 +27,6 @@ labels: documentation
 | **[ChatCFD: An LLM-Driven Agent for End-to-End CFD Automation with Structured Knowledge and Reasoning](https://arxiv.org/abs/2506.02019v3)** | 2026-02-07 | 19 pages, 8 figures |
 | **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v2)** | 2026-02-06 |  |
 | **[Position: Universal Time Series Foundation Models Rest on a Category Error](https://arxiv.org/abs/2602.05287v1)** | 2026-02-05 | Position Paper |
-| **[PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction](https://arxiv.org/abs/2510.16004v2)** | 2026-02-03 | 28 pages, 23 figures |
-| **[Point Vortex Dynamics on Closed Surfaces](https://arxiv.org/abs/2602.03684v1)** | 2026-02-03 | <details><summary>Maste...</summary><p>Master Thesis, Technical University of Berlin</p></details> |
-| **[Koopman Autoencoders with Continuous-Time Latent Dynamics for Fluid Dynamics Forecasting](https://arxiv.org/abs/2602.02832v1)** | 2026-02-02 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,16 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach](https://arxiv.org/abs/2602.18377v1)** | 2026-02-20 | 34 pages, 12 figures |
+| **[Smoothness and other hyperparameter estimation for inverse problems related to data assimilation](https://arxiv.org/abs/2602.18328v1)** | 2026-02-20 | 28 pages, 11 figures |
+| **[Decoding convolutional codes over finite rings. A linear dynamical systems approach](https://arxiv.org/abs/2411.18316v3)** | 2026-02-20 |  |
+| **[LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification](https://arxiv.org/abs/2602.18195v1)** | 2026-02-20 |  |
+| **[CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions](https://arxiv.org/abs/2602.01844v2)** | 2026-02-20 | ICLR 2026 |
+| **[Deepmechanics](https://arxiv.org/abs/2602.18060v1)** | 2026-02-20 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, Submitted to KDD 2026</p></details> |
+| **[Assimilative Causal Inference](https://arxiv.org/abs/2505.14825v2)** | 2026-02-20 | <details><summary>47 pa...</summary><p>47 pages (Main Text pp. 1--17; Supplementary Information pp. 18--47), 11 figures (3 in Main Text, 8 in Supplementary Information). Published in Nature Communications. The MATLAB code used in the analyses and to generate the figures in this work can be found in https://github.com/marandmath/ACI_code . For further details visit https://mariosandreou.short.gy/ACI</p></details> |
+| **[Quasi-Periodic Gaussian Process Predictive Iterative Learning Control](https://arxiv.org/abs/2602.18014v1)** | 2026-02-20 |  |
+| **[NIMMGen: Learning Neural-Integrated Mechanistic Digital Twins with LLMs](https://arxiv.org/abs/2602.18008v1)** | 2026-02-20 | 19 pages, 6 figures |
+| **[Causality by Abstraction: Symbolic Rule Learning in Multivariate Timeseries with Large Language Models](https://arxiv.org/abs/2602.17829v1)** | 2026-02-19 |  |
 | **[Nonlinear Model Order Reduction of Dynamical Systems in Process Engineering: Review and Comparison](https://arxiv.org/abs/2506.12819v2)** | 2026-02-19 |  |
 | **[Variational Grey-Box Dynamics Matching](https://arxiv.org/abs/2602.17477v1)** | 2026-02-19 | <details><summary>AISTA...</summary><p>AISTATS 2026. Code is available at https://github.com/DMML-Geneva/VGB-DM</p></details> |
 | **[Block-Recurrent Dynamics in Vision Transformers](https://arxiv.org/abs/2512.19941v5)** | 2026-02-19 | 25 pages, 15 figures |
@@ -89,16 +99,6 @@ labels: documentation
 | **[Position: Why a Dynamical Systems Perspective is Needed to Advance Time Series Modeling](https://arxiv.org/abs/2602.16864v1)** | 2026-02-18 |  |
 | **[Weighted Birkhoff Averages Accelerate Data-Driven Methods](https://arxiv.org/abs/2511.17772v2)** | 2026-02-18 |  |
 | **[DiffusionBlocks: Block-wise Neural Network Training via Diffusion Interpretation](https://arxiv.org/abs/2506.14202v3)** | 2026-02-18 | <details><summary>To ap...</summary><p>To appear at the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Event Topology-based Visual Microphone for Amplitude and Frequency Reconstruction](https://arxiv.org/abs/2510.17092v2)** | 2026-02-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 2 tables. Submitted for publication. Accepted for publication in Applied Physics Letters</p></details> |
-| **[Learning Gradient Flow: Using Equation Discovery to Accelerate Engineering Optimization](https://arxiv.org/abs/2602.13513v2)** | 2026-02-17 | <details><summary>44 pa...</summary><p>44 pages, 13 figures. Submitted to CMAME. Changed Topology Optimization example to be 250% acceleration</p></details> |
-| **[Controlled oscillation modeling using port-Hamiltonian neural networks](https://arxiv.org/abs/2602.15704v1)** | 2026-02-17 |  |
-| **[Relative Geometry of Neural Forecasters: Linking Accuracy and Alignment in Learned Latent Geometry](https://arxiv.org/abs/2602.15676v1)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[Continuous-Time Piecewise-Linear Recurrent Neural Networks](https://arxiv.org/abs/2602.15649v1)** | 2026-02-17 |  |
-| **[The Stationarity Bias: Stratified Stress-Testing for Time-Series Imputation in Regulated Dynamical Systems](https://arxiv.org/abs/2602.15637v1)** | 2026-02-17 |  |
-| **[Uni-Flow: a unified autoregressive-diffusion model for complex multiscale flows](https://arxiv.org/abs/2602.15592v1)** | 2026-02-17 |  |
-| **[Safe Reinforcement Learning via Recovery-based Shielding with Gaussian Process Dynamics Models](https://arxiv.org/abs/2602.12444v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at AAMAS 2026</p></details> |
-| **[Causally constrained reduced-order neural models of complex turbulent dynamical systems](https://arxiv.org/abs/2602.13847v2)** | 2026-02-17 |  |
-| **[PolyNODE: Variable-dimension Neural ODEs on M-polyfolds](https://arxiv.org/abs/2602.15128v1)** | 2026-02-16 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
