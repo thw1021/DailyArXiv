@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 04, 2026
+title: Latest 20 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -31,8 +31,8 @@ labels: documentation
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automatic and Structure-Aware Sparsification of Hybrid Neural ODEs](https://arxiv.org/abs/2505.18996v3)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at The 14th International Conference on Learning Representations (ICLR) 2026</p></details> |
 | **[Degrees-of-Freedom Approximations for Conditional-Mean Inference in Random-Lot Stability Analysis](https://arxiv.org/abs/2602.10026v1)** | 2026-02-10 |  |
-| **[Automatic and Structure-Aware Sparsification of Hybrid Neural ODEs](https://arxiv.org/abs/2505.18996v2)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted at The 14th International Conference on Learning Representations (ICLR) 2026</p></details> |
 | **[Streaming Operator Inference for Model Reduction of Large-Scale Dynamical Systems](https://arxiv.org/abs/2601.12161v2)** | 2026-02-05 |  |
 | **[Constraint Matters: Multi-Modal Representation for Reducing Mixed-Integer Linear programming](https://arxiv.org/abs/2508.18742v3)** | 2026-02-03 | <details><summary>Accec...</summary><p>Accecpted by ICLR 2026</p></details> |
 | **[Nonlinear model reduction for transport-dominated problems](https://arxiv.org/abs/2602.01397v1)** | 2026-02-01 |  |
@@ -55,6 +55,8 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Geometry Regularization in Autoencoder Reduced-Order Models with Latent Neural ODE Dynamics](https://arxiv.org/abs/2603.03238v1)** | 2026-03-03 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 3 tables</p></details> |
+| **[Learning Lagrangian Interaction Dynamics with Sampling-Based Model Order Reduction](https://arxiv.org/abs/2407.03925v4)** | 2026-03-02 |  |
 | **[Neural-POD: A Plug-and-Play Neural Operator Framework for Infinite-Dimensional Functional Nonlinear Proper Orthogonal Decomposition](https://arxiv.org/abs/2602.15632v2)** | 2026-03-01 |  |
 | **[Efficient Aircraft Design Optimization Using Multi-Fidelity Models and Multi-fidelity Physics Informed Neural Networks](https://arxiv.org/abs/2412.18564v2)** | 2026-02-28 | 7 pages, 3 figures |
 | **[KROM: Kernelized Reduced Order Modeling](https://arxiv.org/abs/2603.00360v1)** | 2026-02-27 |  |
@@ -73,12 +75,19 @@ labels: documentation
 | **[Toward Adaptive Non-Intrusive Reduced-Order Models: Design and Challenges](https://arxiv.org/abs/2602.11378v1)** | 2026-02-11 |  |
 | **[Coarse-Grained Boltzmann Generators](https://arxiv.org/abs/2602.10637v1)** | 2026-02-11 |  |
 | **[Low-Rank Koopman Deformables with Log-Linear Time Integration](https://arxiv.org/abs/2602.07687v1)** | 2026-02-07 |  |
-| **[Fast prediction of plasma instabilities with sparse-grid-accelerated optimized dynamic mode decomposition](https://arxiv.org/abs/2507.03245v3)** | 2026-02-02 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 10 tables</p></details> |
-| **[OpInf-LLM: Parametric PDE Solving with LLMs via Operator Inference](https://arxiv.org/abs/2602.01493v1)** | 2026-02-02 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Policy myopia as a mechanism of gradual disempowerment in Post-AGI governance, Circa 2049](https://arxiv.org/abs/2603.03267v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at the Post-AGI Science and Society Workshop at ICLR 2026. 16 Pages and 4 Figures</p></details> |
+| **[Dynamic Manifold Hopfield Networks for Context-Dependent Associative Memory](https://arxiv.org/abs/2506.01303v3)** | 2026-03-03 |  |
+| **[Dividing sums of cycles in the semiring of functional digraphs](https://arxiv.org/abs/2504.11943v2)** | 2026-03-03 | 25 pages |
+| **[The Geometry of Learning Under AI Delegation](https://arxiv.org/abs/2603.02950v1)** | 2026-03-03 |  |
+| **[Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics](https://arxiv.org/abs/2508.07326v2)** | 2026-03-03 | <details><summary>expan...</summary><p>expanded the discussion of conceptual and methodological challenges in the Introduction; no changes to results</p></details> |
+| **[Rethinking Time Series Domain Generalization via Structure-Stratified Calibration](https://arxiv.org/abs/2603.02756v1)** | 2026-03-03 |  |
+| **[DRESS: A Continuous Framework for Structural Graph Refinement](https://arxiv.org/abs/2602.20833v4)** | 2026-03-03 |  |
+| **[Using the SEKF to Transfer NN Models of Dynamical Systems with Limited Data](https://arxiv.org/abs/2603.02439v1)** | 2026-03-02 |  |
+| **[Weight-Space Linear Recurrent Neural Networks](https://arxiv.org/abs/2506.01153v3)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted as a main track publication at ICLR 2026. Contains 40 pages, 23 figures, and 16 tables</p></details> |
 | **[Data-to-Energy Stochastic Dynamics](https://arxiv.org/abs/2509.26364v2)** | 2026-03-02 |  |
 | **[Probabilistic Retrofitting of Learned Simulators](https://arxiv.org/abs/2603.01949v1)** | 2026-03-02 | <details><summary>Code ...</summary><p>Code provided at https://github.com/cddcam/lola_crps</p></details> |
 | **[Causality-Respecting Adaptive Refinement for PINNs: Enabling Precise Interface Evolution in Phase Field Modeling](https://arxiv.org/abs/2410.20212v2)** | 2026-03-02 | 23 Pages, 7 Figures |
@@ -87,18 +96,9 @@ labels: documentation
 | **[Optimal information injection and transfer mechanisms for active matter reservoir computing](https://arxiv.org/abs/2509.01799v2)** | 2026-03-02 | <details><summary>93 pa...</summary><p>93 pages, 51 figures. Supplementary Videos: https://doi.org/10.18419/DARUS-4806. Replication Data: https://doi.org/10.18419/DARUS-4805</p></details> |
 | **[Select, then Balance: Exploring Exogenous Variable Modeling of Spatio-Temporal Forecasting](https://arxiv.org/abs/2509.05779v3)** | 2026-03-02 |  |
 | **[On the Stability Connection Between Discrete-Time Algorithms and Their Resolution ODEs: Applications to Min-Max Optimisation](https://arxiv.org/abs/2603.01430v1)** | 2026-03-02 |  |
-| **[DRESS: A Continuous Framework for Structural Graph Refinement](https://arxiv.org/abs/2602.20833v3)** | 2026-03-02 |  |
 | **[Viability-Preserving Passive Torque Control](https://arxiv.org/abs/2510.03367v2)** | 2026-03-02 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, Project Website: https://vpp-tc.github.io/webpage/</p></details> |
 | **[DoFlow: Flow-based Generative Models for Interventional and Counterfactual Forecasting on Time Series](https://arxiv.org/abs/2511.02137v2)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted to the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
 | **[LD-EnSF: Synergizing Latent Dynamics with Ensemble Score Filters for Fast Data Assimilation with Sparse Observations](https://arxiv.org/abs/2411.19305v2)** | 2026-03-01 |  |
-| **[CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions](https://arxiv.org/abs/2602.01844v3)** | 2026-03-01 | ICLR 2026 |
-| **[Kernel Methods for Stochastic Dynamical Systems with Application to Koopman Eigenfunctions: Feynman-Kac Representations and RKHS Approximation](https://arxiv.org/abs/2603.01077v1)** | 2026-03-01 |  |
-| **[Navigating Time's Possibilities: Plausible Counterfactual Explanations for Multivariate Time-Series Forecast through Genetic Algorithms](https://arxiv.org/abs/2603.00855v1)** | 2026-03-01 | <details><summary>Publi...</summary><p>Published on IEEE TrustCom 2024</p></details> |
-| **[Dynamic Level Sets](https://arxiv.org/abs/2602.22530v2)** | 2026-02-28 | 7 pages |
-| **[Barriers for Learning in an Evolving World: Mathematical Understanding of Loss of Plasticity](https://arxiv.org/abs/2510.00304v2)** | 2026-02-28 |  |
-| **[MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation](https://arxiv.org/abs/2603.00585v1)** | 2026-02-28 |  |
-| **[Towards Generalizable PDE Dynamics Forecasting via Physics-Guided Invariant Learning](https://arxiv.org/abs/2509.24332v2)** | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Explainable Continuous-Time Mask Refinement with Local Self-Similarity Priors for Medical Image Segmentation](https://arxiv.org/abs/2603.00459v1)** | 2026-02-28 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
