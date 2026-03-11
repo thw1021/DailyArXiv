@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 11, 2026
+title: Latest 20 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiffWind: Physics-Informed Differentiable Modeling of Wind-Driven Object Dynamics](https://arxiv.org/abs/2603.09668v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. Project page: https://zju3dv.github.io/DiffWind/</p></details> |
+| **[Flow Field Reconstruction via Voronoi-Enhanced Physics-Informed Neural Networks with End-to-End Sensor Placement Optimization](https://arxiv.org/abs/2603.09371v1)** | 2026-03-10 | 36 pages, 9 figures |
+| **[WESPR: Wind-adaptive Energy-Efficient Safe Perception & Planning for Robust Flight with Quadrotors](https://arxiv.org/abs/2603.09194v1)** | 2026-03-10 | 8 pages, 9 Figures |
 | **[MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention](https://arxiv.org/abs/2512.01738v2)** | 2026-03-09 |  |
 | **[ROSplane 2.0: A Fixed-Wing Autopilot for Research](https://arxiv.org/abs/2510.01041v2)** | 2026-03-06 | <details><summary>Submi...</summary><p>Submitted to the 2026 International Conference on Unmanned Aerial Systems</p></details> |
 | **[Prediction of Steady-State Flow through Porous Media Using Machine Learning Models](https://arxiv.org/abs/2603.06762v1)** | 2026-03-06 |  |
@@ -24,9 +27,6 @@ labels: documentation
 | **[Graph Neural Network Assisted Genetic Algorithm for Structural Dynamic Response and Parameter Optimization](https://arxiv.org/abs/2510.22839v3)** | 2026-02-22 | 13 pages, 8 figures |
 | **[WAKESET: A Large-Scale, High-Reynolds Number Flow Dataset for Machine Learning of Turbulent Wake Dynamics](https://arxiv.org/abs/2602.01379v2)** | 2026-02-22 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 2 tables</p></details> |
 | **[Physics-informed graph neural networks for flow field estimation in carotid arteries](https://arxiv.org/abs/2408.07110v2)** | 2026-02-20 | <details><summary>Publi...</summary><p>Published in "Medical Image Analysis"</p></details> |
-| **[Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver](https://arxiv.org/abs/2602.18248v1)** | 2026-02-20 |  |
-| **[Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model](https://arxiv.org/abs/2412.13897v2)** | 2026-02-19 | Accepted by 3DV 2026 |
-| **[Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](https://arxiv.org/abs/2510.14190v2)** | 2026-02-19 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,15 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Upper Generalization Bounds for Neural Oscillators](https://arxiv.org/abs/2603.09742v1)** | 2026-03-10 | <details><summary>This ...</summary><p>This manuscript contains 25 pages with 4 figures</p></details> |
+| **[Symbolic Discovery of Stochastic Differential Equations with Genetic Programming](https://arxiv.org/abs/2603.09597v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 4 tables</p></details> |
+| **[Continual uncertainty learning](https://arxiv.org/abs/2602.17174v2)** | 2026-03-10 |  |
+| **[Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning](https://arxiv.org/abs/2412.01297v3)** | 2026-03-10 |  |
+| **[A Gaussian Comparison Theorem for Training Dynamics in Machine Learning](https://arxiv.org/abs/2603.09310v1)** | 2026-03-10 |  |
+| **[Embodied Human Simulation for Quantitative Design and Analysis of Interactive Robotics](https://arxiv.org/abs/2603.09218v1)** | 2026-03-10 |  |
+| **[Chaotic Dynamics in Multi-LLM Deliberation](https://arxiv.org/abs/2603.09127v1)** | 2026-03-10 | <details><summary>Main ...</summary><p>Main text: 6 pages, 4 figures; Supplementary Information: 14 pages, 7 supplementary figures</p></details> |
+| **[When to Retrain after Drift: A Data-Only Test of Post-Drift Data Size Sufficiency](https://arxiv.org/abs/2603.09024v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[The FABRIC Strategy for Verifying Neural Feedback Systems](https://arxiv.org/abs/2603.08964v1)** | 2026-03-09 |  |
 | **[NN-OpInf: an operator inference approach using structure-preserving composable neural networks](https://arxiv.org/abs/2603.08488v1)** | 2026-03-09 |  |
 | **[Electrocardiogram Classification with Transformers Using Koopman and Wavelet Features](https://arxiv.org/abs/2603.08339v1)** | 2026-03-09 |  |
 | **[Sign Identifiability of Causal Effects in Stationary Stochastic Dynamical Systems](https://arxiv.org/abs/2603.08311v1)** | 2026-03-09 |  |
@@ -90,19 +99,11 @@ labels: documentation
 | **[CITS: Nonparametric Statistical Causal Modeling for High-Resolution Neural Time Series](https://arxiv.org/abs/2508.01920v2)** | 2026-03-08 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2312.09604</p></details> |
 | **[Characterizing Nonlinear Dynamics via Smooth Prototype Equivalences](https://arxiv.org/abs/2503.10336v2)** | 2026-03-08 |  |
 | **[How Learning Dynamics Drive Adversarially Robust Generalization?](https://arxiv.org/abs/2410.07719v3)** | 2026-03-08 |  |
-| **[Puppet-CNN: Continuous Parameter Dynamics for Input-Adaptive Convolutional Networks](https://arxiv.org/abs/2411.12876v2)** | 2026-03-07 | <details><summary>12 pa...</summary><p>12 pages, 4 figures. Updated version with revised title</p></details> |
-| **[Thermodynamics a la Souriau on Kähler Non Compact Symmetric Spaces for Cartan Neural Networks](https://arxiv.org/abs/2512.16772v2)** | 2026-03-07 | 108 pages, 8 figures |
-| **[Transformers as Implicit State Estimators: In-Context Learning in Dynamical Systems](https://arxiv.org/abs/2410.16546v3)** | 2026-03-07 |  |
-| **[PHASE-Net: Physics-Grounded Harmonic Attention System for Efficient Remote Photoplethysmography Measurement](https://arxiv.org/abs/2509.24850v3)** | 2026-03-07 | Accepted by CVPR2026 |
-| **[PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization](https://arxiv.org/abs/2510.04436v3)** | 2026-03-06 | <details><summary>Final...</summary><p>Final manuscript. Accepted for publication at the 2026 American Control Conference</p></details> |
-| **[Kernel Methods for Some Transport Equations with Application to Learning Kernels for the Approximation of Koopman Eigenfunctions: A Unified Approach via Variational Methods, Green's Functions and the Method of Characteristics](https://arxiv.org/abs/2603.06872v1)** | 2026-03-06 |  |
-| **[Symmetry-Constrained Language-Guided Program Synthesis for Discovering Governing Equations from Noisy and Partial Observations](https://arxiv.org/abs/2603.06869v1)** | 2026-03-06 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables</p></details> |
-| **[Mixed Monotonicity Reachability Analysis of Neural ODE: A Trade-Off Between Tightness and Efficiency](https://arxiv.org/abs/2510.17859v2)** | 2026-03-06 | <details><summary>27 pa...</summary><p>27 pages, 11 figures, Accepted for publication in PMLR proceedings of NeurReps 2025 co-located with NeurIPS 2025</p></details> |
-| **[Frequency-Separable Hamiltonian Neural Network for Multi-Timescale Dynamics](https://arxiv.org/abs/2603.06354v1)** | 2026-03-06 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Provably Safe Trajectory Generation for Manipulators Under Motion and Environmental Uncertainties](https://arxiv.org/abs/2603.09083v1)** | 2026-03-10 |  |
 | **[Electrocardiogram Classification with Transformers Using Koopman and Wavelet Features](https://arxiv.org/abs/2603.08339v1)** | 2026-03-09 |  |
 | **[Safe Navigation of Bipedal Robots via Koopman Operator-Based Model Predictive Control](https://arxiv.org/abs/2409.14736v3)** | 2026-03-07 | 9 pages |
 | **[Kernel Methods for Some Transport Equations with Application to Learning Kernels for the Approximation of Koopman Eigenfunctions: A Unified Approach via Variational Methods, Green's Functions and the Method of Characteristics](https://arxiv.org/abs/2603.06872v1)** | 2026-03-06 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Visual Prompt-Agnostic Evolution](https://arxiv.org/abs/2601.20232v2)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[Lyapunov Constrained Soft Actor-Critic (LC-SAC) using Koopman Operator Theory for Quadrotor Trajectory Tracking](https://arxiv.org/abs/2602.04132v2)** | 2026-02-06 | <details><summary>11 pa...</summary><p>11 pages, 7 Figures, submitted to IEEE RA-L</p></details> |
 | **[Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective](https://arxiv.org/abs/2407.14069v2)** | 2026-02-06 |  |
-| **[Bayesian Transfer Operators in Reproducing Kernel Hilbert Spaces](https://arxiv.org/abs/2509.22482v2)** | 2026-02-04 |  |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
