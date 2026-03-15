@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 13, 2026
+title: Latest 20 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -79,6 +79,10 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Learning-Based Metamodeling of Nonlinear Stochastic Dynamic Systems under Parametric and Predictive Uncertainty](https://arxiv.org/abs/2603.12012v1)** | 2026-03-12 |  |
+| **[A Foundational Theory of Quantitative Abstraction: Adjunctions, Duality, and Logic for Probabilistic Systems](https://arxiv.org/abs/2510.19444v3)** | 2026-03-12 | <details><summary>Some ...</summary><p>Some major mathematical errors that we need to rectify. We cannot specify exact error areas as they are spread throughout. The theorems need further development</p></details> |
+| **[Context-dependent manifold learning: A neuromodulated constrained autoencoder approach](https://arxiv.org/abs/2603.11673v1)** | 2026-03-12 | 14 pages, 10 figures |
+| **[Limited Reasoning Space: The cage of long-horizon reasoning in LLMs](https://arxiv.org/abs/2602.19281v2)** | 2026-03-12 |  |
 | **[Factorized Neural Implicit DMD for Parametric Dynamics](https://arxiv.org/abs/2603.10995v1)** | 2026-03-11 |  |
 | **[MCMC Informed Neural Emulators for Uncertainty Quantification in Dynamical Systems](https://arxiv.org/abs/2603.10987v1)** | 2026-03-11 |  |
 | **[Panda: A pretrained forecast model for chaotic dynamics](https://arxiv.org/abs/2505.13755v3)** | 2026-03-11 |  |
@@ -95,10 +99,6 @@ labels: documentation
 | **[Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning](https://arxiv.org/abs/2412.01297v3)** | 2026-03-10 |  |
 | **[A Gaussian Comparison Theorem for Training Dynamics in Machine Learning](https://arxiv.org/abs/2603.09310v1)** | 2026-03-10 |  |
 | **[Embodied Human Simulation for Quantitative Design and Analysis of Interactive Robotics](https://arxiv.org/abs/2603.09218v1)** | 2026-03-10 |  |
-| **[Chaotic Dynamics in Multi-LLM Deliberation](https://arxiv.org/abs/2603.09127v1)** | 2026-03-10 | <details><summary>Main ...</summary><p>Main text: 6 pages, 4 figures; Supplementary Information: 14 pages, 7 supplementary figures</p></details> |
-| **[When to Retrain after Drift: A Data-Only Test of Post-Drift Data Size Sufficiency](https://arxiv.org/abs/2603.09024v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[The FABRIC Strategy for Verifying Neural Feedback Systems](https://arxiv.org/abs/2603.08964v1)** | 2026-03-09 |  |
-| **[NN-OpInf: an operator inference approach using structure-preserving composable neural networks](https://arxiv.org/abs/2603.08488v1)** | 2026-03-09 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
