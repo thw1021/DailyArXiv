@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 17, 2026
+title: Latest 20 Papers - March 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hydrodynamic Performance Enhancement of Unmanned Underwater Gliders with Soft Robotic Morphing Wings for Agility Improvement](https://arxiv.org/abs/2602.20054v2)** | 2026-03-15 | <details><summary>Confe...</summary><p>Conference paper accepted at 9th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2026)</p></details> |
+| **[Multifidelity Surrogate Modeling of Depressurized Loss of Forced Cooling in High-temperature Gas Reactors](https://arxiv.org/abs/2603.14143v1)** | 2026-03-14 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 14 Tables</p></details> |
 | **[FloeNet: A mass-conserving global sea ice emulator that generalizes across climates](https://arxiv.org/abs/2603.12449v1)** | 2026-03-12 | <details><summary>4 Fig...</summary><p>4 Figures, 18 supplementary figures</p></details> |
 | **[DiffWind: Physics-Informed Differentiable Modeling of Wind-Driven Object Dynamics](https://arxiv.org/abs/2603.09668v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. Project page: https://zju3dv.github.io/DiffWind/</p></details> |
 | **[Flow Field Reconstruction via Voronoi-Enhanced Physics-Informed Neural Networks with End-to-End Sensor Placement Optimization](https://arxiv.org/abs/2603.09371v1)** | 2026-03-10 | 36 pages, 9 figures |
@@ -23,14 +25,14 @@ labels: documentation
 | **[Model Predictive Control with Reference Learning for Soft Robotic Intracranial Pressure Waveform Modulation](https://arxiv.org/abs/2509.13109v2)** | 2026-02-27 |  |
 | **[Learning Disease-Sensitive Latent Interaction Graphs From Noisy Cardiac Flow Measurements](https://arxiv.org/abs/2602.23035v1)** | 2026-02-26 |  |
 | **[MNO: Multiscale Neural Operator for 3D Computational Fluid Dynamics](https://arxiv.org/abs/2510.16071v2)** | 2026-02-25 |  |
-| **[Hydrodynamic Performance Enhancement of Unmanned Underwater Gliders with Soft Robotic Morphing Wings for Agility Improvement](https://arxiv.org/abs/2602.20054v1)** | 2026-02-23 | <details><summary>Confe...</summary><p>Conference paper accepted at 9th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2026)</p></details> |
 | **[Scale-PINN: Learning Efficient Physics-Informed Neural Networks Through Sequential Correction](https://arxiv.org/abs/2602.19475v1)** | 2026-02-23 |  |
 | **[Graph Neural Network Assisted Genetic Algorithm for Structural Dynamic Response and Parameter Optimization](https://arxiv.org/abs/2510.22839v3)** | 2026-02-22 | 13 pages, 8 figures |
-| **[WAKESET: A Large-Scale, High-Reynolds Number Flow Dataset for Machine Learning of Turbulent Wake Dynamics](https://arxiv.org/abs/2602.01379v2)** | 2026-02-22 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 2 tables</p></details> |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ADIOSS Automatic Diagnostic Of System Simulations](https://arxiv.org/abs/2603.13504v1)** | 2026-03-13 | <details><summary>Submi...</summary><p>Submitted to Mechanics & Industry. 18 pages, 9 figures, 9 tables</p></details> |
+| **[Deep Invertible Autoencoders for Dimensionality Reduction of Dynamical Systems](https://arxiv.org/abs/2603.13496v1)** | 2026-03-13 |  |
 | **[Hyper-reduction-free reduced-order Newton solvers for projection-based model-order reduction of nonlinear dynamical systems](https://arxiv.org/abs/2603.03420v1)** | 2026-03-03 | 23 pages, 11 figures |
 | **[Automatic and Structure-Aware Sparsification of Hybrid Neural ODEs](https://arxiv.org/abs/2505.18996v3)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at The 14th International Conference on Learning Representations (ICLR) 2026</p></details> |
 | **[Degrees-of-Freedom Approximations for Conditional-Mean Inference in Random-Lot Stability Analysis](https://arxiv.org/abs/2602.10026v1)** | 2026-02-10 |  |
@@ -49,12 +51,13 @@ labels: documentation
 | **[Filtered Neural Galerkin model reduction schemes for efficient propagation of initial condition uncertainties in digital twins](https://arxiv.org/abs/2511.00670v1)** | 2025-11-01 |  |
 | **[Towards Interpretable Deep Learning and Analysis of Dynamical Systems via the Discrete Empirical Interpolation Method](https://arxiv.org/abs/2510.21852v1)** | 2025-10-22 | 9 pages, 12 figures |
 | **[C-SWAP: Explainability-Aware Structured Pruning for Efficient Neural Networks Compression](https://arxiv.org/abs/2510.18636v1)** | 2025-10-21 | 10 pages, BMVC2025 |
-| **[Asynchronous Agents with Perfect Recall: Model Reductions, Knowledge-Based Construction, and Model Checking for Coalitional Strategies](https://arxiv.org/abs/2412.06706v2)** | 2025-10-20 |  |
-| **[A Bayesian Framework for Symmetry Inference in Chaotic Attractors](https://arxiv.org/abs/2510.16509v1)** | 2025-10-18 |  |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nonlinear Model Order Reduction for Coupled Aeroelastic-Flight Dynamic Systems](https://arxiv.org/abs/2603.15296v1)** | 2026-03-16 |  |
+| **[A convolutional autoencoder and neural ODE framework for surrogate modeling of transient counterflow flames](https://arxiv.org/abs/2603.15038v1)** | 2026-03-16 | <details><summary>Submi...</summary><p>Submitted to the Proceedings of the Combustion Institute, Volume 42</p></details> |
+| **[Deep Invertible Autoencoders for Dimensionality Reduction of Dynamical Systems](https://arxiv.org/abs/2603.13496v1)** | 2026-03-13 |  |
 | **[Push, Press, Slide: Mode-Aware Planar Contact Manipulation via Reduced-Order Models](https://arxiv.org/abs/2603.12399v1)** | 2026-03-12 | <details><summary>8 pag...</summary><p>8 pages, 13 figures. Submitted to IEEE IROS 2026</p></details> |
 | **[Dynamic Modeling and Attitude Control of a Reaction-Wheel-Based Low-Gravity Bipedal Hopper](https://arxiv.org/abs/2603.10670v1)** | 2026-03-11 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[NN-OpInf: an operator inference approach using structure-preserving composable neural networks](https://arxiv.org/abs/2603.08488v1)** | 2026-03-09 |  |
@@ -72,37 +75,35 @@ labels: documentation
 | **[Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach](https://arxiv.org/abs/2602.22188v1)** | 2026-02-25 |  |
 | **[Nonlinear Predictive Control of the Continuum and Hybrid Dynamics of a Suspended Deformable Cable for Aerial Pick and Place](https://arxiv.org/abs/2602.17199v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted to the IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
 | **[Solving Inverse Parametrized Problems via Finite Elements and Extreme Learning Networks](https://arxiv.org/abs/2602.14757v1)** | 2026-02-16 |  |
-| **[A Structured Neural ODE Approach for Real Time Evaluation of AC Losses in 3D Superconducting Tapes](https://arxiv.org/abs/2510.14487v2)** | 2026-02-16 | <details><summary>in IE...</summary><p>in IEEE Transactions on Applied Superconductivity, 2026</p></details> |
-| **[AquaROM: shape optimization pipeline for soft swimmers using parametric reduced order models](https://arxiv.org/abs/2511.01031v2)** | 2026-02-16 |  |
-| **[A Multi-Fidelity Control Variate Approach for Policy Gradient Estimation](https://arxiv.org/abs/2503.05696v4)** | 2026-02-12 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Parameterized complexity of the f-Critical Set problem](https://arxiv.org/abs/2511.11546v2)** | 2026-03-13 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 1 table</p></details> |
-| **[Learnable Koopman-Enhanced Transformer-Based Time Series Forecasting with Spectral Control](https://arxiv.org/abs/2602.02592v2)** | 2026-03-13 |  |
-| **[Adaptive Diffusion Posterior Sampling for Data and Model Fusion of Complex Nonlinear Dynamical Systems](https://arxiv.org/abs/2603.12635v1)** | 2026-03-13 |  |
-| **[Deep Learning-Based Metamodeling of Nonlinear Stochastic Dynamic Systems under Parametric and Predictive Uncertainty](https://arxiv.org/abs/2603.12012v1)** | 2026-03-12 |  |
-| **[A Foundational Theory of Quantitative Abstraction: Adjunctions, Duality, and Logic for Probabilistic Systems](https://arxiv.org/abs/2510.19444v3)** | 2026-03-12 | <details><summary>Some ...</summary><p>Some major mathematical errors that we need to rectify. We cannot specify exact error areas as they are spread throughout. The theorems need further development</p></details> |
-| **[Context-dependent manifold learning: A neuromodulated constrained autoencoder approach](https://arxiv.org/abs/2603.11673v1)** | 2026-03-12 | 14 pages, 10 figures |
-| **[Limited Reasoning Space: The cage of long-horizon reasoning in LLMs](https://arxiv.org/abs/2602.19281v2)** | 2026-03-12 |  |
-| **[Factorized Neural Implicit DMD for Parametric Dynamics](https://arxiv.org/abs/2603.10995v1)** | 2026-03-11 |  |
-| **[MCMC Informed Neural Emulators for Uncertainty Quantification in Dynamical Systems](https://arxiv.org/abs/2603.10987v1)** | 2026-03-11 |  |
-| **[Panda: A pretrained forecast model for chaotic dynamics](https://arxiv.org/abs/2505.13755v3)** | 2026-03-11 |  |
-| **[Dynamics-Predictive Sampling for Active RL Finetuning of Large Reasoning Models](https://arxiv.org/abs/2603.10887v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Dynamics-Informed Deep Learning for Predicting Extreme Events](https://arxiv.org/abs/2603.10777v1)** | 2026-03-11 |  |
-| **[DRESS and the WL Hierarchy: Climbing One Deletion at a Time](https://arxiv.org/abs/2602.21557v5)** | 2026-03-11 |  |
-| **[DRESS: A Continuous Framework for Structural Graph Refinement](https://arxiv.org/abs/2602.20833v6)** | 2026-03-11 |  |
-| **[Synthesizing Interpretable Control Policies through Large Language Model Guided Search](https://arxiv.org/abs/2410.05406v3)** | 2026-03-10 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, conference paper</p></details> |
-| **[A neural operator for predicting vibration frequency response curves from limited data](https://arxiv.org/abs/2603.10149v1)** | 2026-03-10 |  |
-| **[Upper Generalization Bounds for Neural Oscillators](https://arxiv.org/abs/2603.09742v1)** | 2026-03-10 | <details><summary>This ...</summary><p>This manuscript contains 25 pages with 4 figures</p></details> |
-| **[Symbolic Discovery of Stochastic Differential Equations with Genetic Programming](https://arxiv.org/abs/2603.09597v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 4 tables</p></details> |
-| **[Continual uncertainty learning](https://arxiv.org/abs/2602.17174v2)** | 2026-03-10 |  |
-| **[Stochastic Port-Hamiltonian Neural Networks: Universal Approximation with Passivity Guarantees](https://arxiv.org/abs/2603.10078v1)** | 2026-03-10 |  |
+| **[On transferring safety certificates across dynamical systems](https://arxiv.org/abs/2602.03987v2)** | 2026-03-16 |  |
+| **[TI-DeepONet: Learnable Time Integration for Stable Long-Term Extrapolation](https://arxiv.org/abs/2505.17341v3)** | 2026-03-16 | <details><summary>32 pa...</summary><p>32 pages (including references), 22 figures</p></details> |
+| **[Zero-Shot Generalization from Motion Demonstrations to New Tasks](https://arxiv.org/abs/2603.15445v1)** | 2026-03-16 |  |
+| **[From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence](https://arxiv.org/abs/2601.03220v2)** | 2026-03-16 | <details><summary>Code ...</summary><p>Code available at https://github.com/shikaiqiu/epiplexity</p></details> |
+| **[Deep learning and the rate of approximation by flows](https://arxiv.org/abs/2603.15363v1)** | 2026-03-16 |  |
+| **[Enhancing classification accuracy through chaos](https://arxiv.org/abs/2603.15299v1)** | 2026-03-16 | 23 pages, 8 figures |
+| **[Nonlinear Model Order Reduction for Coupled Aeroelastic-Flight Dynamic Systems](https://arxiv.org/abs/2603.15296v1)** | 2026-03-16 |  |
+| **[Storage and selection of multiple chaotic attractors in minimal reservoir computers](https://arxiv.org/abs/2603.15155v1)** | 2026-03-16 |  |
+| **[Ultra-Early Prediction of Tipping Points: Integrating Dynamical Measures with Reservoir Computing](https://arxiv.org/abs/2603.14944v1)** | 2026-03-16 |  |
+| **[A Score Filter Enhanced Data Assimilation Framework for Data-Driven Dynamical Systems](https://arxiv.org/abs/2603.14863v1)** | 2026-03-16 |  |
+| **[OpenReservoirComputing: GPU-Accelerated Reservoir Computing in JAX](https://arxiv.org/abs/2603.14802v1)** | 2026-03-16 |  |
+| **[Agentic Exploration of Physics Models](https://arxiv.org/abs/2509.24978v5)** | 2026-03-16 |  |
+| **[Online Learning for Supervisory Switching Control](https://arxiv.org/abs/2603.14762v1)** | 2026-03-16 |  |
+| **[Disentangling Dynamical Systems: Causal Representation Learning Meets Local Sparse Attention](https://arxiv.org/abs/2603.14483v1)** | 2026-03-15 |  |
+| **[Spiking neurons as predictive controllers of linear systems](https://arxiv.org/abs/2507.16495v2)** | 2026-03-15 |  |
+| **[Frequency-Separable Hamiltonian Neural Network for Multi-Timescale Dynamics](https://arxiv.org/abs/2603.06354v2)** | 2026-03-15 |  |
+| **[Is the reconstruction loss culprit? An attempt to outperform JEPA](https://arxiv.org/abs/2603.14131v1)** | 2026-03-14 |  |
+| **[Physics-Informed Deep B-Spline Networks](https://arxiv.org/abs/2503.16777v3)** | 2026-03-14 |  |
+| **[EyeWorld: A Generative World Model of Ocular State and Dynamics](https://arxiv.org/abs/2603.14039v1)** | 2026-03-14 | 38 pages, 8 figures |
+| **[Manifold-Orthogonal Dual-spectrum Extrapolation for Parameterized Physics-Informed Neural Networks](https://arxiv.org/abs/2603.13751v1)** | 2026-03-14 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trustworthy Koopman Operator Learning: Invariance Diagnostics and Error Bounds](https://arxiv.org/abs/2603.15091v1)** | 2026-03-16 |  |
 | **[Learnable Koopman-Enhanced Transformer-Based Time Series Forecasting with Spectral Control](https://arxiv.org/abs/2602.02592v2)** | 2026-03-13 |  |
 | **[Factorized Neural Implicit DMD for Parametric Dynamics](https://arxiv.org/abs/2603.10995v1)** | 2026-03-11 |  |
 | **[Provably Safe Trajectory Generation for Manipulators Under Motion and Environmental Uncertainties](https://arxiv.org/abs/2603.09083v1)** | 2026-03-10 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Toeplitz Based Spectral Methods for Data-driven Dynamical Systems](https://arxiv.org/abs/2602.09791v1)** | 2026-02-10 | 18 pages, 3 figures |
 | **[Generative Modeling through Koopman Spectral Analysis: An Operator-Theoretic Perspective](https://arxiv.org/abs/2512.18837v3)** | 2026-02-08 |  |
 | **[Low-Rank Koopman Deformables with Log-Linear Time Integration](https://arxiv.org/abs/2602.07687v1)** | 2026-02-07 |  |
-| **[Visual Prompt-Agnostic Evolution](https://arxiv.org/abs/2601.20232v2)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
