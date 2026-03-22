@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 20, 2026
+title: Latest 20 Papers - March 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model Order Reduction of Cerebrovascular Hemodynamics Using POD_Galerkin and Reservoir Computing_based Approach](https://arxiv.org/abs/2603.18837v1)** | 2026-03-19 | 24 pages, 15 figures |
+| **[Koopman Autoencoders with Continuous-Time Latent Dynamics for Fluid Dynamics Forecasting](https://arxiv.org/abs/2602.02832v2)** | 2026-03-19 |  |
+| **[Surrogate Model for Heat Transfer Prediction in Impinging Jet Arrays using Dynamic Inlet/Outlet and Flow Rate Control](https://arxiv.org/abs/2507.07034v2)** | 2026-03-18 | 39 pages, 12 figures |
 | **[Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data](https://arxiv.org/abs/2603.17516v1)** | 2026-03-18 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 4 tables</p></details> |
 | **[Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields](https://arxiv.org/abs/2602.08029v2)** | 2026-03-17 | CVPR 2026 |
 | **[DiFVM: A Vectorized Graph-Based Finite Volume Solver for Differentiable CFD on Unstructured Meshes](https://arxiv.org/abs/2603.15920v1)** | 2026-03-16 | 44 pages, 13 figures |
@@ -24,9 +27,6 @@ labels: documentation
 | **[Improved accuracy of continuum surface flux models for metal additive manufacturing melt pool simulations](https://arxiv.org/abs/2401.12114v4)** | 2026-03-04 |  |
 | **[Latent attention on masked patches for flow reconstruction](https://arxiv.org/abs/2603.02028v1)** | 2026-03-02 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted to ICCS (International Conference on Computational Science) 2026</p></details> |
 | **[Data-Free PINNs for Compressible Flows: Mitigating Spectral Bias and Gradient Pathologies via Mach-Guided Scaling and Hybrid Convolutions](https://arxiv.org/abs/2603.01001v1)** | 2026-03-01 |  |
-| **[Do We Need Tensor Cores for Stencil Computations?](https://arxiv.org/abs/2603.00477v1)** | 2026-02-28 |  |
-| **[Model Predictive Control with Reference Learning for Soft Robotic Intracranial Pressure Waveform Modulation](https://arxiv.org/abs/2509.13109v2)** | 2026-02-27 |  |
-| **[Learning Disease-Sensitive Latent Interaction Graphs From Noisy Cardiac Flow Measurements](https://arxiv.org/abs/2602.23035v1)** | 2026-02-26 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -55,6 +55,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model Reference Adaptive Control For Gust Load Allevation of Nonlinear Aeroelastic](https://arxiv.org/abs/2603.18584v1)** | 2026-03-19 | 17 |
 | **[End-to-end data-driven prediction of urban airflow and pollutant dispersion](https://arxiv.org/abs/2603.17606v1)** | 2026-03-18 | 22 pages, 22 figures |
 | **[H Infinity Robust Control for Gust Load Alleviation of Geometrically Nonlinear Flexible Aircraft](https://arxiv.org/abs/2603.17443v1)** | 2026-03-18 | 11 |
 | **[Data-driven model order reduction for structures with piecewise linear nonlinearity using dynamic mode decomposition](https://arxiv.org/abs/2603.17423v1)** | 2026-03-18 |  |
@@ -74,11 +75,13 @@ labels: documentation
 | **[KROM: Kernelized Reduced Order Modeling](https://arxiv.org/abs/2603.00360v1)** | 2026-02-27 |  |
 | **[Scalable Gaussian process modeling of parametrized spatio-temporal fields](https://arxiv.org/abs/2603.00290v1)** | 2026-02-27 |  |
 | **[Deep Learning for Subspace Regression](https://arxiv.org/abs/2509.23249v3)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026, reviewed at https://openreview.net/forum?id=HF60Lu1Maj</p></details> |
-| **[Hyper-reduction methods for accelerating nonlinear finite element simulations: open source implementation and reproducible benchmarks](https://arxiv.org/abs/2602.23551v1)** | 2026-02-26 |  |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Smoothness and other hyperparameter estimation for inverse problems related to data assimilation](https://arxiv.org/abs/2602.18328v2)** | 2026-03-19 | 28 pages, 11 figures |
+| **[SINDy-KANs: Sparse identification of non-linear dynamics through Kolmogorov-Arnold networks](https://arxiv.org/abs/2603.18548v1)** | 2026-03-19 |  |
+| **[Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach](https://arxiv.org/abs/2602.18377v2)** | 2026-03-18 | 36 pages, 14 figures |
 | **[Actionable Recourse in Competitive Environments: A Dynamic Game of Endogenous Selection](https://arxiv.org/abs/2603.17907v1)** | 2026-03-18 |  |
 | **[JAWS: Enhancing Long-term Rollout of Neural PDE Solvers via Spatially-Adaptive Jacobian Regularization](https://arxiv.org/abs/2603.05538v2)** | 2026-03-18 | 22 pages, 18 figures |
 | **[Deep learning and the rate of approximation by flows](https://arxiv.org/abs/2603.15363v2)** | 2026-03-18 |  |
@@ -96,33 +99,30 @@ labels: documentation
 | **[Rapid Worst-Case Gust Identification for Very Flexible Aircraft Using Reduced-Order Models](https://arxiv.org/abs/2603.16212v1)** | 2026-03-17 |  |
 | **[Deep Adaptive Model-Based Design of Experiments](https://arxiv.org/abs/2603.16146v1)** | 2026-03-17 |  |
 | **[Tau-BNO: Brain Neural Operator for Tau Transport Model](https://arxiv.org/abs/2603.08108v2)** | 2026-03-17 |  |
-| **[A-UTE: Advection Informed, Uncertainty Aware Temperature Emulator](https://arxiv.org/abs/2410.21657v5)** | 2026-03-16 |  |
-| **[On transferring safety certificates across dynamical systems](https://arxiv.org/abs/2602.03987v2)** | 2026-03-16 |  |
-| **[TI-DeepONet: Learnable Time Integration for Stable Long-Term Extrapolation](https://arxiv.org/abs/2505.17341v3)** | 2026-03-16 | <details><summary>32 pa...</summary><p>32 pages (including references), 22 figures</p></details> |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foundational Analysis Of The Solvability Complexity Index: The Weihrauch-SCI Intermediate Hierarchy And A Koopman Operator Example](https://arxiv.org/abs/2603.18955v1)** | 2026-03-19 | <details><summary>62 pa...</summary><p>62 pages: 39 pages + Appendix</p></details> |
+| **[Whole-Body Safe Control of Robotic Systems with Koopman Neural Dynamics](https://arxiv.org/abs/2603.03740v3)** | 2026-03-19 |  |
 | **[Physics-informed Deep Mixture-of-Koopmans Vehicle Dynamics Model with Dual-branch Encoder for Distributed Electric-drive Trucks](https://arxiv.org/abs/2603.17416v1)** | 2026-03-18 | <details><summary>13 pa...</summary><p>13 pages, 8 tables, 7 figures</p></details> |
 | **[Lyapunov Constrained Soft Actor-Critic (LC-SAC) using Koopman Operator Theory for Quadrotor Trajectory Tracking](https://arxiv.org/abs/2602.04132v3)** | 2026-03-17 | <details><summary>11 pa...</summary><p>11 pages, 7 Figures, submitted to IEEE RA-L</p></details> |
 | **[Trustworthy Koopman Operator Learning: Invariance Diagnostics and Error Bounds](https://arxiv.org/abs/2603.15091v1)** | 2026-03-16 |  |
 | **[Learnable Koopman-Enhanced Transformer-Based Time Series Forecasting with Spectral Control](https://arxiv.org/abs/2602.02592v2)** | 2026-03-13 |  |
 | **[Factorized Neural Implicit DMD for Parametric Dynamics](https://arxiv.org/abs/2603.10995v1)** | 2026-03-11 |  |
+| **[Taming Epilepsy: Mean Field Control of Whole-Brain Dynamics](https://arxiv.org/abs/2603.18035v1)** | 2026-03-11 | 22 pages, 7 figures |
 | **[Provably Safe Trajectory Generation for Manipulators Under Motion and Environmental Uncertainties](https://arxiv.org/abs/2603.09083v1)** | 2026-03-10 |  |
 | **[Electrocardiogram Classification with Transformers Using Koopman and Wavelet Features](https://arxiv.org/abs/2603.08339v1)** | 2026-03-09 |  |
 | **[Safe Navigation of Bipedal Robots via Koopman Operator-Based Model Predictive Control](https://arxiv.org/abs/2409.14736v3)** | 2026-03-07 | 9 pages |
 | **[Kernel Methods for Some Transport Equations with Application to Learning Kernels for the Approximation of Koopman Eigenfunctions: A Unified Approach via Variational Methods, Green's Functions and the Method of Characteristics](https://arxiv.org/abs/2603.06872v1)** | 2026-03-06 |  |
 | **[Koopman Regularized Deep Speech Disentanglement for Speaker Verification](https://arxiv.org/abs/2603.05577v1)** | 2026-03-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Accelerating Sampling-Based Control via Learned Linear Koopman Dynamics](https://arxiv.org/abs/2603.05385v1)** | 2026-03-05 |  |
-| **[Whole-Body Safe Control of Robotic Systems with Koopman Neural Dynamics](https://arxiv.org/abs/2603.03740v2)** | 2026-03-05 |  |
 | **[Modeling and Control of a Pneumatic Soft Robotic Catheter Using Neural Koopman Operators](https://arxiv.org/abs/2603.04118v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
 | **[Generalized Momenta-Based Koopman Formalism for Robust Control of Euler-Lagrangian Systems](https://arxiv.org/abs/2509.17010v2)** | 2026-02-27 |  |
 | **[Why High-rank Neural Networks Generalize?: An Algebraic Framework with RKHSs](https://arxiv.org/abs/2509.21895v2)** | 2026-02-24 |  |
 | **[Scaling Law of Neural Koopman Operators](https://arxiv.org/abs/2602.19943v1)** | 2026-02-23 |  |
 | **[On the Surprising Effectiveness of Spectral Clipping in Learning Stable Linear and Latent-Linear Dynamical Systems](https://arxiv.org/abs/2412.01168v7)** | 2026-02-14 |  |
 | **[Minimum distance classification for nonlinear dynamical systems](https://arxiv.org/abs/2601.04058v2)** | 2026-02-12 |  |
-| **[Going with the Flow: Koopman Behavioral Models as Implicit Planners for Visuo-Motor Dexterity](https://arxiv.org/abs/2602.07413v2)** | 2026-02-10 | <details><summary>Codes...</summary><p>Codes can be found at https://github.com/GT-STAR-Lab/K-UBM/</p></details> |
-| **[Toeplitz Based Spectral Methods for Data-driven Dynamical Systems](https://arxiv.org/abs/2602.09791v1)** | 2026-02-10 | 18 pages, 3 figures |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
