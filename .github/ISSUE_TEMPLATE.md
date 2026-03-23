@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 23, 2026
+title: Latest 20 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Material Network: Overview, applications and current directions](https://arxiv.org/abs/2504.12159v2)** | 2026-03-20 |  |
 | **[Model Reference Adaptive Control For Gust Load Allevation of Nonlinear Aeroelastic](https://arxiv.org/abs/2603.18584v1)** | 2026-03-19 | 17 |
 | **[End-to-end data-driven prediction of urban airflow and pollutant dispersion](https://arxiv.org/abs/2603.17606v1)** | 2026-03-18 | 22 pages, 22 figures |
 | **[H Infinity Robust Control for Gust Load Alleviation of Geometrically Nonlinear Flexible Aircraft](https://arxiv.org/abs/2603.17443v1)** | 2026-03-18 | 11 |
@@ -74,11 +75,12 @@ labels: documentation
 | **[Efficient Aircraft Design Optimization Using Multi-Fidelity Models and Multi-fidelity Physics Informed Neural Networks](https://arxiv.org/abs/2412.18564v2)** | 2026-02-28 | 7 pages, 3 figures |
 | **[KROM: Kernelized Reduced Order Modeling](https://arxiv.org/abs/2603.00360v1)** | 2026-02-27 |  |
 | **[Scalable Gaussian process modeling of parametrized spatio-temporal fields](https://arxiv.org/abs/2603.00290v1)** | 2026-02-27 |  |
-| **[Deep Learning for Subspace Regression](https://arxiv.org/abs/2509.23249v3)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026, reviewed at https://openreview.net/forum?id=HF60Lu1Maj</p></details> |
 
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structural Controllability of Large-Scale Hypergraphs](https://arxiv.org/abs/2603.19955v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 1 table</p></details> |
+| **[IRIS: A Real-World Benchmark for Inverse Recovery and Identification of Physical Dynamic Systems from Monocular Video](https://arxiv.org/abs/2603.16432v2)** | 2026-03-20 |  |
 | **[Smoothness and other hyperparameter estimation for inverse problems related to data assimilation](https://arxiv.org/abs/2602.18328v2)** | 2026-03-19 | 28 pages, 11 figures |
 | **[SINDy-KANs: Sparse identification of non-linear dynamics through Kolmogorov-Arnold networks](https://arxiv.org/abs/2603.18548v1)** | 2026-03-19 |  |
 | **[Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach](https://arxiv.org/abs/2602.18377v2)** | 2026-03-18 | 36 pages, 14 figures |
@@ -95,14 +97,14 @@ labels: documentation
 | **[Unifying Optimization and Dynamics to Parallelize Sequential Computation: A Guide to Parallel Newton Methods for Breaking Sequential Bottlenecks](https://arxiv.org/abs/2603.16850v1)** | 2026-03-17 | <details><summary>PhD D...</summary><p>PhD Dissertation; Stanford University</p></details> |
 | **[Learning Lineage-guided Geodesics with Finsler Geometry](https://arxiv.org/abs/2603.16708v1)** | 2026-03-17 |  |
 | **[Block-Recurrent Dynamics in Vision Transformers](https://arxiv.org/abs/2512.19941v6)** | 2026-03-17 | 25 pages, 15 figures |
-| **[IRIS: A Real-World Benchmark for Inverse Recovery and Identification of Physical Dynamic Systems from Monocular Video](https://arxiv.org/abs/2603.16432v1)** | 2026-03-17 |  |
 | **[Rapid Worst-Case Gust Identification for Very Flexible Aircraft Using Reduced-Order Models](https://arxiv.org/abs/2603.16212v1)** | 2026-03-17 |  |
 | **[Deep Adaptive Model-Based Design of Experiments](https://arxiv.org/abs/2603.16146v1)** | 2026-03-17 |  |
-| **[Tau-BNO: Brain Neural Operator for Tau Transport Model](https://arxiv.org/abs/2603.08108v2)** | 2026-03-17 |  |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[End-to-end guarantees for indirect data-driven control of bilinear systems with finite stochastic data](https://arxiv.org/abs/2409.18010v4)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted for publication in Automatica</p></details> |
+| **[ReLaX: Reasoning with Latent Exploration for Large Reasoning Models](https://arxiv.org/abs/2512.07558v2)** | 2026-03-20 |  |
 | **[Foundational Analysis Of The Solvability Complexity Index: The Weihrauch-SCI Intermediate Hierarchy And A Koopman Operator Example](https://arxiv.org/abs/2603.18955v1)** | 2026-03-19 | <details><summary>62 pa...</summary><p>62 pages: 39 pages + Appendix</p></details> |
 | **[Whole-Body Safe Control of Robotic Systems with Koopman Neural Dynamics](https://arxiv.org/abs/2603.03740v3)** | 2026-03-19 |  |
 | **[Physics-informed Deep Mixture-of-Koopmans Vehicle Dynamics Model with Dual-branch Encoder for Distributed Electric-drive Trucks](https://arxiv.org/abs/2603.17416v1)** | 2026-03-18 | <details><summary>13 pa...</summary><p>13 pages, 8 tables, 7 figures</p></details> |
@@ -121,8 +123,6 @@ labels: documentation
 | **[Generalized Momenta-Based Koopman Formalism for Robust Control of Euler-Lagrangian Systems](https://arxiv.org/abs/2509.17010v2)** | 2026-02-27 |  |
 | **[Why High-rank Neural Networks Generalize?: An Algebraic Framework with RKHSs](https://arxiv.org/abs/2509.21895v2)** | 2026-02-24 |  |
 | **[Scaling Law of Neural Koopman Operators](https://arxiv.org/abs/2602.19943v1)** | 2026-02-23 |  |
-| **[On the Surprising Effectiveness of Spectral Clipping in Learning Stable Linear and Latent-Linear Dynamical Systems](https://arxiv.org/abs/2412.01168v7)** | 2026-02-14 |  |
-| **[Minimum distance classification for nonlinear dynamical systems](https://arxiv.org/abs/2601.04058v2)** | 2026-02-12 |  |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
