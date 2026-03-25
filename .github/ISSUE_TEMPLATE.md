@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 25, 2026
+title: Latest 20 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalization Bounds for Physics-Informed Neural Networks for the Incompressible Navier-Stokes Equations](https://arxiv.org/abs/2603.23072v1)** | 2026-03-24 |  |
+| **[Rank-Aware Resource Scheduling for Tightly-Coupled MPI Workloads on Kubernetes](https://arxiv.org/abs/2603.22691v1)** | 2026-03-24 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, 7 tables. Submitted to Journal of Cloud Computing</p></details> |
 | **[Pretrained Video Models as Differentiable Physics Simulators for Urban Wind Flows](https://arxiv.org/abs/2603.21210v1)** | 2026-03-22 |  |
 | **[SLE-FNO: Single-Layer Extensions for Task-Agnostic Continual Learning in Fourier Neural Operators](https://arxiv.org/abs/2603.20410v1)** | 2026-03-20 |  |
 | **[Model Order Reduction of Cerebrovascular Hemodynamics Using POD_Galerkin and Reservoir Computing_based Approach](https://arxiv.org/abs/2603.18837v1)** | 2026-03-19 | 24 pages, 15 figures |
@@ -25,8 +27,6 @@ labels: documentation
 | **[MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention](https://arxiv.org/abs/2512.01738v2)** | 2026-03-09 |  |
 | **[ROSplane 2.0: A Fixed-Wing Autopilot for Research](https://arxiv.org/abs/2510.01041v2)** | 2026-03-06 | <details><summary>Submi...</summary><p>Submitted to the 2026 International Conference on Unmanned Aerial Systems</p></details> |
 | **[Prediction of Steady-State Flow through Porous Media Using Machine Learning Models](https://arxiv.org/abs/2603.06762v1)** | 2026-03-06 |  |
-| **[Data-Driven Control of a Magnetically Actuated Fish-Like Robot](https://arxiv.org/abs/2603.04787v1)** | 2026-03-05 | <details><summary>Autho...</summary><p>Author's version of the paper presented at AROB-ISBC 2026</p></details> |
-| **[Foam-Agent: Towards Automated Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997v2)** | 2026-03-05 |  |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,17 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://arxiv.org/abs/2603.23497v1)** | 2026-03-24 |  |
+| **[Deep Adaptive Model-Based Design of Experiments](https://arxiv.org/abs/2603.16146v2)** | 2026-03-24 |  |
+| **[On the Decidability of Monadic Theories of Arithmetic Predicates](https://arxiv.org/abs/2405.07953v4)** | 2026-03-24 | <details><summary>32 pa...</summary><p>32 pages, conference version of "On the Decidability of Monadic Second-Order Logic with Arithmetic Predicates" from LICS 2024 (Distinguished Paper Award)</p></details> |
+| **[Learning dynamically inspired bases for Koopman and transfer operator approximation](https://arxiv.org/abs/2505.05085v3)** | 2026-03-24 | 26 pages, 16 figures |
+| **[Learning Actuator-Aware Spectral Submanifolds for Precise Control of Continuum Robots](https://arxiv.org/abs/2603.23044v1)** | 2026-03-24 |  |
+| **[Design Guidelines for Nonlinear Kalman Filters via Covariance Compensation](https://arxiv.org/abs/2603.22992v1)** | 2026-03-24 | <details><summary>This ...</summary><p>This manuscript has been accepted by ACC 2026</p></details> |
+| **[Dynamical Systems Theory Behind a Hierarchical Reasoning Model](https://arxiv.org/abs/2603.22871v1)** | 2026-03-24 |  |
+| **[Generalizing Dynamics Modeling More Easily from Representation Perspective](https://arxiv.org/abs/2603.22655v1)** | 2026-03-24 |  |
+| **[Causal Discovery in Action: Learning Chain-Reaction Mechanisms from Interventions](https://arxiv.org/abs/2603.22620v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted to the 5th Conference on Causal Learning and Reasoning (CLeaR 2026)</p></details> |
+| **[Hebbian Attractor Networks for Robot Locomotion](https://arxiv.org/abs/2603.22512v1)** | 2026-03-23 | 8 Pages |
+| **[Flow-Aware Ellipsoidal Filtration for Persistent Homology of Recurrent Signals](https://arxiv.org/abs/2510.17735v2)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for publication in Chaos: An Interdisciplinary Journal of Nonlinear Science. DOI: 10.1063/5.0317749</p></details> |
 | **[Noise Titration: Exact Distributional Benchmarking for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2603.22219v1)** | 2026-03-23 |  |
 | **[BayesFlow 2: Multi-Backend Amortized Bayesian Inference in Python](https://arxiv.org/abs/2602.07098v2)** | 2026-03-23 |  |
 | **[Identifiability and amortized inference limitations in Kuramoto models](https://arxiv.org/abs/2603.21752v1)** | 2026-03-23 |  |
@@ -88,21 +99,12 @@ labels: documentation
 | **[Learning Hidden Physics and System Parameters with Deep Operator Networks](https://arxiv.org/abs/2412.05133v3)** | 2026-03-22 |  |
 | **[Constrained Online Convex Optimization with Memory and Predictions](https://arxiv.org/abs/2603.21375v1)** | 2026-03-22 | <details><summary>accep...</summary><p>accepted to AAAI 2026</p></details> |
 | **[Adaptive and robust experimental design for linear dynamical models using Kalman filter](https://arxiv.org/abs/2603.21370v1)** | 2026-03-22 |  |
-| **[Preliminary sonification of ENSO using traditional Javanese gamelan scales](https://arxiv.org/abs/2602.14560v2)** | 2026-03-22 | 15 pages, 7 figures |
-| **[Joint Surrogate Learning of Objectives, Constraints, and Sensitivities for Efficient Multi-objective Optimization of Neural Dynamical Systems](https://arxiv.org/abs/2603.20984v1)** | 2026-03-22 |  |
-| **[LLM-ODE: Data-driven Discovery of Dynamical Systems with Large Language Models](https://arxiv.org/abs/2603.20910v1)** | 2026-03-21 |  |
-| **[Auto-differentiable data assimilation: Co-learning of states, dynamics, and filtering algorithms](https://arxiv.org/abs/2603.20891v1)** | 2026-03-21 |  |
-| **[Variational Neural Networks for Observable Thermodynamics (V-NOTS)](https://arxiv.org/abs/2509.09899v2)** | 2026-03-21 | 31 pages, 6 figures |
-| **[From Data to Laws: Neural Discovery of Conservation Laws Without False Positives](https://arxiv.org/abs/2603.20474v1)** | 2026-03-20 |  |
-| **[Goal-oriented learning of stochastic dynamical systems using error bounds on path-space observables](https://arxiv.org/abs/2603.20467v1)** | 2026-03-20 |  |
-| **[Beyond Static Models: Hypernetworks for Adaptive and Generalizable Forecasting in Complex Parametric Dynamical Systems](https://arxiv.org/abs/2506.19609v2)** | 2026-03-20 |  |
-| **[The FABRIC Strategy for Verifying Neural Feedback Systems](https://arxiv.org/abs/2603.08964v2)** | 2026-03-20 |  |
-| **[Operator Learning for Smoothing and Forecasting](https://arxiv.org/abs/2603.20359v1)** | 2026-03-20 |  |
-| **[Structural Controllability of Large-Scale Hypergraphs](https://arxiv.org/abs/2603.19955v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 1 table</p></details> |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma](https://arxiv.org/abs/2508.07494v2)** | 2026-03-24 | <details><summary>Revis...</summary><p>Revisions compared to first version: formal analysis of the generalized Koopman composition operator, exact bilinear form with finite-dimensional input Hilbert space for input-affine systems, quantitative persistency of excitation notion for infinite-dimensional bilinear systems, nonlinear fundamental lemma in terms of Hankel operators and frames, addition soft-robotic manipulator example</p></details> |
+| **[Learning dynamically inspired bases for Koopman and transfer operator approximation](https://arxiv.org/abs/2505.05085v3)** | 2026-03-24 | 26 pages, 16 figures |
 | **[FRIREN: Beyond Trajectories -- A Spectral Lens on Time](https://arxiv.org/abs/2505.17370v5)** | 2026-03-23 | <details><summary>37 pa...</summary><p>37 pages, 4 figures. Submitted to NeurIPS 2025. Public code at https://anonymous.4open.science/r/LTSF_model-03BB/</p></details> |
 | **[Conformal Koopman for Embedded Nonlinear Control with Statistical Robustness: Theory and Real-World Validation](https://arxiv.org/abs/2603.21580v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted to the 2026 IEEE International Conference on Robotics and Automation (ICRA). The final published version will be available via IEEE Xplore</p></details> |
 | **[End-to-end guarantees for indirect data-driven control of bilinear systems with finite stochastic data](https://arxiv.org/abs/2409.18010v4)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted for publication in Automatica</p></details> |
@@ -121,8 +123,6 @@ labels: documentation
 | **[Kernel Methods for Some Transport Equations with Application to Learning Kernels for the Approximation of Koopman Eigenfunctions: A Unified Approach via Variational Methods, Green's Functions and the Method of Characteristics](https://arxiv.org/abs/2603.06872v1)** | 2026-03-06 |  |
 | **[Koopman Regularized Deep Speech Disentanglement for Speaker Verification](https://arxiv.org/abs/2603.05577v1)** | 2026-03-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Accelerating Sampling-Based Control via Learned Linear Koopman Dynamics](https://arxiv.org/abs/2603.05385v1)** | 2026-03-05 |  |
-| **[Modeling and Control of a Pneumatic Soft Robotic Catheter Using Neural Koopman Operators](https://arxiv.org/abs/2603.04118v1)** | 2026-03-04 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
-| **[Generalized Momenta-Based Koopman Formalism for Robust Control of Euler-Lagrangian Systems](https://arxiv.org/abs/2509.17010v2)** | 2026-02-27 |  |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
