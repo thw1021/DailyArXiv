@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 01, 2026
+title: Latest 20 Papers - April 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Fluid Dynamics
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards a Certificate of Trust: Task-Aware OOD Detection for Scientific AI](https://arxiv.org/abs/2509.25080v2)** | 2026-03-31 |  |
+| **[LGFNet: Local-Global Fusion Network with Fidelity Gap Delta Learning for Multi-Source Aerodynamics](https://arxiv.org/abs/2603.29303v1)** | 2026-03-31 |  |
 | **[Koopman-based surrogate modeling for reinforcement-learning-control of Rayleigh-Benard convection](https://arxiv.org/abs/2603.28074v1)** | 2026-03-30 |  |
 | **[SIMR-NO: A Spectrally-Informed Multi-Resolution Neural Operator for Turbulent Flow Super-Resolution](https://arxiv.org/abs/2603.28073v1)** | 2026-03-30 |  |
 | **[Hierarchical Tensor Network Structure Search for High-Dimensional Data](https://arxiv.org/abs/2603.27856v1)** | 2026-03-29 |  |
@@ -25,12 +27,11 @@ labels: documentation
 | **[Model Order Reduction of Cerebrovascular Hemodynamics Using POD_Galerkin and Reservoir Computing_based Approach](https://arxiv.org/abs/2603.18837v1)** | 2026-03-19 | 24 pages, 15 figures |
 | **[Koopman Autoencoders with Continuous-Time Latent Dynamics for Fluid Dynamics Forecasting](https://arxiv.org/abs/2602.02832v2)** | 2026-03-19 |  |
 | **[Surrogate Model for Heat Transfer Prediction in Impinging Jet Arrays using Dynamic Inlet/Outlet and Flow Rate Control](https://arxiv.org/abs/2507.07034v2)** | 2026-03-18 | 39 pages, 12 figures |
-| **[Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data](https://arxiv.org/abs/2603.17516v1)** | 2026-03-18 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 4 tables</p></details> |
-| **[Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields](https://arxiv.org/abs/2602.08029v2)** | 2026-03-17 | CVPR 2026 |
 
 ## Model Reduction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalized Resistance Geometry from Kron Reduction and Effective Resistance](https://arxiv.org/abs/2603.29675v1)** | 2026-03-31 |  |
 | **[Regularization Implies balancedness in the deep linear network](https://arxiv.org/abs/2511.01137v2)** | 2026-03-23 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Fixed minor errors in revision, added more context and created Discussion section</p></details> |
 | **[ADIOSS Automatic Diagnostic Of System Simulations](https://arxiv.org/abs/2603.13504v1)** | 2026-03-13 | <details><summary>Submi...</summary><p>Submitted to Mechanics & Industry. 18 pages, 9 figures, 9 tables</p></details> |
 | **[Deep Invertible Autoencoders for Dimensionality Reduction of Dynamical Systems](https://arxiv.org/abs/2603.13496v1)** | 2026-03-13 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Dynamic Shape Control of Soft Robots Enabled by Data-Driven Model Reduction](https://arxiv.org/abs/2511.03931v1)** | 2025-11-06 | 20 Pages, 8 Figures |
 | **[Filtered Neural Galerkin model reduction schemes for efficient propagation of initial condition uncertainties in digital twins](https://arxiv.org/abs/2511.00670v1)** | 2025-11-01 |  |
 | **[Towards Interpretable Deep Learning and Analysis of Dynamical Systems via the Discrete Empirical Interpolation Method](https://arxiv.org/abs/2510.21852v1)** | 2025-10-22 | 9 pages, 12 figures |
-| **[C-SWAP: Explainability-Aware Structured Pruning for Efficient Neural Networks Compression](https://arxiv.org/abs/2510.18636v1)** | 2025-10-21 | 10 pages, BMVC2025 |
 
 ## Reduced Order Model
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,12 @@ labels: documentation
 ## Dynamical System
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Big2Small: A Unifying Neural Network Framework for Model Compression](https://arxiv.org/abs/2603.29768v1)** | 2026-03-31 |  |
+| **[Smooth Quasar-Convex Optimization with Constraints](https://arxiv.org/abs/2510.01943v2)** | 2026-03-31 | <details><summary>AISTA...</summary><p>AISTATS 2026 final version</p></details> |
+| **[Lie Generator Networks for Nonlinear Partial Differential Equations](https://arxiv.org/abs/2603.29264v1)** | 2026-03-31 | 16 pages, 8 figures |
+| **[Additive systems for $\mathbb{Z}$ are undecidable](https://arxiv.org/abs/2508.17285v2)** | 2026-03-30 | 11 pages |
+| **[Stable Walking for Bipedal Locomotion under Foot-Slip via Virtual Nonholonomic Constraints](https://arxiv.org/abs/2603.29050v1)** | 2026-03-30 |  |
+| **[Optimistic Online LQR via Intrinsic Rewards](https://arxiv.org/abs/2603.28938v1)** | 2026-03-30 |  |
 | **[Beyond Scanpaths: Graph-Based Gaze Simulation in Dynamic Scenes](https://arxiv.org/abs/2603.28319v1)** | 2026-03-30 |  |
 | **[Graph Vector Field: A Unified Framework for Multimodal Health Risk Assessment from Heterogeneous Wearable and Environmental Data Streams](https://arxiv.org/abs/2603.28115v1)** | 2026-03-30 | <details><summary>25 pa...</summary><p>25 pages, 6 appendices. Theoretical framework; no empirical experiments</p></details> |
 | **[Koopman-based surrogate modeling for reinforcement-learning-control of Rayleigh-Benard convection](https://arxiv.org/abs/2603.28074v1)** | 2026-03-30 |  |
@@ -93,16 +99,11 @@ labels: documentation
 | **[Measuring Human Behavior Through Controlled Perturbations: A Framework for Behavioral System Identification](https://arxiv.org/abs/2603.27039v1)** | 2026-03-27 |  |
 | **[Koopman Operator Identification of Model Parameter Trajectories for Temporal Domain Generalization (KOMET)](https://arxiv.org/abs/2603.26923v1)** | 2026-03-27 |  |
 | **[Binned Spectral Power Loss for Improved Prediction of Chaotic Systems](https://arxiv.org/abs/2502.00472v3)** | 2026-03-27 |  |
-| **[Semirings of formal sums and injective partial transformations](https://arxiv.org/abs/2603.26508v1)** | 2026-03-27 |  |
-| **[Physics-Informed Neural Networks and Sequence Encoder: Application to heating and early cooling of thermo-stamping process](https://arxiv.org/abs/2603.26245v1)** | 2026-03-27 |  |
-| **[Introduction to Online Control](https://arxiv.org/abs/2211.09619v7)** | 2026-03-27 | <details><summary>Draft...</summary><p>Draft; comments/suggestions welcome at nonstochastic.control@gmail.com</p></details> |
-| **[Closed-Form Formulas for Designing Ultra-Low Phase-Noise Cross-Coupled Dynamically Body-Biased Only-NMOS LCVCOs](https://arxiv.org/abs/2603.25853v1)** | 2026-03-26 |  |
-| **[Spatiotemporal System Forecasting with Irregular Time Steps via Masked Autoencoder](https://arxiv.org/abs/2603.25597v1)** | 2026-03-26 |  |
-| **[Causal-INSIGHT: Probing Temporal Models to Extract Causal Structure](https://arxiv.org/abs/2603.25473v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at IJCNN, 2026</p></details> |
 
 ## Koopman Operator
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Koopman Operator Framework for Modeling and Control of Off-Road Vehicle on Deformable Terrain](https://arxiv.org/abs/2603.28965v1)** | 2026-03-30 | <details><summary>Submi...</summary><p>Submitted to ASME Journal of Autonomous Vehicles (JAVS-26-1012)</p></details> |
 | **[Koopman Operator Identification of Model Parameter Trajectories for Temporal Domain Generalization (KOMET)](https://arxiv.org/abs/2603.26923v1)** | 2026-03-27 |  |
 | **[Automatic feature identification in least-squares policy iteration using the Koopman operator framework](https://arxiv.org/abs/2603.26464v1)** | 2026-03-27 | 6 pages |
 | **[From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma](https://arxiv.org/abs/2508.07494v2)** | 2026-03-24 | <details><summary>Revis...</summary><p>Revisions compared to first version: formal analysis of the generalized Koopman composition operator, exact bilinear form with finite-dimensional input Hilbert space for input-affine systems, quantitative persistency of excitation notion for infinite-dimensional bilinear systems, nonlinear fundamental lemma in terms of Hankel operators and frames, addition soft-robotic manipulator example</p></details> |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Provably Safe Trajectory Generation for Manipulators Under Motion and Environmental Uncertainties](https://arxiv.org/abs/2603.09083v1)** | 2026-03-10 |  |
 | **[Electrocardiogram Classification with Transformers Using Koopman and Wavelet Features](https://arxiv.org/abs/2603.08339v1)** | 2026-03-09 |  |
 | **[Safe Navigation of Bipedal Robots via Koopman Operator-Based Model Predictive Control](https://arxiv.org/abs/2409.14736v3)** | 2026-03-07 | 9 pages |
-| **[Kernel Methods for Some Transport Equations with Application to Learning Kernels for the Approximation of Koopman Eigenfunctions: A Unified Approach via Variational Methods, Green's Functions and the Method of Characteristics](https://arxiv.org/abs/2603.06872v1)** | 2026-03-06 |  |
 
 ## Hypersonic
 | **Title** | **Date** | **Comment** |
