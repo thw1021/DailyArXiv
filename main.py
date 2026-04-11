@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Fluid Dynamics", "Model Reduction", "Reduced Order Model", "Dynamical System", "Koopman Operator", "Hypersonic"] # TODO add more keywords
+keywords = ["Fluid Dynamics", "Model Reduction", "Reduced Order Model", "Dynamical System", "Koopman Operator", "High-speed flow", "Multiphysics"] # TODO add more keywords
 
 
 max_result = 100 # maximum query results from arXiv API for each keyword
